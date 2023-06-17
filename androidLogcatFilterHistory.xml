@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag=:Retrofit " />
+    <option name="mostRecentlyUsed" value="tag=:PagesViewPagerAdapter message:&quot;onBindViewHolder()&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:PagesViewPagerAdapter message:&quot;onBindViewHolder()&quot;" />
+        <option value="onBindViewHolder" />
         <option value="tag=:Retrofit " />
         <option value="tag=:retrofit " />
         <option value="tag=:AppMetrica " />
@@ -21,8 +23,6 @@
         <option value="level:error package=:ru.plus.bookmate.qa " />
         <option value="pluuus" />
         <option value="tag=:Evgen" />
-        <option value="clientPlace" />
-        <option value="tag=:ComicbookTaskDownloader" />
       </list>
     </option>
   </component>
