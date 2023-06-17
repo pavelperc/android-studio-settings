@@ -1,0 +1,29 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="tag=:Retrofit " />
+    <option name="nonFavorites">
+      <list>
+        <option value="tag=:Retrofit " />
+        <option value="tag=:retrofit " />
+        <option value="tag=:AppMetrica " />
+        <option value="tag=:Evgen " />
+        <option value="{&quot;sync_state&quot;" />
+        <option value="/api/v5/profile/sync_state" />
+        <option value="level:error " />
+        <option value="root.setOnTouchListener" />
+        <option value="tag=:MiniPlayerView" />
+        <option value="tag=:SwipeView" />
+        <option value="assets/" />
+        <option value="large&quot;" />
+        <option value="large =" />
+        <option value="small" />
+        <option value="image" />
+        <option value="level:error package=:ru.plus.bookmate.qa " />
+        <option value="pluuus" />
+        <option value="tag=:Evgen" />
+        <option value="clientPlace" />
+        <option value="tag=:ComicbookTaskDownloader" />
+      </list>
+    </option>
+  </component>
+</application>

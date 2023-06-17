@@ -1,0 +1,31 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping ext="pml" type="C++" />
+      <mapping pattern=".arcignore" type="GitIgnore file" />
+      <mapping pattern="Jenkinsfile-release" type="Groovy" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="ktx" type="Kotlin" />
+      <mapping pattern="Paszzaz2" type="PLAIN_TEXT" />
+      <mapping ext="xltx" type="PLAIN_TEXT" />
+      <mapping ext="encrypted" type="PLAIN_TEXT" />
+      <mapping ext="mp3" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="hpb" type="PLAIN_TEXT" />
+      <mapping ext="stencil" type="PLAIN_TEXT" />
+      <mapping ext="ttx" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="pml" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="qrc" approved="true" type="XML" />
+      <removed_mapping pattern="Jenkinsfile-release" approved="true" type="Native" />
+      <mapping ext="pml" type="C++" />
+      <mapping pattern="debug.*" type="Log" />
+    </extensionMap>
+  </component>
+</application>

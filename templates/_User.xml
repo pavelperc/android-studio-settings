@@ -1,0 +1,54 @@
+<templateSet group="_User">
+  <template name="tag" value="private const val TAG = &quot;$CLASS_NAME$&quot;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="kotlinClassName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="KOTLIN_OBJECT_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="tag_" value="companion object {&#10;    private const val TAG = &quot;$CLASS_NAME$&quot;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="kotlinClassName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="deb" value="com.bookmate.common.logger.d(TAG) { &quot;$METHOD_NAME$(): $END$&quot; }" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="kotlinFunctionName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="warn" value="com.bookmate.common.logger.w(TAG) { &quot;$METHOD_NAME$(): $END$&quot; }" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="kotlinFunctionName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="androidNs" value="xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;" description="Adds android namespace" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="XML_ATTRIBUTE" value="true" />
+      <option name="XSL_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="doc" value="/** $END$*/" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="rule" value="@get:Rule val rule = MockitoJUnit.rule()" description="Rule for mockito" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="binding" value="private val binding by viewBinding($END$)" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="wb" value="with(binding) {&#10;    $END$&#10;}" description="with (binding)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
