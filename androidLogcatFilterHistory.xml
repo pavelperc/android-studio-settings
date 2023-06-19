@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag=:PageView" />
+    <option name="mostRecentlyUsed" value="access_level" />
     <option name="nonFavorites">
       <list>
+        <option value="access_level" />
+        <option value="Retrofit" />
+        <option value="expiration_dates" />
         <option value="level:error " />
         <option value="tag=:PageView" />
         <option value="tag=:PagesViewPagerAdapter message:&quot;onBindViewHolder()&quot;" />
@@ -20,9 +23,6 @@
         <option value="large&quot;" />
         <option value="large =" />
         <option value="small" />
-        <option value="image" />
-        <option value="level:error package=:ru.plus.bookmate.qa " />
-        <option value="pluuus" />
       </list>
     </option>
   </component>
