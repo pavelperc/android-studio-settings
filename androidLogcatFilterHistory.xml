@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="dispatchKeyEvent" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:InputDispatcher " />
         <option value="dispatchKeyEvent" />
         <option value="tag=:AppMetrica message:&quot;Error.HttpError&quot;" />
         <option value="access_level" />
@@ -22,7 +23,6 @@
         <option value="tag=:MiniPlayerView" />
         <option value="tag=:SwipeView" />
         <option value="assets/" />
-        <option value="large&quot;" />
       </list>
     </option>
   </component>
