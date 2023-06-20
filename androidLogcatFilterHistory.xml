@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag=:AppMetrica message:&quot;Error.HttpError&quot;" />
+    <option name="mostRecentlyUsed" value="dispatchKeyEvent" />
     <option name="nonFavorites">
       <list>
+        <option value="dispatchKeyEvent" />
         <option value="tag=:AppMetrica message:&quot;Error.HttpError&quot;" />
         <option value="access_level" />
         <option value="Retrofit" />
@@ -22,7 +23,6 @@
         <option value="tag=:SwipeView" />
         <option value="assets/" />
         <option value="large&quot;" />
-        <option value="large =" />
       </list>
     </option>
   </component>
