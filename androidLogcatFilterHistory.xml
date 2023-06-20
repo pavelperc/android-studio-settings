@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="tag=:InputDispatcher " />
         <option value="dispatchKeyEvent" />
         <option value="tag=:AppMetrica message:&quot;Error.HttpError&quot;" />
         <option value="access_level" />
         <option value="Retrofit" />
         <option value="expiration_dates" />
-        <option value="level:error " />
         <option value="tag=:PageView" />
         <option value="tag=:PagesViewPagerAdapter message:&quot;onBindViewHolder()&quot;" />
         <option value="onBindViewHolder" />
