@@ -12,6 +12,7 @@
   <action id="DatabaseView.OpenFamilyAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="Documentation.ViewExternal" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -27,6 +28,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl p" />
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="ExternalJavaDoc" />
   <action id="ExternalSystem.OpenConfig">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -65,6 +67,10 @@
   </action>
   <action id="RemoteHostView.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift f1" />
   </action>
   <action id="RunToCursor">
     <keyboard-shortcut first-keystroke="alt f9" />
