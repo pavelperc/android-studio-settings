@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="&quot;setupSession(): isNewUser&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="&quot;setupSession(): isNewUser&quot;" />
+        <option value="tag=:YandexCooperationViewModel " />
+        <option value="tag=:YandexCooperationActivity " />
         <option value="level:error " />
         <option value="tag=:InputDispatcher " />
         <option value="dispatchKeyEvent" />
@@ -20,9 +23,6 @@
         <option value="{&quot;sync_state&quot;" />
         <option value="/api/v5/profile/sync_state" />
         <option value="root.setOnTouchListener" />
-        <option value="tag=:MiniPlayerView" />
-        <option value="tag=:SwipeView" />
-        <option value="assets/" />
       </list>
     </option>
   </component>
