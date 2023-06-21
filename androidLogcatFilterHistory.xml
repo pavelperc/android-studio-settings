@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="&quot;setupSession(): isNewUser&quot;" />
+        <option value="&quot;Event received: Experiments&quot;" />
+        <option value="experiments" />
         <option value="tag=:YandexCooperationViewModel " />
         <option value="tag=:YandexCooperationActivity " />
         <option value="level:error " />
@@ -21,8 +23,6 @@
         <option value="tag=:AppMetrica " />
         <option value="tag=:Evgen " />
         <option value="{&quot;sync_state&quot;" />
-        <option value="/api/v5/profile/sync_state" />
-        <option value="root.setOnTouchListener" />
       </list>
     </option>
   </component>
