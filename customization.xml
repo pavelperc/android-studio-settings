@@ -45,52 +45,11 @@
       <path value="VcsNavBarToolbarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Forward" is_action="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Cmd Key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Back" is_action="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Cmd Key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="QuickJavaDoc" is_action="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="GotoNextError" is_action="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Cmd Key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="GotoPreviousError" is_action="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Alt+Cmd Key" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="Arc.DeleteMerged" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <path value="NavBarVcsGroup" />
       <path value="VcsNavBarToolbarActions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RenameElement" is_action="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Touch Bar" />
-      <path value="Default" />
-      <path value="Default with Shift Key" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="Vcs.ShowHistoryForBlock" is_action="true" action_type="1" position="4">

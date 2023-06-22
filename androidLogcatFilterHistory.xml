@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="&quot;setupSession(): isNewUser&quot;" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="&quot;setupSession(): isNewUser&quot;" />
         <option value="&quot;Event received: Experiments&quot;" />
         <option value="experiments" />
         <option value="tag=:YandexCooperationViewModel " />
         <option value="tag=:YandexCooperationActivity " />
-        <option value="level:error " />
         <option value="tag=:InputDispatcher " />
         <option value="dispatchKeyEvent" />
         <option value="tag=:AppMetrica message:&quot;Error.HttpError&quot;" />
