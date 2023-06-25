@@ -1,9 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag=:Retrofit" />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:Retrofit" />
+        <option value="tag=:Retrofit " />
         <option value="level:error " />
+        <option value="retrofit" />
+        <option value="level:error package:mine " />
         <option value="&quot;setupSession(): isNewUser&quot;" />
         <option value="&quot;Event received: Experiments&quot;" />
         <option value="experiments" />
@@ -18,11 +22,7 @@
         <option value="tag=:PageView" />
         <option value="tag=:PagesViewPagerAdapter message:&quot;onBindViewHolder()&quot;" />
         <option value="onBindViewHolder" />
-        <option value="tag=:Retrofit " />
         <option value="tag=:retrofit " />
-        <option value="tag=:AppMetrica " />
-        <option value="tag=:Evgen " />
-        <option value="{&quot;sync_state&quot;" />
       </list>
     </option>
   </component>
