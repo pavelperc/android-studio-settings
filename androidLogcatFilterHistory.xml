@@ -4,6 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="level:error " />
+        <option value="tag=:BookStoreLocal" />
+        <option value="&quot;getFilesInBook()&quot;" />
+        <option value="getFilesInBook" />
         <option value="tag=:Retrofit " />
         <option value="tag=:Retrofit" />
         <option value="retrofit" />
@@ -20,9 +23,6 @@
         <option value="Retrofit" />
         <option value="expiration_dates" />
         <option value="tag=:PageView" />
-        <option value="tag=:PagesViewPagerAdapter message:&quot;onBindViewHolder()&quot;" />
-        <option value="onBindViewHolder" />
-        <option value="tag=:retrofit " />
       </list>
     </option>
   </component>
