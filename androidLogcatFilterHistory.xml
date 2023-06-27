@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="level:error " />
         <option value="tag=:BookStoreLocal" />
         <option value="&quot;getFilesInBook()&quot;" />
@@ -22,7 +22,6 @@
         <option value="access_level" />
         <option value="Retrofit" />
         <option value="expiration_dates" />
-        <option value="tag=:PageView" />
       </list>
     </option>
   </component>
