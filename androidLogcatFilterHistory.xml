@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag=:TAGG" />
+    <option name="mostRecentlyUsed" value="evgen" />
     <option name="nonFavorites">
       <list>
+        <option value="evgen" />
+        <option value="appmetrica" />
         <option value="tag=:TAGG" />
         <option value="package:mine " />
         <option value="level:error " />
@@ -21,8 +23,6 @@
         <option value="tag=:InputDispatcher " />
         <option value="dispatchKeyEvent" />
         <option value="tag=:AppMetrica message:&quot;Error.HttpError&quot;" />
-        <option value="access_level" />
-        <option value="Retrofit" />
       </list>
     </option>
   </component>
