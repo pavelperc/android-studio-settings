@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="evgen" />
         <option value="appmetrica" />
         <option value="tag=:TAGG" />
         <option value="package:mine " />
-        <option value="level:error " />
         <option value="tag=:BookStoreLocal" />
         <option value="&quot;getFilesInBook()&quot;" />
         <option value="getFilesInBook" />
