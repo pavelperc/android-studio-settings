@@ -1,4 +1,7 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Android.SyncProject">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="Arcanum.File.Browse">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
