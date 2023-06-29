@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag=:Retrofit " />
+    <option name="mostRecentlyUsed" value="tag=:Evgen " />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:Evgen " />
         <option value="tag=:Retrofit " />
         <option value="{&quot;readings&quot;" />
         <option value="level:error " />
@@ -22,7 +23,6 @@
         <option value="tag=:YandexCooperationViewModel " />
         <option value="tag=:YandexCooperationActivity " />
         <option value="tag=:InputDispatcher " />
-        <option value="dispatchKeyEvent" />
       </list>
     </option>
   </component>
