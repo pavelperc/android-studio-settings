@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="tag=:Retrofit " />
+        <option value="{&quot;readings&quot;" />
         <option value="level:error " />
         <option value="evgen" />
         <option value="appmetrica" />
@@ -22,7 +23,6 @@
         <option value="tag=:YandexCooperationActivity " />
         <option value="tag=:InputDispatcher " />
         <option value="dispatchKeyEvent" />
-        <option value="tag=:AppMetrica message:&quot;Error.HttpError&quot;" />
       </list>
     </option>
   </component>
