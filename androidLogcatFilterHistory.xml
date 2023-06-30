@@ -1,8 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="source_file" />
     <option name="nonFavorites">
       <list>
+        <option value="source_file" />
+        <option value="playlist" />
+        <option value="{&quot;viewings&quot;" />
+        <option value="{&quot;listenings&quot;" />
+        <option value="{&quot;listenings&quot;:{" />
+        <option value="{&quot;readings&quot;:{" />
+        <option value="readings" />
+        <option value="listenings" />
+        <option value="&quot;{listenings&quot;" />
         <option value="tag=:Evgen " />
         <option value="tag=:Retrofit " />
         <option value="{&quot;readings&quot;" />
@@ -14,15 +23,6 @@
         <option value="tag=:BookStoreLocal" />
         <option value="&quot;getFilesInBook()&quot;" />
         <option value="getFilesInBook" />
-        <option value="tag=:Retrofit" />
-        <option value="retrofit" />
-        <option value="level:error package:mine " />
-        <option value="&quot;setupSession(): isNewUser&quot;" />
-        <option value="&quot;Event received: Experiments&quot;" />
-        <option value="experiments" />
-        <option value="tag=:YandexCooperationViewModel " />
-        <option value="tag=:YandexCooperationActivity " />
-        <option value="tag=:InputDispatcher " />
       </list>
     </option>
   </component>
