@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag=:StorageMigrator" />
     <option name="nonFavorites">
       <list>
-        <option value="level:error " />
         <option value="tag=:StorageMigrator" />
+        <option value="level:error " />
         <option value="source_file" />
         <option value="playlist" />
         <option value="{&quot;viewings&quot;" />
