@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="PVZPfQBf" type="AUTO_DETECTED" />
       <mapping ext="pml" type="C++" />
       <mapping pattern=".arcignore" type="GitIgnore file" />
       <mapping pattern="Jenkinsfile-release" type="Groovy" />
