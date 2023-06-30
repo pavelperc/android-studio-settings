@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="source_file" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="tag=:StorageMigrator" />
         <option value="source_file" />
         <option value="playlist" />
         <option value="{&quot;viewings&quot;" />
@@ -15,14 +17,12 @@
         <option value="tag=:Evgen " />
         <option value="tag=:Retrofit " />
         <option value="{&quot;readings&quot;" />
-        <option value="level:error " />
         <option value="evgen" />
         <option value="appmetrica" />
         <option value="tag=:TAGG" />
         <option value="package:mine " />
         <option value="tag=:BookStoreLocal" />
         <option value="&quot;getFilesInBook()&quot;" />
-        <option value="getFilesInBook" />
       </list>
     </option>
   </component>
