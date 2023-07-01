@@ -5,6 +5,7 @@
     <disabledLanguages>
       <language id="JAVA" />
       <language id="kotlin" />
+      <language id="Dart" />
     </disabledLanguages>
   </component>
 </application>
