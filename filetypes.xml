@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="metadata" type="AUTO_DETECTED" />
       <mapping pattern="PVZPfQBf" type="AUTO_DETECTED" />
       <mapping ext="pml" type="C++" />
       <mapping pattern=".arcignore" type="GitIgnore file" />
@@ -16,6 +17,7 @@
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
+      <mapping ext="e2" type="PLAIN_TEXT" />
       <mapping ext="hpb" type="PLAIN_TEXT" />
       <mapping ext="stencil" type="PLAIN_TEXT" />
       <mapping ext="ttx" type="PLAIN_TEXT" />
