@@ -1,4 +1,7 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateRunningDevicesToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
