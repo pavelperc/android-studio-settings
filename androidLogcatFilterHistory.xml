@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onNotificationPosted" />
+    <option name="mostRecentlyUsed" value="package:mine tag=:Retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag=:Retrofit " />
+        <option value="package:mine " />
         <option value="onNotificationPosted" />
         <option value="tag=:StorageMigrator " />
         <option value="tag=:Stor" />
@@ -21,8 +23,6 @@
         <option value="tag=:Retrofit " />
         <option value="{&quot;readings&quot;" />
         <option value="evgen" />
-        <option value="appmetrica" />
-        <option value="tag=:TAGG" />
       </list>
     </option>
   </component>
