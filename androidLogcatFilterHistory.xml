@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag=:StorageMigrator " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="can not decrypt book" />
         <option value="tag=:StorageMigrator " />
+        <option value="package:mine " />
         <option value="level:error " />
         <option value="package:mine tag=:Retrofit " />
-        <option value="package:mine " />
         <option value="onNotificationPosted" />
         <option value="tag=:Stor" />
         <option value="tag=:StorageMigrator" />
@@ -22,7 +23,6 @@
         <option value="tag=:Evgen " />
         <option value="tag=:Retrofit " />
         <option value="{&quot;readings&quot;" />
-        <option value="evgen" />
       </list>
     </option>
   </component>
