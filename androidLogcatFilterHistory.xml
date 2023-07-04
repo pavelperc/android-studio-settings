@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="experiments" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="experiments" />
         <option value="showcaseNavi" />
         <option value="tag=:StorageMigrator " />
         <option value="tag=:AppMetrica " />
         <option value="can not decrypt book" />
         <option value="package:mine " />
-        <option value="level:error " />
         <option value="package:mine tag=:Retrofit " />
         <option value="onNotificationPosted" />
         <option value="tag=:Stor" />
