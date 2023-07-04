@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag=:StorageMigrator " />
+    <option name="mostRecentlyUsed" value="showcaseNavi" />
     <option name="nonFavorites">
       <list>
+        <option value="showcaseNavi" />
         <option value="tag=:StorageMigrator " />
         <option value="tag=:AppMetrica " />
         <option value="can not decrypt book" />
@@ -22,7 +23,6 @@
         <option value="listenings" />
         <option value="&quot;{listenings&quot;" />
         <option value="tag=:Evgen " />
-        <option value="tag=:Retrofit " />
       </list>
     </option>
   </component>
