@@ -1,15 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="observeFeatureButtonState" />
     <option name="nonFavorites">
       <list>
+        <option value="observeFeatureButtonState" />
+        <option value="package:mine " />
+        <option value="tag=:ShowcasePresenter" />
+        <option value="ta" />
         <option value="level:error " />
         <option value="experiments" />
         <option value="showcaseNavi" />
         <option value="tag=:StorageMigrator " />
         <option value="tag=:AppMetrica " />
         <option value="can not decrypt book" />
-        <option value="package:mine " />
         <option value="package:mine tag=:Retrofit " />
         <option value="onNotificationPosted" />
         <option value="tag=:Stor" />
@@ -20,9 +23,6 @@
         <option value="{&quot;listenings&quot;" />
         <option value="{&quot;listenings&quot;:{" />
         <option value="{&quot;readings&quot;:{" />
-        <option value="readings" />
-        <option value="listenings" />
-        <option value="&quot;{listenings&quot;" />
       </list>
     </option>
   </component>
