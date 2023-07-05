@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="observeFeatureButtonState" />
+    <option name="mostRecentlyUsed" value="tag=:AddBookUsecase" />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:AddBookUsecase" />
         <option value="observeFeatureButtonState" />
         <option value="package:mine " />
         <option value="tag=:ShowcasePresenter" />
@@ -22,7 +23,6 @@
         <option value="{&quot;viewings&quot;" />
         <option value="{&quot;listenings&quot;" />
         <option value="{&quot;listenings&quot;:{" />
-        <option value="{&quot;readings&quot;:{" />
       </list>
     </option>
   </component>
