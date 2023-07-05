@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag=:Retrofit " />
+    <option name="mostRecentlyUsed" value="tag=:AppMetrica " />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:AppMetrica " />
         <option value="tag=:Retrofit " />
         <option value="metadata" />
         <option value="showcases/" />
@@ -15,7 +16,6 @@
         <option value="experiments" />
         <option value="showcaseNavi" />
         <option value="tag=:StorageMigrator " />
-        <option value="tag=:AppMetrica " />
         <option value="can not decrypt book" />
         <option value="package:mine tag=:Retrofit " />
         <option value="onNotificationPosted" />
