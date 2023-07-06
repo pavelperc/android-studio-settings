@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag=:AppMetrica " />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="tag=:AppMetrica " />
         <option value="tag=:Retrofit " />
         <option value="metadata" />
         <option value="showcases/" />
-        <option value="level:error " />
         <option value="tag=:AddBookUsecase" />
         <option value="observeFeatureButtonState" />
         <option value="package:mine " />
