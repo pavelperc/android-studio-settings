@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag=:Retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="tag=:Retrofit " />
+        <option value="profile/upload_books" />
+        <option value="uploadBook" />
         <option value="level:error " />
         <option value="tag=:AppMetrica " />
-        <option value="tag=:Retrofit " />
         <option value="metadata" />
         <option value="showcases/" />
         <option value="tag=:AddBookUsecase" />
@@ -21,8 +23,6 @@
         <option value="onNotificationPosted" />
         <option value="tag=:Stor" />
         <option value="tag=:StorageMigrator" />
-        <option value="source_file" />
-        <option value="playlist" />
       </list>
     </option>
   </component>
