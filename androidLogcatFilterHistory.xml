@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Retrofit" />
     <option name="nonFavorites">
       <list>
+        <option value="Retrofit" />
+        <option value="level:error " />
         <option value="level:error  " />
         <option value="tag=:Retrofit " />
         <option value="profile/upload_books" />
         <option value="uploadBook" />
-        <option value="level:error " />
         <option value="tag=:AppMetrica " />
         <option value="metadata" />
         <option value="showcases/" />
@@ -22,7 +23,6 @@
         <option value="can not decrypt book" />
         <option value="package:mine tag=:Retrofit " />
         <option value="onNotificationPosted" />
-        <option value="tag=:Stor" />
       </list>
     </option>
   </component>
