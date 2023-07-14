@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag=:AppMetrica " />
+    <option name="mostRecentlyUsed" value="level:error package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error package:mine " />
         <option value="package:mine tag=:AppMetrica " />
         <option value="package:mine " />
         <option value="tag=:StorageMigrator " />
@@ -22,7 +23,6 @@
         <option value="experiments" />
         <option value="showcaseNavi" />
         <option value="can not decrypt book" />
-        <option value="package:mine tag=:Retrofit " />
       </list>
     </option>
   </component>
