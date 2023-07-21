@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="metadata" type="AUTO_DETECTED" />
       <mapping pattern="PVZPfQBf" type="AUTO_DETECTED" />
+      <mapping ext="fig" type="AUTO_DETECTED" />
       <mapping ext="pml" type="C++" />
       <mapping pattern=".arcignore" type="GitIgnore file" />
       <mapping pattern="Jenkinsfile-release" type="Groovy" />
