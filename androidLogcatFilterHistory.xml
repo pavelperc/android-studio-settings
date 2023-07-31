@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine sessionInfo" />
+    <option name="mostRecentlyUsed" value="tag:Retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit " />
+        <option value="tag:SyncUsecase" />
         <option value="package:mine sessionInfo" />
         <option value="package:mine " />
         <option value="SessionInfo" />
@@ -21,8 +23,6 @@
         <option value="showcases/" />
         <option value="tag=:AddBookUsecase" />
         <option value="observeFeatureButtonState" />
-        <option value="tag=:ShowcasePresenter" />
-        <option value="ta" />
       </list>
     </option>
   </component>
