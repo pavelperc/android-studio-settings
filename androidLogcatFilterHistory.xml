@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Retrofit " />
+    <option name="mostRecentlyUsed" value="onLoaded(): reload in sliding" />
     <option name="nonFavorites">
       <list>
+        <option value="onLoaded(): reload in sliding" />
+        <option value="package:ru.plus.bookmate.debug tag:Retrofit " />
         <option value="tag:Retrofit " />
         <option value="tag:SyncUsecase" />
         <option value="package:mine sessionInfo" />
@@ -21,8 +23,6 @@
         <option value="tag=:AppMetrica " />
         <option value="metadata" />
         <option value="showcases/" />
-        <option value="tag=:AddBookUsecase" />
-        <option value="observeFeatureButtonState" />
       </list>
     </option>
   </component>
