@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:AppMetrica " />
+    <option name="mostRecentlyUsed" value="/listening" />
     <option name="nonFavorites">
       <list>
+        <option value="/listening" />
+        <option value="tag:Retrofit " />
         <option value="tag:AppMetrica " />
         <option value="onLoaded(): reload in sliding" />
         <option value="package:ru.plus.bookmate.debug tag:Retrofit " />
-        <option value="tag:Retrofit " />
         <option value="tag:SyncUsecase" />
         <option value="package:mine sessionInfo" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="profile/upload_books" />
         <option value="uploadBook" />
         <option value="tag=:AppMetrica " />
-        <option value="metadata" />
       </list>
     </option>
   </component>
