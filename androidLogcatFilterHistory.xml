@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ListeningRepositoryImpl" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="ListeningRepositoryImpl" />
         <option value="saveProgress():" />
         <option value="/listening" />
@@ -19,7 +20,6 @@
         <option value="package:mine tag=:AppMetrica " />
         <option value="tag=:StorageMigrator " />
         <option value="Retrofit" />
-        <option value="level:error " />
         <option value="level:error  " />
         <option value="tag=:Retrofit " />
         <option value="profile/upload_books" />
