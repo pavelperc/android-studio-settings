@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:Retrofit" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit" />
         <option value="level:error " />
         <option value="ListeningRepositoryImpl" />
         <option value="saveProgress():" />
@@ -22,7 +23,6 @@
         <option value="Retrofit" />
         <option value="level:error  " />
         <option value="tag=:Retrofit " />
-        <option value="profile/upload_books" />
       </list>
     </option>
   </component>
