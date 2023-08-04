@@ -4,11 +4,11 @@
     <option name="nonFavorites">
       <list>
         <option value="level:error " />
+        <option value="tag:Retrofit " />
         <option value="tag:Retrofit" />
         <option value="ListeningRepositoryImpl" />
         <option value="saveProgress():" />
         <option value="/listening" />
-        <option value="tag:Retrofit " />
         <option value="tag:AppMetrica " />
         <option value="onLoaded(): reload in sliding" />
         <option value="package:ru.plus.bookmate.debug tag:Retrofit " />
