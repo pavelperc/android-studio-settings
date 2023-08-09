@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="level:error package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error package:mine " />
+        <option value="cacheee" />
         <option value="package:mine level:error " />
         <option value="level:error " />
         <option value="tag:Retrofit " />
@@ -18,11 +20,9 @@
         <option value="package:mine " />
         <option value="SessionInfo" />
         <option value="package:mine tag=:Retrofit " />
-        <option value="level:error package:mine " />
         <option value="package:mine tag=:AppMetrica " />
         <option value="tag=:StorageMigrator " />
         <option value="Retrofit" />
-        <option value="level:error  " />
       </list>
     </option>
   </component>
