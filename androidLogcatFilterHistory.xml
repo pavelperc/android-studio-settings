@@ -1,10 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error package:mine " />
+    <option name="mostRecentlyUsed" value="cachee" />
     <option name="nonFavorites">
       <list>
-        <option value="level:error package:mine " />
+        <option value="cachee" />
+        <option value="tag:SyncUsecase level:error " />
+        <option value="tag:SyncUsecase" />
         <option value="cacheee" />
+        <option value="ca" />
+        <option value="level:error package:mine " />
         <option value="package:mine level:error " />
         <option value="level:error " />
         <option value="tag:Retrofit " />
@@ -15,14 +19,10 @@
         <option value="tag:AppMetrica " />
         <option value="onLoaded(): reload in sliding" />
         <option value="package:ru.plus.bookmate.debug tag:Retrofit " />
-        <option value="tag:SyncUsecase" />
         <option value="package:mine sessionInfo" />
         <option value="package:mine " />
         <option value="SessionInfo" />
         <option value="package:mine tag=:Retrofit " />
-        <option value="package:mine tag=:AppMetrica " />
-        <option value="tag=:StorageMigrator " />
-        <option value="Retrofit" />
       </list>
     </option>
   </component>
