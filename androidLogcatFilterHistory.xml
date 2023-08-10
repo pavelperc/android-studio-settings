@@ -1,16 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="cachee" />
+    <option name="mostRecentlyUsed" value="level:error package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error package:mine " />
+        <option value="level:error " />
         <option value="cachee" />
         <option value="tag:SyncUsecase level:error " />
         <option value="tag:SyncUsecase" />
         <option value="cacheee" />
         <option value="ca" />
-        <option value="level:error package:mine " />
         <option value="package:mine level:error " />
-        <option value="level:error " />
         <option value="tag:Retrofit " />
         <option value="tag:Retrofit" />
         <option value="ListeningRepositoryImpl" />
