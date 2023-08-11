@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="p" />
         <option value="tag:ShowcasePresenter" />
         <option value="tag:ShowcasePresenter|" />
         <option value="level:error package:mine " />
@@ -21,8 +22,6 @@
         <option value="/listening" />
         <option value="tag:AppMetrica " />
         <option value="onLoaded(): reload in sliding" />
-        <option value="package:ru.plus.bookmate.debug tag:Retrofit " />
-        <option value="package:mine sessionInfo" />
       </list>
     </option>
   </component>
