@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="tag:TopicsActivityPresenter observeFeatureButtonState" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TopicsActivityPresenter observeFeatureButtonState" />
+        <option value="observeFeatureButtonState" />
         <option value="package:mine " />
         <option value="p" />
         <option value="tag:ShowcasePresenter" />
@@ -20,8 +23,6 @@
         <option value="ListeningRepositoryImpl" />
         <option value="saveProgress():" />
         <option value="/listening" />
-        <option value="tag:AppMetrica " />
-        <option value="onLoaded(): reload in sliding" />
       </list>
     </option>
   </component>
