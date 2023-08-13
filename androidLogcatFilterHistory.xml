@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TopicsActivityPresenter observeFeatureButtonState" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="tag:TopicsActivityPresenter observeFeatureButtonState" />
         <option value="observeFeatureButtonState" />
-        <option value="package:mine " />
         <option value="p" />
         <option value="tag:ShowcasePresenter" />
         <option value="tag:ShowcasePresenter|" />
