@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="package:mine " />
         <option value="tag:TopicsActivityPresenter observeFeatureButtonState" />
         <option value="observeFeatureButtonState" />
@@ -10,7 +12,6 @@
         <option value="tag:ShowcasePresenter|" />
         <option value="level:error package:mine " />
         <option value="tag:TAGG" />
-        <option value="level:error " />
         <option value="cachee" />
         <option value="tag:SyncUsecase level:error " />
         <option value="tag:SyncUsecase" />
