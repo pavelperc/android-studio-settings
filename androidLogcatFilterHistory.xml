@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="level:error " />
+        <option value="package:ru.knigodrug tag:ktor " />
         <option value="package:mine " />
         <option value="tag:TopicsActivityPresenter observeFeatureButtonState" />
         <option value="observeFeatureButtonState" />
@@ -22,7 +23,6 @@
         <option value="tag:Retrofit" />
         <option value="ListeningRepositoryImpl" />
         <option value="saveProgress():" />
-        <option value="/listening" />
       </list>
     </option>
   </component>
