@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ProfileViewModel" />
+    <option name="mostRecentlyUsed" value="HttpError" />
     <option name="nonFavorites">
       <list>
+        <option value="HttpError" />
+        <option value="Error.ErrorShown" />
         <option value="ProfileViewModel" />
         <option value="level:error " />
         <option value="package:ru.knigodrug tag:ktor " />
@@ -21,8 +23,6 @@
         <option value="ca" />
         <option value="package:mine level:error " />
         <option value="tag:Retrofit " />
-        <option value="tag:Retrofit" />
-        <option value="ListeningRepositoryImpl" />
       </list>
     </option>
   </component>
