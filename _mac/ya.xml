@@ -1,0 +1,5 @@
+<application>
+  <component name="Arc.Application.Settings">
+    <option name="arcPath" value="/opt/homebrew/bin/arc" />
+  </component>
+</application>
