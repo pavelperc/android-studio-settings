@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="HttpError" />
+    <option name="mostRecentlyUsed" value="tag:AppMetrica " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:AppMetrica " />
         <option value="HttpError" />
         <option value="Error.ErrorShown" />
         <option value="ProfileViewModel" />
@@ -22,7 +23,6 @@
         <option value="cacheee" />
         <option value="ca" />
         <option value="package:mine level:error " />
-        <option value="tag:Retrofit " />
       </list>
     </option>
   </component>
