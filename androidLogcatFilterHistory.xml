@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:AppMetrica " />
+    <option name="mostRecentlyUsed" value="IIISSONYX" />
     <option name="nonFavorites">
       <list>
+        <option value="IIISSONYX" />
+        <option value="III" />
         <option value="tag:AppMetrica " />
         <option value="HttpError" />
         <option value="Error.ErrorShown" />
@@ -21,8 +23,6 @@
         <option value="tag:SyncUsecase level:error " />
         <option value="tag:SyncUsecase" />
         <option value="cacheee" />
-        <option value="ca" />
-        <option value="package:mine level:error " />
       </list>
     </option>
   </component>
