@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="IIISSONYX" />
+    <option name="mostRecentlyUsed" value="tag:Retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit " />
         <option value="IIISSONYX" />
         <option value="III" />
         <option value="tag:AppMetrica " />
@@ -22,7 +23,6 @@
         <option value="cachee" />
         <option value="tag:SyncUsecase level:error " />
         <option value="tag:SyncUsecase" />
-        <option value="cacheee" />
       </list>
     </option>
   </component>
