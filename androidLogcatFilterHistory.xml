@@ -4,10 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="level:error " />
+        <option value="tag:AppMetrica " />
         <option value="tag:Retrofit " />
         <option value="IIISSONYX" />
         <option value="III" />
-        <option value="tag:AppMetrica " />
         <option value="HttpError" />
         <option value="Error.ErrorShown" />
         <option value="ProfileViewModel" />
