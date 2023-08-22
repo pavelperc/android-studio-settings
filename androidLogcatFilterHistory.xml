@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:Retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit " />
         <option value="level:error " />
         <option value="tag:AppMetrica " />
-        <option value="tag:Retrofit " />
         <option value="IIISSONYX" />
         <option value="III" />
         <option value="HttpError" />
