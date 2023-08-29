@@ -1,8 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:TAGG" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TAGG" />
+        <option value="&quot;dispose modelAdapterPosition&quot;" />
+        <option value="level:warn " />
+        <option value="emotion_ratings" />
+        <option value="message:&quot;load():&quot; tag:ComicsReaderPresenter" />
+        <option value="message:&quot;load():&quot;" />
+        <option value="load():" />
+        <option value="loadContentBitmap" />
         <option value="level:error " />
         <option value="tag:Retrofit " />
         <option value="tag:AppMetrica " />
@@ -15,14 +23,6 @@
         <option value="package:mine " />
         <option value="tag:TopicsActivityPresenter observeFeatureButtonState" />
         <option value="observeFeatureButtonState" />
-        <option value="p" />
-        <option value="tag:ShowcasePresenter" />
-        <option value="tag:ShowcasePresenter|" />
-        <option value="level:error package:mine " />
-        <option value="tag:TAGG" />
-        <option value="cachee" />
-        <option value="tag:SyncUsecase level:error " />
-        <option value="tag:SyncUsecase" />
       </list>
     </option>
   </component>
