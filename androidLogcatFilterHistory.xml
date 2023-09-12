@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:retrofit " />
         <option value="level:error " />
         <option value="tag:Retrofit " />
         <option value="tag:" />
@@ -22,7 +23,6 @@
         <option value="III" />
         <option value="HttpError" />
         <option value="Error.ErrorShown" />
-        <option value="ProfileViewModel" />
       </list>
     </option>
   </component>
