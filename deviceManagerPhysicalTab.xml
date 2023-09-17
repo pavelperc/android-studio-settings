@@ -56,6 +56,17 @@
         <target value="Android 13.0" />
         <api value="androidversion:33:null:6:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="55F65355" />
+          </Key>
+        </key>
+        <name value="ONYX FAUST5" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
