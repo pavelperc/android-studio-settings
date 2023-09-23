@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:RETROFIT " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:RETROFIT " />
         <option value="level:error " />
         <option value="tag:TAGG" />
         <option value="level:error package:mine " />
@@ -22,7 +23,6 @@
         <option value="load():" />
         <option value="loadContentBitmap" />
         <option value="tag:AppMetrica " />
-        <option value="IIISSONYX" />
       </list>
     </option>
   </component>
