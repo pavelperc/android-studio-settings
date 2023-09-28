@@ -3,7 +3,6 @@
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="Android.SyncProject">
-    <keyboard-shortcut first-keystroke="alt s" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="Arcanum.File.Browse">

@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TAGG" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="level:error " />
         <option value="tag:TAGG" />
         <option value="tag:RETROFIT " />
-        <option value="level:error " />
         <option value="level:error package:mine " />
         <option value="TAGG" />
         <option value="RECOMPO" />
@@ -22,7 +23,6 @@
         <option value="message:&quot;load():&quot;" />
         <option value="load():" />
         <option value="loadContentBitmap" />
-        <option value="tag:AppMetrica " />
       </list>
     </option>
   </component>
