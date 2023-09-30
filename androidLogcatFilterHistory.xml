@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error package:mine " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="invalidate" />
         <option value="level:error package:mine " />
         <option value="tag:TAGG " />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="emotion_ratings" />
         <option value="message:&quot;load():&quot; tag:ComicsReaderPresenter" />
         <option value="message:&quot;load():&quot;" />
-        <option value="load():" />
       </list>
     </option>
   </component>
