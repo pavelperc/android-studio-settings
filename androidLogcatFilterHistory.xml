@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:AppMetrica " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:AppMetrica " />
+        <option value="package:mine " />
         <option value="level:error " />
         <option value="invalidatePlaylistAndCancelAudiobook" />
         <option value="invalidate" />
         <option value="level:error package:mine " />
         <option value="tag:TAGG " />
-        <option value="package:mine " />
         <option value="tag:TAGG" />
         <option value="tag:RETROFIT " />
         <option value="TAGG" />
@@ -22,7 +23,6 @@
         <option value="&quot;dispose modelAdapterPosition&quot;" />
         <option value="level:warn " />
         <option value="emotion_ratings" />
-        <option value="message:&quot;load():&quot; tag:ComicsReaderPresenter" />
       </list>
     </option>
   </component>
