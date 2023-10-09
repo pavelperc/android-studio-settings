@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:Retrofit" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit" />
         <option value="level:error " />
         <option value="lr" />
         <option value="tag:Retrofit " />
@@ -22,7 +23,6 @@
         <option value="tag:" />
         <option value="toolkit" />
         <option value="tag:measure_tag" />
-        <option value="ta" />
       </list>
     </option>
   </component>
