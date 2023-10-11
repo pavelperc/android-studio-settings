@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="--&gt; GET https://" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="--&gt; GET https://" />
         <option value="--&gt; GET" />
         <option value="tag:Retrofit " />
@@ -10,7 +11,6 @@
         <option value="tag:Search2ViewModel" />
         <option value="tag:TAGG " />
         <option value="tag:Retrofit" />
-        <option value="level:error " />
         <option value="lr" />
         <option value="tag:Search2ViewModel " />
         <option value="tag:Search2" />
