@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="&lt;-- 200 " />
     <option name="nonFavorites">
       <list>
-        <option value="level:error " />
         <option value="&lt;-- 200 " />
+        <option value="level:error " />
         <option value="tag:Retrofit " />
         <option value="--&gt; GET https://" />
         <option value="--&gt; GET" />
