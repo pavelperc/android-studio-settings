@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Retrofit " />
+    <option name="mostRecentlyUsed" value="onLoadMore" />
     <option name="nonFavorites">
       <list>
+        <option value="onLoadMore" />
         <option value="tag:Retrofit " />
         <option value="{&quot;operationName&quot;:&quot;Search&quot;" />
         <option value="level:error" />
@@ -22,7 +23,6 @@
         <option value="invalidatePlaylistAndCancelAudiobook" />
         <option value="invalidate" />
         <option value="level:error package:mine " />
-        <option value="tag:TAGG" />
       </list>
     </option>
   </component>
