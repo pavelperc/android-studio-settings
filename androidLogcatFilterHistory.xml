@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onLoadMore start" />
+    <option name="mostRecentlyUsed" value="tag:TAGG" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TAGG" />
         <option value="onLoadMore start" />
         <option value="onLoadMore finish" />
         <option value="onLoadMore" />
@@ -22,7 +23,6 @@
         <option value="tag:Search2ViewModel" />
         <option value="tag:TAGG " />
         <option value="tag:Retrofit" />
-        <option value="lr" />
       </list>
     </option>
   </component>
