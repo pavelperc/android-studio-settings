@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="TAGG | onLoadMore" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="TAGG | onLoadMore" />
         <option value="onLoadMore" />
         <option value="tag:TAGG" />
-        <option value="level:error " />
         <option value="onLoadMore start" />
         <option value="onLoadMore finish" />
         <option value="onBottomReached" />
