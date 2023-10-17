@@ -1,16 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onBottomReached" />
+    <option name="mostRecentlyUsed" value="onLoadMore start" />
     <option name="nonFavorites">
       <list>
+        <option value="onLoadMore start" />
+        <option value="onLoadMore finish" />
+        <option value="onLoadMore" />
         <option value="onBottomReached" />
         <option value="tag:Retrofit " />
-        <option value="onLoadMore finish" />
         <option value="onBottomReached | onLoadMore" />
         <option value="onBottomReached|onLoadMore" />
         <option value="onBottomReached|" />
         <option value="&quot;onLoadMore &quot;" />
-        <option value="onLoadMore" />
         <option value="{&quot;operationName&quot;:&quot;Search&quot;" />
         <option value="level:error" />
         <option value="&lt;-- 200 " />
@@ -22,7 +23,6 @@
         <option value="tag:TAGG " />
         <option value="tag:Retrofit" />
         <option value="lr" />
-        <option value="tag:Search2ViewModel " />
       </list>
     </option>
   </component>
