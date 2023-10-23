@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="isSilentPaymentAvailable" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="isSilentPaymentAvailable" />
         <option value="package:mine " />
-        <option value="level:error " />
         <option value="/api/v5/features" />
         <option value="tag:Retrofit" />
         <option value="TAGG | onLoadMore" />
