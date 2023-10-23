@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="isSilentPaymentAvailable" />
     <option name="nonFavorites">
       <list>
+        <option value="isSilentPaymentAvailable" />
         <option value="package:mine " />
         <option value="level:error " />
         <option value="/api/v5/features" />
@@ -21,7 +23,6 @@
         <option value="level:error" />
         <option value="&lt;-- 200 " />
         <option value="--&gt; GET https://" />
-        <option value="--&gt; GET" />
       </list>
     </option>
   </component>
