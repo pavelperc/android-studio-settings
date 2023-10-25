@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TAGG" />
+    <option name="mostRecentlyUsed" value="tag:DEBUG" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:DEBUG" />
         <option value="tag:TAGG" />
         <option value="level:error " />
         <option value="TAGG" />
@@ -22,7 +23,6 @@
         <option value="onLoadMore finish" />
         <option value="onBottomReached" />
         <option value="onBottomReached | onLoadMore" />
-        <option value="onBottomReached|onLoadMore" />
       </list>
     </option>
   </component>
