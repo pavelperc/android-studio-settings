@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Retrofit " />
+    <option name="mostRecentlyUsed" value="tag:TAGG" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:Retrofit " />
+        <option value="tag:TAGG" />
         <option value="level:error " />
+        <option value="TAGG" />
+        <option value="tag:Evgen " />
+        <option value="directions" />
+        <option value="tag:Retrofit " />
+        <option value="{&quot;readings&quot;:" />
+        <option value="reading" />
+        <option value="tag:Retrofit" />
+        <option value="tag:Re" />
         <option value="isSilentPaymentAvailable" />
         <option value="package:mine " />
         <option value="/api/v5/features" />
-        <option value="tag:Retrofit" />
         <option value="TAGG | onLoadMore" />
         <option value="onLoadMore" />
-        <option value="tag:TAGG" />
         <option value="onLoadMore start" />
         <option value="onLoadMore finish" />
         <option value="onBottomReached" />
         <option value="onBottomReached | onLoadMore" />
         <option value="onBottomReached|onLoadMore" />
-        <option value="onBottomReached|" />
-        <option value="&quot;onLoadMore &quot;" />
-        <option value="{&quot;operationName&quot;:&quot;Search&quot;" />
-        <option value="level:error" />
-        <option value="&lt;-- 200 " />
-        <option value="--&gt; GET https://" />
       </list>
     </option>
   </component>
