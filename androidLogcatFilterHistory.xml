@@ -4,6 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="tag:DEBUG" />
+        <option value="tag:DEBUG column" />
+        <option value="tag:DEBUG row" />
+        <option value="tag:DEBUG " />
         <option value="tag:TAGG" />
         <option value="level:error " />
         <option value="TAGG" />
@@ -20,9 +23,6 @@
         <option value="TAGG | onLoadMore" />
         <option value="onLoadMore" />
         <option value="onLoadMore start" />
-        <option value="onLoadMore finish" />
-        <option value="onBottomReached" />
-        <option value="onBottomReached | onLoadMore" />
       </list>
     </option>
   </component>
