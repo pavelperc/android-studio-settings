@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:Search2AnalyticsHelper onRecommendationShown" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Search2AnalyticsHelper onRecommendationShown" />
         <option value="level:error " />
         <option value="tag:Search2AnalyticsHelper" />
-        <option value="tag:Search2AnalyticsHelper onRecommendationShown" />
         <option value="tag:onListItemShown " />
         <option value="tag:Search2AnalyticsHelper updateContainerBounds" />
         <option value="tag:Search2AnalyticsHelper upda" />
