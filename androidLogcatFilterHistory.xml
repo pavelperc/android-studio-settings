@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="pagerIsScrolling" />
+    <option name="mostRecentlyUsed" value="tag:Search2AnalyticsHelper updateContainerBounds" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Search2AnalyticsHelper updateContainerBounds" />
+        <option value="tag:Search2AnalyticsHelper upda" />
+        <option value="level:error " />
         <option value="pagerIsScrolling" />
         <option value="tag:onListItemShown " />
-        <option value="level:error " />
         <option value="tag:Search2AnalyticsHelper onItemShown" />
         <option value="tag:Search2AnalyticsHelper" />
         <option value="tag:DEBUG" />
@@ -21,8 +23,6 @@
         <option value="reading" />
         <option value="tag:Retrofit" />
         <option value="tag:Re" />
-        <option value="isSilentPaymentAvailable" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
