@@ -1,15 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Search2AnalyticsHelper" />
+    <option name="mostRecentlyUsed" value="pagerIsScrolling" />
     <option name="nonFavorites">
       <list>
+        <option value="pagerIsScrolling" />
+        <option value="tag:onListItemShown " />
+        <option value="level:error " />
+        <option value="tag:Search2AnalyticsHelper onItemShown" />
         <option value="tag:Search2AnalyticsHelper" />
         <option value="tag:DEBUG" />
         <option value="tag:DEBUG column" />
         <option value="tag:DEBUG row" />
         <option value="tag:DEBUG " />
         <option value="tag:TAGG" />
-        <option value="level:error " />
         <option value="TAGG" />
         <option value="tag:Evgen " />
         <option value="directions" />
@@ -20,9 +23,6 @@
         <option value="tag:Re" />
         <option value="isSilentPaymentAvailable" />
         <option value="package:mine " />
-        <option value="/api/v5/features" />
-        <option value="TAGG | onLoadMore" />
-        <option value="onLoadMore" />
       </list>
     </option>
   </component>
