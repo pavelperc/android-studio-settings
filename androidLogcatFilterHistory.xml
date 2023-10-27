@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:DEBUG" />
+    <option name="mostRecentlyUsed" value="tag:Search2AnalyticsHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Search2AnalyticsHelper" />
         <option value="tag:DEBUG" />
         <option value="tag:DEBUG column" />
         <option value="tag:DEBUG row" />
@@ -22,7 +23,6 @@
         <option value="/api/v5/features" />
         <option value="TAGG | onLoadMore" />
         <option value="onLoadMore" />
-        <option value="onLoadMore start" />
       </list>
     </option>
   </component>
