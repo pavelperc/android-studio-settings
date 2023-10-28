@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Search2AnalyticsHelper onRecommendationShown" />
+    <option name="mostRecentlyUsed" value="tag:Search2AnalyticsHelper onItem" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Search2AnalyticsHelper onItem" />
         <option value="tag:Search2AnalyticsHelper onRecommendationShown" />
         <option value="level:error " />
         <option value="tag:Search2AnalyticsHelper" />
@@ -22,7 +23,6 @@
         <option value="tag:Retrofit " />
         <option value="{&quot;readings&quot;:" />
         <option value="reading" />
-        <option value="tag:Retrofit" />
       </list>
     </option>
   </component>
