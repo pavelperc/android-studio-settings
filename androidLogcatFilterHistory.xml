@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Search2AnalyticsHelper onRecommendation" />
+    <option name="mostRecentlyUsed" value="tag:Retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit " />
+        <option value="level:error " />
         <option value="tag:Search2AnalyticsHelper onRecommendation" />
         <option value="tag:Search2AnalyticsHelper" />
         <option value="tag:Search2AnalyticsHelper onRec" />
         <option value="tag:Search2AnalyticsHelper onItem" />
         <option value="tag:Search2AnalyticsHelper onRecommendationShown" />
-        <option value="level:error " />
         <option value="tag:onListItemShown " />
         <option value="tag:Search2AnalyticsHelper updateContainerBounds" />
         <option value="tag:Search2AnalyticsHelper upda" />
@@ -22,7 +23,6 @@
         <option value="TAGG" />
         <option value="tag:Evgen " />
         <option value="directions" />
-        <option value="tag:Retrofit " />
       </list>
     </option>
   </component>
