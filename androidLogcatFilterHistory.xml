@@ -1,10 +1,21 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Retrofit " />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
-        <option value="tag:Retrofit " />
         <option value="level:error " />
+        <option value="VarioqubHelper" />
+        <option value="AATestFlag" />
+        <option value="tag:VarioqubHelper" />
+        <option value="vario" />
+        <option value="tag:Retrofit " />
+        <option value="wQu0Kueq" />
+        <option value="retr" />
+        <option value="onRenderEnded" />
+        <option value="JsRequestBuilder" />
+        <option value="js request" />
+        <option value="js" />
+        <option value="tag:Evgen " />
         <option value="tag:Search2AnalyticsHelper onRecommendation" />
         <option value="tag:Search2AnalyticsHelper" />
         <option value="tag:Search2AnalyticsHelper onRec" />
@@ -12,17 +23,6 @@
         <option value="tag:Search2AnalyticsHelper onRecommendationShown" />
         <option value="tag:onListItemShown " />
         <option value="tag:Search2AnalyticsHelper updateContainerBounds" />
-        <option value="tag:Search2AnalyticsHelper upda" />
-        <option value="pagerIsScrolling" />
-        <option value="tag:Search2AnalyticsHelper onItemShown" />
-        <option value="tag:DEBUG" />
-        <option value="tag:DEBUG column" />
-        <option value="tag:DEBUG row" />
-        <option value="tag:DEBUG " />
-        <option value="tag:TAGG" />
-        <option value="TAGG" />
-        <option value="tag:Evgen " />
-        <option value="directions" />
       </list>
     </option>
   </component>
