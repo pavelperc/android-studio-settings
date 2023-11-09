@@ -1,17 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:retrofit " />
+    <option name="mostRecentlyUsed" value="package:ru.plus.bookmate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:ru.plus.bookmate" />
+        <option value="package:ru.plus.bookmate tag:Retrofit " />
+        <option value="package:ru.plus.bookmate varioqub" />
+        <option value="package:ru.plus.bookmate " />
+        <option value="Varioqub" />
+        <option value="tag:VarioqubHelper" />
         <option value="tag:retrofit " />
         <option value="level:error " />
         <option value="package:ru.plus.bookmate.qa tag:VarioqubHelper  " />
         <option value="package:ru.plus.bookmate level:debug " />
-        <option value="package:ru.plus.bookmate " />
         <option value="VarioqubHelper" />
-        <option value="Varioqub" />
         <option value="AATestFlag" />
-        <option value="tag:VarioqubHelper" />
         <option value="vario" />
         <option value="tag:Retrofit " />
         <option value="wQu0Kueq" />
@@ -20,9 +23,6 @@
         <option value="JsRequestBuilder" />
         <option value="js request" />
         <option value="js" />
-        <option value="tag:Evgen " />
-        <option value="tag:Search2AnalyticsHelper onRecommendation" />
-        <option value="tag:Search2AnalyticsHelper" />
       </list>
     </option>
   </component>
