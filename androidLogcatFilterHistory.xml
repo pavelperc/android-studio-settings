@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:ru.plus.bookmate.qa tag:VarioqubHelper  " />
+    <option name="mostRecentlyUsed" value="tag:retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:retrofit " />
+        <option value="level:error " />
         <option value="package:ru.plus.bookmate.qa tag:VarioqubHelper  " />
         <option value="package:ru.plus.bookmate level:debug " />
         <option value="package:ru.plus.bookmate " />
         <option value="VarioqubHelper" />
         <option value="Varioqub" />
-        <option value="level:error " />
         <option value="AATestFlag" />
         <option value="tag:VarioqubHelper" />
         <option value="vario" />
@@ -22,7 +23,6 @@
         <option value="tag:Evgen " />
         <option value="tag:Search2AnalyticsHelper onRecommendation" />
         <option value="tag:Search2AnalyticsHelper" />
-        <option value="tag:Search2AnalyticsHelper onRec" />
       </list>
     </option>
   </component>
