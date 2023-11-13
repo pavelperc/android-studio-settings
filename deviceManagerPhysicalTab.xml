@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="8FXDU18702000339" />
+          </Key>
+        </key>
+        <name value="HUAWEI CMR-AL09" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="2B021JEGR03281" />
           </Key>
         </key>
@@ -64,6 +75,17 @@
           </Key>
         </key>
         <name value="ONYX FAUST5" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="C610F2E4" />
+          </Key>
+        </key>
+        <name value="ONYX Kon_Tiki3" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>

@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:ru.plus.bookmate" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="tag:TAGG" />
+        <option value="tag:Retrofit " />
+        <option value="onSuccess(): id = " />
         <option value="package:ru.plus.bookmate" />
         <option value="package:ru.plus.bookmate tag:Retrofit " />
         <option value="package:ru.plus.bookmate varioqub" />
@@ -10,19 +14,15 @@
         <option value="Varioqub" />
         <option value="tag:VarioqubHelper" />
         <option value="tag:retrofit " />
-        <option value="level:error " />
         <option value="package:ru.plus.bookmate.qa tag:VarioqubHelper  " />
         <option value="package:ru.plus.bookmate level:debug " />
         <option value="VarioqubHelper" />
         <option value="AATestFlag" />
         <option value="vario" />
-        <option value="tag:Retrofit " />
         <option value="wQu0Kueq" />
         <option value="retr" />
         <option value="onRenderEnded" />
         <option value="JsRequestBuilder" />
-        <option value="js request" />
-        <option value="js" />
       </list>
     </option>
   </component>
