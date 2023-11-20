@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="access_levels" />
     <option name="nonFavorites">
       <list>
+        <option value="access_levels" />
         <option value="level:error " />
         <option value="tag:Evgen " />
         <option value="tag:Retrofit " />
@@ -22,7 +23,6 @@
         <option value="vario" />
         <option value="wQu0Kueq" />
         <option value="retr" />
-        <option value="onRenderEnded" />
       </list>
     </option>
   </component>
