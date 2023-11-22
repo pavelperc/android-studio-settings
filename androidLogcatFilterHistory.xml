@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="experiments" />
+    <option name="mostRecentlyUsed" value="tag:Evgen" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Evgen" />
         <option value="experiments" />
         <option value="access_levels" />
         <option value="level:error " />
@@ -22,7 +23,6 @@
         <option value="VarioqubHelper" />
         <option value="AATestFlag" />
         <option value="vario" />
-        <option value="wQu0Kueq" />
       </list>
     </option>
   </component>
