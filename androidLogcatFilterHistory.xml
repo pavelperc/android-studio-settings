@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Evgen" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="tag:Evgen" />
         <option value="experiments" />
         <option value="access_levels" />
-        <option value="level:error " />
         <option value="tag:Evgen " />
         <option value="tag:Retrofit " />
         <option value="tag:TAGG" />
