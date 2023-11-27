@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="большая книга" />
+    <option name="mostRecentlyUsed" value="tag:Evgen" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Evgen" />
+        <option value="tag:" />
         <option value="большая книга" />
         <option value="tag:Retrofit " />
         <option value="level:error " />
-        <option value="tag:Evgen" />
         <option value="experiments" />
         <option value="access_levels" />
         <option value="tag:Evgen " />
@@ -22,7 +23,6 @@
         <option value="package:ru.plus.bookmate.qa tag:VarioqubHelper  " />
         <option value="package:ru.plus.bookmate level:debug " />
         <option value="VarioqubHelper" />
-        <option value="AATestFlag" />
       </list>
     </option>
   </component>
