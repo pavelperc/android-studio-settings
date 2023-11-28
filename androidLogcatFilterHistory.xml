@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="updateContainerBounds" />
+    <option name="mostRecentlyUsed" value="{&quot;readings" />
     <option name="nonFavorites">
       <list>
+        <option value="{&quot;readings" />
+        <option value="readings" />
         <option value="updateContainerBounds" />
         <option value="tag:Evgen" />
         <option value="tag:" />
@@ -21,8 +23,6 @@
         <option value="Varioqub" />
         <option value="tag:VarioqubHelper" />
         <option value="tag:retrofit " />
-        <option value="package:ru.plus.bookmate.qa tag:VarioqubHelper  " />
-        <option value="package:ru.plus.bookmate level:debug " />
       </list>
     </option>
   </component>
