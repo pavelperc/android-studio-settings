@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="tag:Retrofit " />
+        <option value="readings&quot;" />
         <option value="{&quot;readings" />
         <option value="readings" />
         <option value="updateContainerBounds" />
@@ -22,7 +23,6 @@
         <option value="package:ru.plus.bookmate " />
         <option value="Varioqub" />
         <option value="tag:VarioqubHelper" />
-        <option value="tag:retrofit " />
       </list>
     </option>
   </component>
