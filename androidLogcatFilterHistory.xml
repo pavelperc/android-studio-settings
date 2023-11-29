@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Retrofit " />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="tag:Retrofit " />
         <option value="save viewing " />
         <option value="viewings" />
@@ -15,7 +16,6 @@
         <option value="tag:Evgen" />
         <option value="tag:" />
         <option value="большая книга" />
-        <option value="level:error " />
         <option value="experiments" />
         <option value="access_levels" />
         <option value="tag:Evgen " />
