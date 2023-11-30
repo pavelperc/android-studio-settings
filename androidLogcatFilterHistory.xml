@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="updated sessionInfo =" />
     <option name="nonFavorites">
       <list>
+        <option value="updated sessionInfo =" />
         <option value="level:error " />
         <option value="tag:Retrofit " />
         <option value="save viewing " />
@@ -22,7 +23,6 @@
         <option value="tag:TAGG" />
         <option value="onSuccess(): id = " />
         <option value="package:ru.plus.bookmate" />
-        <option value="package:ru.plus.bookmate tag:Retrofit " />
       </list>
     </option>
   </component>
