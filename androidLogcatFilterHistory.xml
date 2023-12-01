@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="cfi" />
+    <option name="mostRecentlyUsed" value="selection created" />
     <option name="nonFavorites">
       <list>
+        <option value="selection created" />
         <option value="cfi" />
         <option value="level:error " />
         <option value="tag:Retrofit " />
@@ -22,7 +23,6 @@
         <option value="access_levels" />
         <option value="tag:Evgen " />
         <option value="tag:TAGG" />
-        <option value="onSuccess(): id = " />
       </list>
     </option>
   </component>
