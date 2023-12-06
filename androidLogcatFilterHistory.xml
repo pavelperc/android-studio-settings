@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="{&quot;viewings&quot;" />
+    <option name="mostRecentlyUsed" value="ReadingState" />
     <option name="nonFavorites">
       <list>
+        <option value="ReadingState" />
+        <option value="cfi" />
+        <option value="ReaderState" />
+        <option value="selection created" />
+        <option value="State(progress" />
+        <option value="progress" />
+        <option value="selection crea" />
+        <option value="selection" />
         <option value="{&quot;viewings&quot;" />
         <option value="viewings" />
         <option value="save viewing" />
         <option value="viewing" />
         <option value="{&quot;readings" />
-        <option value="selection created" />
         <option value="create selection" />
-        <option value="selection" />
         <option value="tag:Retrofit " />
-        <option value="cfi" />
         <option value="level:error " />
         <option value="updated sessionInfo =" />
         <option value="save viewing " />
         <option value="Event received: UsageTool.ContentShowed" />
         <option value="usageTool" />
-        <option value="readings&quot;" />
-        <option value="readings" />
-        <option value="updateContainerBounds" />
-        <option value="tag:Evgen" />
-        <option value="tag:" />
       </list>
     </option>
   </component>
