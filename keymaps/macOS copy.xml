@@ -41,11 +41,6 @@
   <action id="FileChooserList.LevelUp" />
   <action id="FindNext" />
   <action id="GotoBookmark1" />
-  <action id="GotoDeclaration">
-    <keyboard-shortcut first-keystroke="meta b" />
-    <mouse-shortcut keystroke="meta button1" />
-    <mouse-shortcut keystroke="button2" />
-  </action>
   <action id="GotoSymbol" />
   <action id="Jdbc.OpenEditor.Data">
     <keyboard-shortcut first-keystroke="f4" />
@@ -65,12 +60,6 @@
   </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta y" />
-  </action>
-  <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="f1" />
-    <keyboard-shortcut first-keystroke="ctrl j" />
-    <mouse-shortcut keystroke="control button2" />
-    <mouse-shortcut keystroke="Force touch" />
   </action>
   <action id="RecentFiles" />
   <action id="RemoteHostView.EditSource">

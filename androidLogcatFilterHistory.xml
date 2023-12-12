@@ -1,8 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="{&quot;viewings&quot;" />
+    <option name="mostRecentlyUsed" value="tag:Retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit " />
+        <option value="tokenMapFromMetrica" />
+        <option value="new shared flow action" />
+        <option value="pendingAction == " />
+        <option value="initialize: new state" />
+        <option value="pendingAction != null -&gt;" />
+        <option value="https://push.yandex.ru" />
+        <option value="v2/subscribe/app" />
+        <option value="xiva" />
+        <option value="save viewing" />
+        <option value="viewings" />
         <option value="selection created" />
         <option value="ReadingState" />
         <option value="cfi" />
@@ -12,17 +23,6 @@
         <option value="selection crea" />
         <option value="selection" />
         <option value="{&quot;viewings&quot;" />
-        <option value="viewings" />
-        <option value="save viewing" />
-        <option value="viewing" />
-        <option value="{&quot;readings" />
-        <option value="create selection" />
-        <option value="tag:Retrofit " />
-        <option value="level:error " />
-        <option value="updated sessionInfo =" />
-        <option value="save viewing " />
-        <option value="Event received: UsageTool.ContentShowed" />
-        <option value="usageTool" />
       </list>
     </option>
   </component>
