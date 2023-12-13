@@ -31,7 +31,7 @@
           </Key>
         </key>
         <name value="samsung SM-S918B" />
-        <target value="Android API 34" />
+        <target value="Android 14.0" />
         <api value="androidversion:34:null:9:true" />
       </PhysicalDevice>
       <PhysicalDevice>
