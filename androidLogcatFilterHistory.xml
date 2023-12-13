@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="level:error package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error package:mine " />
         <option value="level:error " />
         <option value="tag:Retrofit " />
         <option value="tokenMapFromMetrica" />
@@ -22,7 +23,6 @@
         <option value="State(progress" />
         <option value="progress" />
         <option value="selection crea" />
-        <option value="selection" />
       </list>
     </option>
   </component>
