@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TAGG" />
+    <option name="mostRecentlyUsed" value="push_status" />
     <option name="nonFavorites">
       <list>
+        <option value="push_status" />
         <option value="tag:TAGG" />
         <option value="level:error package:mine " />
         <option value="Success: url =" />
@@ -22,7 +23,6 @@
         <option value="viewings" />
         <option value="selection created" />
         <option value="ReadingState" />
-        <option value="cfi" />
       </list>
     </option>
   </component>
