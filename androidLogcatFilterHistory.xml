@@ -1,14 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="push_status" />
+    <option name="mostRecentlyUsed" value="level:error package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error package:mine " />
+        <option value="tag:Evgen " />
+        <option value="package:mine select(): selection created" />
+        <option value="package:mine tag:Retrofi" />
+        <option value="package:mine tag:Retrofit --&gt; GET" />
+        <option value="package:mine tag:Retrofit " />
+        <option value="package:mine " />
         <option value="push_status" />
         <option value="tag:TAGG" />
-        <option value="level:error package:mine " />
         <option value="Success: url =" />
         <option value="package:mine level:error " />
-        <option value="package:mine " />
         <option value="level:error " />
         <option value="tag:Retrofit " />
         <option value="tokenMapFromMetrica" />
@@ -18,11 +23,6 @@
         <option value="pendingAction != null -&gt;" />
         <option value="https://push.yandex.ru" />
         <option value="v2/subscribe/app" />
-        <option value="xiva" />
-        <option value="save viewing" />
-        <option value="viewings" />
-        <option value="selection created" />
-        <option value="ReadingState" />
       </list>
     </option>
   </component>
