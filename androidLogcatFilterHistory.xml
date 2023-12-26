@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error package:mine " />
+    <option name="mostRecentlyUsed" value="tag:Retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit " />
         <option value="level:error package:mine " />
         <option value="tag:Evgen " />
         <option value="package:mine select(): selection created" />
@@ -15,7 +16,6 @@
         <option value="Success: url =" />
         <option value="package:mine level:error " />
         <option value="level:error " />
-        <option value="tag:Retrofit " />
         <option value="tokenMapFromMetrica" />
         <option value="new shared flow action" />
         <option value="pendingAction == " />
