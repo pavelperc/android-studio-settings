@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="tag:TAGG" />
+        <option value="package:mine " />
         <option value="tag:Retrofit " />
         <option value="level:error package:mine " />
         <option value="tag:Evgen " />
@@ -11,7 +12,6 @@
         <option value="package:mine tag:Retrofi" />
         <option value="package:mine tag:Retrofit --&gt; GET" />
         <option value="package:mine tag:Retrofit " />
-        <option value="package:mine " />
         <option value="push_status" />
         <option value="Success: url =" />
         <option value="package:mine level:error " />
