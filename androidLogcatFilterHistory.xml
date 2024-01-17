@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Retrofit" />
+    <option name="mostRecentlyUsed" value="scheduleTurningPage" />
     <option name="nonFavorites">
       <list>
+        <option value="scheduleTurningPage" />
         <option value="tag:Retrofit" />
         <option value="tag:TAGG saveReadings" />
         <option value="tag:TAGG " />
@@ -22,7 +23,6 @@
         <option value="tokenMapFromMetrica" />
         <option value="new shared flow action" />
         <option value="pendingAction == " />
-        <option value="initialize: new state" />
       </list>
     </option>
   </component>
