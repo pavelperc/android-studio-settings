@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:error " />
+    <option name="mostRecentlyUsed" value="tag:Retrofit" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit" />
+        <option value="tag:TAGG saveReadings" />
+        <option value="tag:TAGG " />
         <option value="package:mine level:error " />
         <option value="tag:TAGG" />
         <option value="package:mine " />
@@ -20,9 +23,6 @@
         <option value="new shared flow action" />
         <option value="pendingAction == " />
         <option value="initialize: new state" />
-        <option value="pendingAction != null -&gt;" />
-        <option value="https://push.yandex.ru" />
-        <option value="v2/subscribe/app" />
       </list>
     </option>
   </component>
