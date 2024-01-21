@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="selection created" />
+    <option name="mostRecentlyUsed" value="tag:SynthesisManager " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:SynthesisManager " />
         <option value="selection created" />
         <option value="selection" />
         <option value="tag:Retrofit " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:Retrofit " />
         <option value="push_status" />
         <option value="Success: url =" />
-        <option value="level:error " />
       </list>
     </option>
   </component>
