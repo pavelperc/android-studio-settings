@@ -89,6 +89,17 @@
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="KMSNU20825100980" />
+          </Key>
+        </key>
+        <name value="HUAWEI BAH2-L09" />
+        <target value="Android 8.0" />
+        <api value="androidversion:26:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
