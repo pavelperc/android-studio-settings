@@ -1,11 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TAGG" />
+    <option name="mostRecentlyUsed" value="MG0h9XLN" />
     <option name="nonFavorites">
       <list>
+        <option value="MG0h9XLN" />
+        <option value="{&quot;readings&quot;" />
+        <option value="readings" />
+        <option value="reading" />
         <option value="tag:TAGG" />
         <option value="selection created" />
-        <option value="MG0h9XLN" />
         <option value="document" />
         <option value="tag:Retrofit " />
         <option value="create selection" />
@@ -20,9 +23,6 @@
         <option value="level:error package:mine " />
         <option value="tag:Evgen " />
         <option value="package:mine select(): selection created" />
-        <option value="package:mine tag:Retrofi" />
-        <option value="package:mine tag:Retrofit --&gt; GET" />
-        <option value="package:mine tag:Retrofit " />
       </list>
     </option>
   </component>
