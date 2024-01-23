@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="selection created" />
+    <option name="mostRecentlyUsed" value="tag:TAGG" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TAGG" />
         <option value="selection created" />
         <option value="MG0h9XLN" />
         <option value="document" />
@@ -15,7 +16,6 @@
         <option value="tag:TAGG saveReadings" />
         <option value="tag:TAGG " />
         <option value="package:mine level:error " />
-        <option value="tag:TAGG" />
         <option value="package:mine " />
         <option value="level:error package:mine " />
         <option value="tag:Evgen " />
