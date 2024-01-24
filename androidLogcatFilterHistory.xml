@@ -1,20 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TAGG " />
+    <option name="mostRecentlyUsed" value="tag:SynthesisManager " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:SynthesisManager " />
+        <option value="tag:TAGG" />
         <option value="tag:TAGG " />
         <option value="package:mine level:error " />
         <option value="MG0h9XLN" />
         <option value="{&quot;readings&quot;" />
         <option value="readings" />
         <option value="reading" />
-        <option value="tag:TAGG" />
         <option value="selection created" />
         <option value="document" />
         <option value="tag:Retrofit " />
         <option value="create selection" />
-        <option value="tag:SynthesisManager " />
         <option value="selection" />
         <option value="scheduleTurningPage" />
         <option value="tag:Retrofit" />
