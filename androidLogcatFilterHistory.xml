@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:SynthesisPlayer " />
+    <option name="mostRecentlyUsed" value="tag:TAG " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TAG " />
         <option value="tag:SynthesisPlayer " />
         <option value="tag:SynthesisManager " />
         <option value="tag:TAGG" />
@@ -22,7 +23,6 @@
         <option value="tag:TAGG saveReadings" />
         <option value="package:mine " />
         <option value="level:error package:mine " />
-        <option value="tag:Evgen " />
       </list>
     </option>
   </component>
