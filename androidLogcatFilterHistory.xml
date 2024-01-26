@@ -1,8 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TAG " />
+    <option name="mostRecentlyUsed" value="collectCurrentMediaItem" />
     <option name="nonFavorites">
       <list>
+        <option value="collectCurrentMediaItem" />
+        <option value="mediaItem" />
+        <option value="TAGG" />
+        <option value="events" />
+        <option value="events [1" />
+        <option value="onEvents" />
+        <option value="onMediaItemTransition()" />
+        <option value="AAAAAAA" />
+        <option value="tag:SynthesisPlaylistManager" />
         <option value="tag:TAG " />
         <option value="tag:SynthesisPlayer " />
         <option value="tag:SynthesisManager " />
@@ -14,15 +23,6 @@
         <option value="readings" />
         <option value="reading" />
         <option value="selection created" />
-        <option value="document" />
-        <option value="tag:Retrofit " />
-        <option value="create selection" />
-        <option value="selection" />
-        <option value="scheduleTurningPage" />
-        <option value="tag:Retrofit" />
-        <option value="tag:TAGG saveReadings" />
-        <option value="package:mine " />
-        <option value="level:error package:mine " />
       </list>
     </option>
   </component>
