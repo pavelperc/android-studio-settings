@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TAGG" />
+    <option name="mostRecentlyUsed" value="turnPageAfterDelay" />
     <option name="nonFavorites">
       <list>
+        <option value="turnPageAfterDelay" />
+        <option value="scheduleTurningPage" />
+        <option value="tag:SynthesisManager " />
         <option value="tag:TAGG" />
         <option value="collectCurrentMediaItem" />
         <option value="mediaItem" />
@@ -15,14 +18,11 @@
         <option value="tag:SynthesisPlaylistManager" />
         <option value="tag:TAG " />
         <option value="tag:SynthesisPlayer " />
-        <option value="tag:SynthesisManager " />
         <option value="tag:TAGG " />
         <option value="package:mine level:error " />
         <option value="MG0h9XLN" />
         <option value="{&quot;readings&quot;" />
         <option value="readings" />
-        <option value="reading" />
-        <option value="selection created" />
       </list>
     </option>
   </component>
