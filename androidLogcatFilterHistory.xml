@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Retrofit" />
+    <option name="mostRecentlyUsed" value="tag:SynthesisUIManager  " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:SynthesisUIManager  " />
+        <option value="tag:SynthesisPlaylistManager " />
         <option value="tag:Retrofit" />
         <option value="TAGG" />
         <option value="turnPageAfterDelay" />
@@ -21,8 +23,6 @@
         <option value="tag:SynthesisPlayer " />
         <option value="tag:TAGG " />
         <option value="package:mine level:error " />
-        <option value="MG0h9XLN" />
-        <option value="{&quot;readings&quot;" />
       </list>
     </option>
   </component>
