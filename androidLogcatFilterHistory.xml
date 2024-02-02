@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="selection" />
+    <option name="mostRecentlyUsed" value="selection created" />
     <option name="nonFavorites">
       <list>
+        <option value="selection created" />
         <option value="selection" />
         <option value="&lt;--" />
         <option value="tag:retrofit " />
@@ -22,7 +23,6 @@
         <option value="onMediaItemTransition()" />
         <option value="AAAAAAA" />
         <option value="tag:SynthesisPlaylistManager" />
-        <option value="tag:TAG " />
       </list>
     </option>
   </component>
