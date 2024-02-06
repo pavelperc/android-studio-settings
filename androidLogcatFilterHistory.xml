@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="selection created" />
     <option name="nonFavorites">
       <list>
+        <option value="&lt;-- " />
         <option value="selection created" />
         <option value="selection" />
         <option value="&lt;--" />
@@ -22,7 +23,6 @@
         <option value="onEvents" />
         <option value="onMediaItemTransition()" />
         <option value="AAAAAAA" />
-        <option value="tag:SynthesisPlaylistManager" />
       </list>
     </option>
   </component>
