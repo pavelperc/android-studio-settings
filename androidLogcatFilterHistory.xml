@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error package:mine " />
+    <option name="mostRecentlyUsed" value="goToNext: isNextPageLoading" />
     <option name="nonFavorites">
       <list>
+        <option value="goToNext: isNextPageLoading" />
+        <option value="executeJavascript" />
+        <option value="&quot;save progress progress&quot;" />
+        <option value="save progress progress" />
+        <option value="save progress" />
+        <option value="handle(): save progress" />
+        <option value="tag:Retrofit  " />
+        <option value="tag:SynthesisUIManager " />
+        <option value="/episodes" />
+        <option value="tag:Retrofit " />
+        <option value="tag:Retrofit" />
+        <option value="tag:Retrofit --&gt;" />
         <option value="level:error package:mine " />
         <option value="tag:TAGG " />
-        <option value="tag:Retrofit " />
         <option value="tag:SynthesisPlaylistManager " />
         <option value="create" />
         <option value="&lt;-- " />
         <option value="selection created" />
         <option value="selection" />
         <option value="&lt;--" />
-        <option value="tag:retrofit " />
-        <option value="tag:SynthesisUIManager  " />
-        <option value="tag:Retrofit" />
-        <option value="TAGG" />
-        <option value="turnPageAfterDelay" />
-        <option value="scheduleTurningPage" />
-        <option value="tag:SynthesisManager " />
-        <option value="tag:TAGG" />
-        <option value="collectCurrentMediaItem" />
-        <option value="mediaItem" />
-        <option value="events" />
       </list>
     </option>
   </component>
