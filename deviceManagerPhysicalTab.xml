@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="R5CW21DV0NH" />
+          </Key>
+        </key>
+        <name value="samsung SM-S918B" />
+        <target value="Android API 34" />
+        <api value="androidversion:34:null:9:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="8FXDU18702000339" />
           </Key>
         </key>
@@ -22,17 +33,6 @@
         <name value="Google Pixel 6a" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="R5CW21DV0NH" />
-          </Key>
-        </key>
-        <name value="samsung SM-S918B" />
-        <target value="Android API 34" />
-        <api value="androidversion:34:null:9:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>

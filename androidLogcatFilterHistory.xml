@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="goToNext: isNextPageLoading" />
+    <option name="mostRecentlyUsed" value="&quot;save progress&quot;" />
     <option name="nonFavorites">
       <list>
-        <option value="goToNext: isNextPageLoading" />
-        <option value="executeJavascript" />
+        <option value="&quot;save progress&quot;" />
         <option value="&quot;save progress progress&quot;" />
         <option value="save progress progress" />
+        <option value="goToNext: isNextPageLoading" />
+        <option value="executeJavascript" />
         <option value="save progress" />
         <option value="handle(): save progress" />
         <option value="tag:Retrofit  " />
@@ -22,7 +23,6 @@
         <option value="&lt;-- " />
         <option value="selection created" />
         <option value="selection" />
-        <option value="&lt;--" />
       </list>
     </option>
   </component>
