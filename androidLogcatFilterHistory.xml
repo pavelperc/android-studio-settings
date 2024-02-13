@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Retrofit" />
+    <option name="mostRecentlyUsed" value="tag:Retrofit --&gt;" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit --&gt;" />
         <option value="tag:Retrofit" />
         <option value="&quot;save progress&quot;" />
         <option value="&quot;save progress progress&quot;" />
@@ -15,7 +16,6 @@
         <option value="tag:SynthesisUIManager " />
         <option value="/episodes" />
         <option value="tag:Retrofit " />
-        <option value="tag:Retrofit --&gt;" />
         <option value="level:error package:mine " />
         <option value="tag:TAGG " />
         <option value="tag:SynthesisPlaylistManager " />
