@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Retrofit --&gt;" />
+    <option name="mostRecentlyUsed" value="tag:Retrofit message:&quot;&lt;--&quot; &amp; -message:&quot;END&quot;  | message:&quot;{&quot;" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:Retrofit --&gt;" />
+        <option value="tag:Retrofit message:&quot;&lt;--&quot; &amp; -message:&quot;END&quot;  | message:&quot;{&quot;" />
+        <option value="tag:Retrofit &quot;&lt;--&quot; &amp; -&quot;&lt;-- END&quot; | &quot;{&quot;" />
+        <option value="tag:Retrofit &quot;&lt;--&quot; &amp; ~&quot;&lt;-- END&quot; | &quot;{&quot;" />
+        <option value="tag:Retrofit &quot;&lt;--&quot; | &quot;{&quot;" />
+        <option value="tag:Retrofit " />
+        <option value="POST" />
+        <option value="DebugInfo.HttpResponse" />
+        <option value="http" />
+        <option value="setupVarioqubFeatures" />
+        <option value="package:mine " />
+        <option value="config activated" />
+        <option value="full_log" />
+        <option value="AATestFlag" />
+        <option value="Varioqub" />
+        <option value="Content-Type: " />
         <option value="tag:Retrofit" />
+        <option value="tag:Retrofit --&gt;" />
         <option value="&quot;save progress&quot;" />
         <option value="&quot;save progress progress&quot;" />
         <option value="save progress progress" />
-        <option value="goToNext: isNextPageLoading" />
-        <option value="executeJavascript" />
-        <option value="save progress" />
-        <option value="handle(): save progress" />
-        <option value="tag:Retrofit  " />
-        <option value="tag:SynthesisUIManager " />
-        <option value="/episodes" />
-        <option value="tag:Retrofit " />
-        <option value="level:error package:mine " />
-        <option value="tag:TAGG " />
-        <option value="tag:SynthesisPlaylistManager " />
-        <option value="create" />
-        <option value="&lt;-- " />
-        <option value="selection created" />
-        <option value="selection" />
       </list>
     </option>
   </component>
