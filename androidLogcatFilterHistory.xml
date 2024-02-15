@@ -1,8 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Retrofit message:&quot;&lt;--&quot; &amp; -message:&quot;END&quot;  | message:&quot;{&quot;" />
+    <option name="mostRecentlyUsed" value="message:&quot;restoreInstanceState&quot; | message:&quot;onSaveInstanceState&quot; | message:&quot;openReader&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="message:&quot;restoreInstanceState&quot; | message:&quot;onSaveInstanceState&quot; | message:&quot;openReader&quot;" />
+        <option value="openWithLastProgress" />
+        <option value="message:&quot;onActivityCreated&quot; | message:&quot;onSaveInstanceState&quot; | message:&quot;openReader&quot;" />
+        <option value="message:&quot;onActivityCreated&quot; | message:&quot;onSaveInstanceState&quot;" />
+        <option value="message:&quot;onActivityCreated&quot; | message:=&quot;onSaveInstanceState&quot;" />
+        <option value="onActivityCreated" />
+        <option value="openReader(): openAt" />
+        <option value="openFragmentFromExtras" />
         <option value="tag:Retrofit message:&quot;&lt;--&quot; &amp; -message:&quot;END&quot;  | message:&quot;{&quot;" />
         <option value="tag:Retrofit &quot;&lt;--&quot; &amp; -&quot;&lt;-- END&quot; | &quot;{&quot;" />
         <option value="tag:Retrofit &quot;&lt;--&quot; &amp; ~&quot;&lt;-- END&quot; | &quot;{&quot;" />
@@ -15,14 +23,6 @@
         <option value="package:mine " />
         <option value="config activated" />
         <option value="full_log" />
-        <option value="AATestFlag" />
-        <option value="Varioqub" />
-        <option value="Content-Type: " />
-        <option value="tag:Retrofit" />
-        <option value="tag:Retrofit --&gt;" />
-        <option value="&quot;save progress&quot;" />
-        <option value="&quot;save progress progress&quot;" />
-        <option value="save progress progress" />
       </list>
     </option>
   </component>
