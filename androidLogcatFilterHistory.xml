@@ -1,8 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="tag:Retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit " />
+        <option value="TAGG" />
+        <option value="saveBlocking" />
+        <option value="DiffSynchronizer" />
+        <option value="saveRemoteEntityWithConflicts" />
+        <option value="saveLibraryCardProgress" />
         <option value="package:mine " />
+        <option value="save progress" />
+        <option value="tag:SaveBookProgressUsecase" />
+        <option value="tag:SaveBookProgressHandler" />
         <option value="tag:SynthesisUIManager " />
         <option value="isCanSynthesis" />
         <option value="message:&quot;restoreInstanceState&quot; | message:&quot;onSaveInstanceState&quot; | message:&quot;openReader&quot;" />
@@ -13,15 +23,6 @@
         <option value="onActivityCreated" />
         <option value="openReader(): openAt" />
         <option value="openFragmentFromExtras" />
-        <option value="tag:Retrofit message:&quot;&lt;--&quot; &amp; -message:&quot;END&quot;  | message:&quot;{&quot;" />
-        <option value="tag:Retrofit &quot;&lt;--&quot; &amp; -&quot;&lt;-- END&quot; | &quot;{&quot;" />
-        <option value="tag:Retrofit &quot;&lt;--&quot; &amp; ~&quot;&lt;-- END&quot; | &quot;{&quot;" />
-        <option value="tag:Retrofit &quot;&lt;--&quot; | &quot;{&quot;" />
-        <option value="tag:Retrofit " />
-        <option value="POST" />
-        <option value="DebugInfo.HttpResponse" />
-        <option value="http" />
-        <option value="setupVarioqubFeatures" />
       </list>
     </option>
   </component>
