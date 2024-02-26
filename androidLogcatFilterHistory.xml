@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:SynthesisUIManager " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="tag:SynthesisUIManager " />
         <option value="isCanSynthesis" />
         <option value="message:&quot;restoreInstanceState&quot; | message:&quot;onSaveInstanceState&quot; | message:&quot;openReader&quot;" />
@@ -22,7 +22,6 @@
         <option value="DebugInfo.HttpResponse" />
         <option value="http" />
         <option value="setupVarioqubFeatures" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
