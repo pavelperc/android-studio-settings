@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TAGG" />
+    <option name="mostRecentlyUsed" value="&lt;-- " />
     <option name="nonFavorites">
       <list>
-        <option value="tag:TAGG" />
+        <option value="&lt;-- " />
         <option value="tag:Retrofit " />
+        <option value="tag:TAGG" />
         <option value="TAGG" />
         <option value="saveBlocking" />
         <option value="DiffSynchronizer" />
@@ -22,7 +23,6 @@
         <option value="message:&quot;onActivityCreated&quot; | message:&quot;onSaveInstanceState&quot;" />
         <option value="message:&quot;onActivityCreated&quot; | message:=&quot;onSaveInstanceState&quot;" />
         <option value="onActivityCreated" />
-        <option value="openReader(): openAt" />
       </list>
     </option>
   </component>
