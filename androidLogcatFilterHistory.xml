@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Retrofit " />
+    <option name="mostRecentlyUsed" value="tag:TAGG" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TAGG" />
         <option value="tag:Retrofit " />
         <option value="TAGG" />
         <option value="saveBlocking" />
@@ -22,7 +23,6 @@
         <option value="message:&quot;onActivityCreated&quot; | message:=&quot;onSaveInstanceState&quot;" />
         <option value="onActivityCreated" />
         <option value="openReader(): openAt" />
-        <option value="openFragmentFromExtras" />
       </list>
     </option>
   </component>
