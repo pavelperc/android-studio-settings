@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="&lt;-- " />
+    <option name="mostRecentlyUsed" value="turnPageAfterDelay" />
     <option name="nonFavorites">
       <list>
+        <option value="turnPageAfterDelay" />
+        <option value="collectCurrentMediaItem" />
+        <option value="/6/38!,/2/4/190/1:0,/2/4/190/3:301" />
+        <option value="package:mine " />
         <option value="&lt;-- " />
         <option value="tag:Retrofit " />
         <option value="tag:TAGG" />
@@ -11,7 +15,6 @@
         <option value="DiffSynchronizer" />
         <option value="saveRemoteEntityWithConflicts" />
         <option value="saveLibraryCardProgress" />
-        <option value="package:mine " />
         <option value="save progress" />
         <option value="tag:SaveBookProgressUsecase" />
         <option value="tag:SaveBookProgressHandler" />
@@ -20,9 +23,6 @@
         <option value="message:&quot;restoreInstanceState&quot; | message:&quot;onSaveInstanceState&quot; | message:&quot;openReader&quot;" />
         <option value="openWithLastProgress" />
         <option value="message:&quot;onActivityCreated&quot; | message:&quot;onSaveInstanceState&quot; | message:&quot;openReader&quot;" />
-        <option value="message:&quot;onActivityCreated&quot; | message:&quot;onSaveInstanceState&quot;" />
-        <option value="message:&quot;onActivityCreated&quot; | message:=&quot;onSaveInstanceState&quot;" />
-        <option value="onActivityCreated" />
       </list>
     </option>
   </component>
