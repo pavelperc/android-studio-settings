@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="turnPageAfterDelay" />
+    <option name="mostRecentlyUsed" value="RestDwhAnalyticsRepository" />
     <option name="nonFavorites">
       <list>
+        <option value="RestDwhAnalyticsRepository" />
+        <option value="profile_screen" />
+        <option value="welcome_screen" />
         <option value="turnPageAfterDelay" />
         <option value="collectCurrentMediaItem" />
         <option value="/6/38!,/2/4/190/1:0,/2/4/190/3:301" />
@@ -20,9 +23,6 @@
         <option value="tag:SaveBookProgressHandler" />
         <option value="tag:SynthesisUIManager " />
         <option value="isCanSynthesis" />
-        <option value="message:&quot;restoreInstanceState&quot; | message:&quot;onSaveInstanceState&quot; | message:&quot;openReader&quot;" />
-        <option value="openWithLastProgress" />
-        <option value="message:&quot;onActivityCreated&quot; | message:&quot;onSaveInstanceState&quot; | message:&quot;openReader&quot;" />
       </list>
     </option>
   </component>
