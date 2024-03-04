@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="RestDwhAnalyticsRepository" />
+    <option name="mostRecentlyUsed" value="tag:Evgen " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Evgen " />
+        <option value="AppMetrica" />
+        <option value="Evgen" />
         <option value="RestDwhAnalyticsRepository" />
         <option value="profile_screen" />
         <option value="welcome_screen" />
@@ -20,9 +23,6 @@
         <option value="saveLibraryCardProgress" />
         <option value="save progress" />
         <option value="tag:SaveBookProgressUsecase" />
-        <option value="tag:SaveBookProgressHandler" />
-        <option value="tag:SynthesisUIManager " />
-        <option value="isCanSynthesis" />
       </list>
     </option>
   </component>
