@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Evgen " />
+    <option name="mostRecentlyUsed" value="&quot;compositeOffers: &quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="&quot;compositeOffers: &quot;" />
+        <option value="compositeOffers" />
         <option value="tag:Evgen " />
         <option value="AppMetrica" />
         <option value="Evgen" />
@@ -21,8 +23,6 @@
         <option value="DiffSynchronizer" />
         <option value="saveRemoteEntityWithConflicts" />
         <option value="saveLibraryCardProgress" />
-        <option value="save progress" />
-        <option value="tag:SaveBookProgressUsecase" />
       </list>
     </option>
   </component>
