@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="&quot;compositeOffers: &quot;" />
+    <option name="mostRecentlyUsed" value="tag:Retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit " />
         <option value="&quot;compositeOffers: &quot;" />
         <option value="compositeOffers" />
         <option value="tag:Evgen " />
@@ -16,7 +17,6 @@
         <option value="/6/38!,/2/4/190/1:0,/2/4/190/3:301" />
         <option value="package:mine " />
         <option value="&lt;-- " />
-        <option value="tag:Retrofit " />
         <option value="tag:TAGG" />
         <option value="TAGG" />
         <option value="saveBlocking" />
