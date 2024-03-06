@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Retrofit " />
+    <option name="mostRecentlyUsed" value="glavnoe/book/content" />
     <option name="nonFavorites">
       <list>
+        <option value="glavnoe/book/content" />
         <option value="tag:Retrofit " />
         <option value="&quot;compositeOffers: &quot;" />
         <option value="compositeOffers" />
@@ -22,7 +23,6 @@
         <option value="saveBlocking" />
         <option value="DiffSynchronizer" />
         <option value="saveRemoteEntityWithConflicts" />
-        <option value="saveLibraryCardProgress" />
       </list>
     </option>
   </component>
