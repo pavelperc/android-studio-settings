@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="glavnoe/book/content" />
+    <option name="mostRecentlyUsed" value="tag:Retrofit " />
     <option name="nonFavorites">
       <list>
-        <option value="glavnoe/book/content" />
         <option value="tag:Retrofit " />
+        <option value="glavnoe/book/content" />
         <option value="&quot;compositeOffers: &quot;" />
         <option value="compositeOffers" />
         <option value="tag:Evgen " />
