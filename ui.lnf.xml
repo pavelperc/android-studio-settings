@@ -4,6 +4,7 @@
   </component>
   <component name="UISettings">
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="14" />
+    <option name="UI_DENSITY" value="COMPACT" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>
