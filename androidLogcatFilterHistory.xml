@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="save readings" />
+    <option name="mostRecentlyUsed" value="tag:TAGG" />
     <option name="nonFavorites">
       <list>
-        <option value="save readings" />
-        <option value="tag:Retrofit " />
-        <option value="glavnoe/book/content" />
-        <option value="&quot;compositeOffers: &quot;" />
-        <option value="compositeOffers" />
-        <option value="tag:Evgen " />
-        <option value="AppMetrica" />
-        <option value="Evgen" />
-        <option value="RestDwhAnalyticsRepository" />
-        <option value="profile_screen" />
-        <option value="welcome_screen" />
-        <option value="turnPageAfterDelay" />
-        <option value="collectCurrentMediaItem" />
-        <option value="/6/38!,/2/4/190/1:0,/2/4/190/3:301" />
-        <option value="package:mine " />
-        <option value="&lt;-- " />
         <option value="tag:TAGG" />
+        <option value="tag:Retrofit" />
+        <option value="applySettings" />
+        <option value="cfi" />
+        <option value="With value: {&quot;" />
+        <option value="tag:appmetrica" />
+        <option value="appmetrica" />
+        <option value="save readings" />
+        <option value="readings" />
+        <option value="selection" />
+        <option value="isCan" />
         <option value="TAGG" />
-        <option value="saveBlocking" />
-        <option value="DiffSynchronizer" />
+        <option value="speeed" />
+        <option value="tag:SynthesisSpeedPreference" />
+        <option value="/episodes" />
+        <option value="feature_toggles" />
+        <option value="create selection" />
+        <option value="tag:SaveReadingHandler" />
+        <option value="RestDwhAnalyticsRepository" />
+        <option value="onStartCommand" />
       </list>
     </option>
   </component>
