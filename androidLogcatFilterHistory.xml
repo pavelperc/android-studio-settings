@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TAGG" />
+    <option name="mostRecentlyUsed" value="tag:Retrofit " />
     <option name="nonFavorites">
       <list>
-        <option value="tag:TAGG" />
+        <option value="tag:Retrofit " />
+        <option value="tag:TimeScheduler tag:SunriseSunsetScheduler tag:NightModeReceiver " />
+        <option value="tag:TimeScheduler tag:SunriseSunsetScheduler " />
+        <option value="tag:TimeScheduler tag:Sunset" />
+        <option value="save reading" />
+        <option value="package:mine tag:Retrofit " />
+        <option value="tag:SynthesisUIManager " />
         <option value="tag:Retrofit" />
+        <option value="tag:SynthesisPlaylistManager " />
+        <option value="package:mine " />
+        <option value="package:mine level:error " />
+        <option value="package:mine level:error  " />
+        <option value="tag:SaveBookProgressHandler" />
+        <option value="save progress" />
+        <option value="tag:TAGG" />
         <option value="applySettings" />
         <option value="cfi" />
         <option value="With value: {&quot;" />
         <option value="tag:appmetrica" />
         <option value="appmetrica" />
-        <option value="save readings" />
-        <option value="readings" />
-        <option value="selection" />
-        <option value="isCan" />
-        <option value="TAGG" />
-        <option value="speeed" />
-        <option value="tag:SynthesisSpeedPreference" />
-        <option value="/episodes" />
-        <option value="feature_toggles" />
-        <option value="create selection" />
-        <option value="tag:SaveReadingHandler" />
-        <option value="RestDwhAnalyticsRepository" />
-        <option value="onStartCommand" />
       </list>
     </option>
   </component>
