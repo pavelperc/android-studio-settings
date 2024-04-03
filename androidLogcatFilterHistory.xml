@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Retrofit" />
+    <option name="mostRecentlyUsed" value="tag:SelectionManager" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:SelectionManager" />
         <option value="tag:Retrofit" />
         <option value="tag:Retrofit " />
         <option value="tag:TimeScheduler tag:SunriseSunsetScheduler tag:NightModeReceiver " />
@@ -22,7 +23,6 @@
         <option value="cfi" />
         <option value="With value: {&quot;" />
         <option value="tag:appmetrica" />
-        <option value="appmetrica" />
       </list>
     </option>
   </component>
