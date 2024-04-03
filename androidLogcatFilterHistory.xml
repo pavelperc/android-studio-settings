@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:SelectionManager" />
+    <option name="mostRecentlyUsed" value="tag:Retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit " />
         <option value="tag:SelectionManager" />
         <option value="tag:Retrofit" />
-        <option value="tag:Retrofit " />
         <option value="tag:TimeScheduler tag:SunriseSunsetScheduler tag:NightModeReceiver " />
         <option value="tag:TimeScheduler tag:SunriseSunsetScheduler " />
         <option value="tag:TimeScheduler tag:Sunset" />
