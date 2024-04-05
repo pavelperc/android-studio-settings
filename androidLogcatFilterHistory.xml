@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="cfi" />
+    <option name="mostRecentlyUsed" value="TAGG" />
     <option name="nonFavorites">
       <list>
+        <option value="TAGG" />
         <option value="cfi" />
         <option value="package:mine tag:Retrofit " />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="tag:SaveBookProgressHandler" />
         <option value="save progress" />
         <option value="tag:TAGG" />
-        <option value="applySettings" />
       </list>
     </option>
   </component>
