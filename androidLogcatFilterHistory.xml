@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Retrofit " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:Retrofit " />
+        <option value="package:mine" />
+        <option value="package:mine selection created" />
         <option value="tag:Retrofit " />
         <option value="tag:SelectionManager" />
         <option value="tag:Retrofit" />
@@ -10,7 +13,6 @@
         <option value="tag:TimeScheduler tag:SunriseSunsetScheduler " />
         <option value="tag:TimeScheduler tag:Sunset" />
         <option value="save reading" />
-        <option value="package:mine tag:Retrofit " />
         <option value="tag:SynthesisUIManager " />
         <option value="tag:SynthesisPlaylistManager " />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="tag:TAGG" />
         <option value="applySettings" />
         <option value="cfi" />
-        <option value="With value: {&quot;" />
-        <option value="tag:appmetrica" />
       </list>
     </option>
   </component>
