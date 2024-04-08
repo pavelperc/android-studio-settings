@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Retrofit " />
+    <option name="mostRecentlyUsed" value="tag:SaveReadingHandler " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:SaveReadingHandler " />
+        <option value="tag:SaveReading2Handler" />
         <option value="tag:Retrofit " />
         <option value="cfi" />
         <option value="documentU" />
@@ -21,8 +23,6 @@
         <option value="tag:SynthesisUIManager " />
         <option value="tag:SynthesisPlaylistManager " />
         <option value="package:mine " />
-        <option value="package:mine level:error " />
-        <option value="package:mine level:error  " />
       </list>
     </option>
   </component>
