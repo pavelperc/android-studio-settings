@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Metrics.LoginStarted" />
+    <option name="mostRecentlyUsed" value="cfi" />
     <option name="nonFavorites">
       <list>
+        <option value="cfi" />
+        <option value="documentU" />
+        <option value="documentUuid" />
         <option value="Metrics.LoginStarted" />
         <option value="TAGG" />
-        <option value="cfi" />
         <option value="package:mine tag:Retrofit " />
         <option value="package:mine" />
         <option value="package:mine selection created" />
@@ -21,8 +23,6 @@
         <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine level:error  " />
-        <option value="tag:SaveBookProgressHandler" />
-        <option value="save progress" />
       </list>
     </option>
   </component>
