@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:AppMetrica" />
+    <option name="mostRecentlyUsed" value="tag:Evgen " />
     <option name="nonFavorites">
       <list>
-        <option value="tag:AppMetrica" />
+        <option value="tag:Evgen " />
         <option value="reading2" />
+        <option value="tag:AppMetrica" />
         <option value="tag:Retrofit " />
         <option value="accessed_at" />
         <option value="level:error " />
@@ -22,7 +23,6 @@
         <option value="package:mine selection created" />
         <option value="tag:SelectionManager" />
         <option value="tag:Retrofit" />
-        <option value="tag:TimeScheduler tag:SunriseSunsetScheduler tag:NightModeReceiver " />
       </list>
     </option>
   </component>
