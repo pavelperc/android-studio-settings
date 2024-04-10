@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="reading2" />
+    <option name="mostRecentlyUsed" value="tag:Retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit " />
+        <option value="accessed_at" />
         <option value="reading2" />
         <option value="level:error " />
         <option value="sendUnsyncedReadings" />
-        <option value="tag:Retrofit " />
         <option value="new_cfi_readings" />
         <option value="tag:SaveReadingHandler " />
         <option value="tag:SaveReading2Handler" />
@@ -22,7 +23,6 @@
         <option value="tag:Retrofit" />
         <option value="tag:TimeScheduler tag:SunriseSunsetScheduler tag:NightModeReceiver " />
         <option value="tag:TimeScheduler tag:SunriseSunsetScheduler " />
-        <option value="tag:TimeScheduler tag:Sunset" />
       </list>
     </option>
   </component>
