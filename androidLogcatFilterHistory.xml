@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="reading2" />
     <option name="nonFavorites">
       <list>
-        <option value="level:error " />
         <option value="reading2" />
+        <option value="level:error " />
         <option value="sendUnsyncedReadings" />
         <option value="tag:Retrofit " />
         <option value="new_cfi_readings" />
