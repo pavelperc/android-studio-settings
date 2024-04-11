@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Retrofit " />
+    <option name="mostRecentlyUsed" value="executeJavascript" />
     <option name="nonFavorites">
       <list>
+        <option value="executeJavascript" />
         <option value="tag:Retrofit " />
         <option value="Error." />
         <option value="Error.Error" />
@@ -22,7 +23,6 @@
         <option value="TAGG" />
         <option value="package:mine tag:Retrofit " />
         <option value="package:mine" />
-        <option value="package:mine selection created" />
       </list>
     </option>
   </component>
