@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Evgen " />
+    <option name="mostRecentlyUsed" value="Error." />
     <option name="nonFavorites">
       <list>
+        <option value="Error." />
+        <option value="Error.Error" />
         <option value="tag:Evgen " />
         <option value="reading2" />
         <option value="tag:AppMetrica" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag:Retrofit " />
         <option value="package:mine" />
         <option value="package:mine selection created" />
-        <option value="tag:SelectionManager" />
-        <option value="tag:Retrofit" />
       </list>
     </option>
   </component>
