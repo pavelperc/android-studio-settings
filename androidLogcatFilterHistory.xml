@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Error." />
+    <option name="mostRecentlyUsed" value="tag:Retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit " />
         <option value="Error." />
         <option value="Error.Error" />
         <option value="tag:Evgen " />
         <option value="reading2" />
         <option value="tag:AppMetrica" />
-        <option value="tag:Retrofit " />
         <option value="accessed_at" />
         <option value="level:error " />
         <option value="sendUnsyncedReadings" />
