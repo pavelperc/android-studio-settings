@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="a/5/" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="a/5/" />
         <option value="reading2" />
         <option value="readings&quot;" />
@@ -13,7 +14,6 @@
         <option value="tag:Evgen " />
         <option value="tag:AppMetrica" />
         <option value="accessed_at" />
-        <option value="level:error " />
         <option value="sendUnsyncedReadings" />
         <option value="new_cfi_readings" />
         <option value="tag:SaveReadingHandler " />
