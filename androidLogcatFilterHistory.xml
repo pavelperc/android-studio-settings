@@ -1,14 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="executeJavascript" />
+    <option name="mostRecentlyUsed" value="a/5/" />
     <option name="nonFavorites">
       <list>
+        <option value="a/5/" />
+        <option value="reading2" />
+        <option value="readings&quot;" />
         <option value="executeJavascript" />
         <option value="tag:Retrofit " />
         <option value="Error." />
         <option value="Error.Error" />
         <option value="tag:Evgen " />
-        <option value="reading2" />
         <option value="tag:AppMetrica" />
         <option value="accessed_at" />
         <option value="level:error " />
@@ -21,8 +23,6 @@
         <option value="documentUuid" />
         <option value="Metrics.LoginStarted" />
         <option value="TAGG" />
-        <option value="package:mine tag:Retrofit " />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
