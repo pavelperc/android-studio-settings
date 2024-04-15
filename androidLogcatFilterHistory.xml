@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TAGG " />
+    <option name="mostRecentlyUsed" value="document" />
     <option name="nonFavorites">
       <list>
+        <option value="document" />
+        <option value="document_uuid" />
         <option value="tag:TAGG " />
         <option value="level:error " />
         <option value="a/5/" />
@@ -21,8 +23,6 @@
         <option value="tag:SaveReading2Handler" />
         <option value="cfi" />
         <option value="documentU" />
-        <option value="documentUuid" />
-        <option value="Metrics.LoginStarted" />
       </list>
     </option>
   </component>
