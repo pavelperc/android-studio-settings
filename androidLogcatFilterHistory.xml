@@ -1,17 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="document" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="tag:Retrofit " />
+        <option value="package:mine " />
+        <option value="level:error package:mine" />
         <option value="document" />
         <option value="document_uuid" />
         <option value="tag:TAGG " />
-        <option value="level:error " />
         <option value="a/5/" />
         <option value="reading2" />
         <option value="readings&quot;" />
         <option value="executeJavascript" />
-        <option value="tag:Retrofit " />
         <option value="Error." />
         <option value="Error.Error" />
         <option value="tag:Evgen " />
@@ -21,8 +23,6 @@
         <option value="new_cfi_readings" />
         <option value="tag:SaveReadingHandler " />
         <option value="tag:SaveReading2Handler" />
-        <option value="cfi" />
-        <option value="documentU" />
       </list>
     </option>
   </component>
