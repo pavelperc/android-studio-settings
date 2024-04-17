@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="5/d/reading" />
+    <option name="mostRecentlyUsed" value="graphqlE" />
     <option name="nonFavorites">
       <list>
+        <option value="graphqlE" />
         <option value="5/d/reading" />
         <option value="readings" />
         <option value="tag:BookReaderPagingView" />
@@ -22,7 +23,6 @@
         <option value="Error.Error" />
         <option value="tag:Evgen " />
         <option value="tag:AppMetrica" />
-        <option value="accessed_at" />
       </list>
     </option>
   </component>
