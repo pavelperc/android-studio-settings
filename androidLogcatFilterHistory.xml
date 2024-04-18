@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="graphqlE" />
+    <option name="mostRecentlyUsed" value="tag:Retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit " />
         <option value="graphqlE" />
         <option value="5/d/reading" />
         <option value="readings" />
         <option value="tag:BookReaderPagingView" />
         <option value="goToNext" />
         <option value="level:error " />
-        <option value="tag:Retrofit " />
         <option value="package:mine " />
         <option value="level:error package:mine" />
         <option value="document" />
