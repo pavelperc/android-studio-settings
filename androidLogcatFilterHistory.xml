@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Retrofit " />
+    <option name="mostRecentlyUsed" value="LibraryScreen.Opened" />
     <option name="nonFavorites">
       <list>
+        <option value="LibraryScreen.Opened" />
         <option value="tag:Retrofit " />
         <option value="graphqlE" />
         <option value="5/d/reading" />
@@ -22,7 +23,6 @@
         <option value="Error." />
         <option value="Error.Error" />
         <option value="tag:Evgen " />
-        <option value="tag:AppMetrica" />
       </list>
     </option>
   </component>
