@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:Retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit " />
         <option value="/a/5/d/reading.json" />
         <option value="level:error " />
         <option value="LibraryScreen.Opened" />
-        <option value="tag:Retrofit " />
         <option value="graphqlE" />
         <option value="5/d/reading" />
         <option value="readings" />
