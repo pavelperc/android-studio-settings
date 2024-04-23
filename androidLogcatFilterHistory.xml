@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="bookmark" />
+    <option name="mostRecentlyUsed" value="level:error package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error package:mine " />
         <option value="bookmark" />
         <option value="selection" />
         <option value="tag:Retrofit " />
@@ -22,7 +23,6 @@
         <option value="a/5/" />
         <option value="reading2" />
         <option value="readings&quot;" />
-        <option value="executeJavascript" />
       </list>
     </option>
   </component>
