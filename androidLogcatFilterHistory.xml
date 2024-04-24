@@ -1,15 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="level:error" />
     <option name="nonFavorites">
       <list>
+        <option value="level:error" />
+        <option value="level:error package:ru.plus.bookmate " />
+        <option value="level:error " />
         <option value="documentuuid" />
         <option value="level:error package:mine " />
         <option value="bookmark" />
         <option value="selection" />
         <option value="tag:Retrofit " />
         <option value="/a/5/d/reading.json" />
-        <option value="level:error " />
         <option value="LibraryScreen.Opened" />
         <option value="graphqlE" />
         <option value="5/d/reading" />
@@ -21,8 +23,6 @@
         <option value="document" />
         <option value="document_uuid" />
         <option value="tag:TAGG " />
-        <option value="a/5/" />
-        <option value="reading2" />
       </list>
     </option>
   </component>
