@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error" />
+    <option name="mostRecentlyUsed" value="ErrorShown" />
     <option name="nonFavorites">
       <list>
+        <option value="ErrorShown" />
         <option value="level:error" />
         <option value="level:error package:ru.plus.bookmate " />
         <option value="level:error " />
@@ -22,7 +23,6 @@
         <option value="level:error package:mine" />
         <option value="document" />
         <option value="document_uuid" />
-        <option value="tag:TAGG " />
       </list>
     </option>
   </component>
