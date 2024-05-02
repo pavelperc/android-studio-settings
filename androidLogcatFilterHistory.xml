@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="appMetricaDeviceID" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="appMetricaDeviceID" />
         <option value="appMetricaUuid" />
         <option value="ErrorShown" />
         <option value="level:error" />
         <option value="level:error package:ru.plus.bookmate " />
-        <option value="level:error " />
         <option value="documentuuid" />
         <option value="level:error package:mine " />
         <option value="bookmark" />
