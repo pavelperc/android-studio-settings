@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:Retrofit" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit" />
+        <option value="tag:Retrofit --&gt;" />
+        <option value="tag:Retrofit " />
         <option value="level:error " />
         <option value="appMetricaDeviceID" />
         <option value="appMetricaUuid" />
@@ -13,7 +16,6 @@
         <option value="level:error package:mine " />
         <option value="bookmark" />
         <option value="selection" />
-        <option value="tag:Retrofit " />
         <option value="/a/5/d/reading.json" />
         <option value="LibraryScreen.Opened" />
         <option value="graphqlE" />
@@ -21,8 +23,6 @@
         <option value="readings" />
         <option value="tag:BookReaderPagingView" />
         <option value="goToNext" />
-        <option value="package:mine " />
-        <option value="level:error package:mine" />
       </list>
     </option>
   </component>
