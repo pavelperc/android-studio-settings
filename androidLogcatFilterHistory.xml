@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ReaderJsCallback2" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:plus" />
         <option value="ReaderJsCallback2" />
         <option value="onRenderEnded" />
         <option value="collectFileRequests" />
@@ -22,7 +23,6 @@
         <option value="bookmark" />
         <option value="selection" />
         <option value="/a/5/d/reading.json" />
-        <option value="LibraryScreen.Opened" />
       </list>
     </option>
   </component>
