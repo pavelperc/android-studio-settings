@@ -5,9 +5,12 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:ReaderWebView | tag:ReaderJsCallback2" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ReaderWebView | tag:ReaderJsCallback2" />
+        <option value="tag:ReaderWebView" />
+        <option value="tag:WebviewManager2" />
         <option value="level:error " />
         <option value="process:&quot;ru.plus.bookmate.debug:passport&quot; " />
         <option value="process:ru.plus.bookmate.debug:passport " />
@@ -25,9 +28,6 @@
         <option value="tag:Retrofit " />
         <option value="tag:DiffSynchronizer" />
         <option value="save remote entity" />
-        <option value="tag:Retrofit" />
-        <option value="tag:Retrofit --&gt;" />
-        <option value="appMetricaDeviceID" />
       </list>
     </option>
   </component>
