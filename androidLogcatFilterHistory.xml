@@ -1,8 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="favorites">
+      <list>
+        <option value="tag~:AppMetrica$" />
+      </list>
+    </option>
+    <option name="mostRecentlyUsed" value="tag:WelcomeActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:WelcomeActivity" />
+        <option value="year" />
+        <option value="tag:AppMetrica" />
+        <option value="tag~:AppMetrica$ plus-" />
         <option value="tag:plus" />
         <option value="ReaderJsCallback2" />
         <option value="onRenderEnded" />
@@ -19,10 +28,6 @@
         <option value="level:error" />
         <option value="level:error package:ru.plus.bookmate " />
         <option value="documentuuid" />
-        <option value="level:error package:mine " />
-        <option value="bookmark" />
-        <option value="selection" />
-        <option value="/a/5/d/reading.json" />
       </list>
     </option>
   </component>
