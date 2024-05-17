@@ -5,9 +5,15 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:WelcomeActivity" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="process:&quot;ru.plus.bookmate.debug:passport&quot; " />
+        <option value="process:ru.plus.bookmate.debug:passport " />
+        <option value="package:mine " />
+        <option value="passport package:mine " />
+        <option value="passport" />
         <option value="tag:WelcomeActivity" />
         <option value="year" />
         <option value="tag:AppMetrica" />
@@ -17,17 +23,11 @@
         <option value="onRenderEnded" />
         <option value="collectFileRequests" />
         <option value="tag:Retrofit " />
-        <option value="level:error " />
         <option value="tag:DiffSynchronizer" />
         <option value="save remote entity" />
         <option value="tag:Retrofit" />
         <option value="tag:Retrofit --&gt;" />
         <option value="appMetricaDeviceID" />
-        <option value="appMetricaUuid" />
-        <option value="ErrorShown" />
-        <option value="level:error" />
-        <option value="level:error package:ru.plus.bookmate " />
-        <option value="documentuuid" />
       </list>
     </option>
   </component>
