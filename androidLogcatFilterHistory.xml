@@ -5,9 +5,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="changeSettings" />
     <option name="nonFavorites">
       <list>
+        <option value="changeSettings" />
         <option value="level:error " />
         <option value="onViewP" />
         <option value="onRenderStarted" />
@@ -27,7 +28,6 @@
         <option value="tag:plus" />
         <option value="ReaderJsCallback2" />
         <option value="onRenderEnded" />
-        <option value="collectFileRequests" />
       </list>
     </option>
   </component>
