@@ -5,14 +5,14 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:Retrofit " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
         <option value="tag:Retrofit " />
+        <option value="level:error " />
         <option value="tag:ReaderWebView | tag:ReaderJsCallback2" />
         <option value="tag:ReaderWebView" />
         <option value="tag:WebviewManager2" />
-        <option value="level:error " />
         <option value="process:&quot;ru.plus.bookmate.debug:passport&quot; " />
         <option value="process:ru.plus.bookmate.debug:passport " />
         <option value="package:mine " />
