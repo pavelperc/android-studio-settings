@@ -5,9 +5,14 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="changeSettings" />
+    <option name="mostRecentlyUsed" value="appl" />
     <option name="nonFavorites">
       <list>
+        <option value="appl" />
+        <option value="loadInitial" />
+        <option value="body" />
+        <option value="evaluateJavascript" />
+        <option value="script" />
         <option value="changeSettings" />
         <option value="level:error " />
         <option value="onViewP" />
@@ -23,11 +28,6 @@
         <option value="passport" />
         <option value="tag:WelcomeActivity" />
         <option value="year" />
-        <option value="tag:AppMetrica" />
-        <option value="tag~:AppMetrica$ plus-" />
-        <option value="tag:plus" />
-        <option value="ReaderJsCallback2" />
-        <option value="onRenderEnded" />
       </list>
     </option>
   </component>
