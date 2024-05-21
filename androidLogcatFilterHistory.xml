@@ -5,9 +5,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="appl" />
+    <option name="mostRecentlyUsed" value="readerJS" />
     <option name="nonFavorites">
       <list>
+        <option value="readerJS" />
         <option value="appl" />
         <option value="loadInitial" />
         <option value="body" />
@@ -27,7 +28,6 @@
         <option value="passport package:mine " />
         <option value="passport" />
         <option value="tag:WelcomeActivity" />
-        <option value="year" />
       </list>
     </option>
   </component>
