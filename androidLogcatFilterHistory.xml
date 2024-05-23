@@ -5,9 +5,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="loadInitialHtml" />
+    <option name="mostRecentlyUsed" value="shouldInterceptRequest" />
     <option name="nonFavorites">
       <list>
+        <option value="shouldInterceptRequest" />
         <option value="loadInitialHtml" />
         <option value="ReaderJsCallback2" />
         <option value="onViewProgressChanged(): jsonData" />
@@ -27,7 +28,6 @@
         <option value="onViewP" />
         <option value="onRenderStarted" />
         <option value="tag:ReaderWebView | tag:ReaderJsCallback2" />
-        <option value="tag:ReaderWebView" />
       </list>
     </option>
   </component>
