@@ -5,9 +5,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="readerJS" />
+    <option name="mostRecentlyUsed" value="tag:Retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit " />
         <option value="readerJS" />
         <option value="appl" />
         <option value="loadInitial" />
@@ -18,7 +19,6 @@
         <option value="level:error " />
         <option value="onViewP" />
         <option value="onRenderStarted" />
-        <option value="tag:Retrofit " />
         <option value="tag:ReaderWebView | tag:ReaderJsCallback2" />
         <option value="tag:ReaderWebView" />
         <option value="tag:WebviewManager2" />
