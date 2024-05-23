@@ -5,15 +5,17 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="evalua" />
+    <option name="mostRecentlyUsed" value="onViewProgressChanged(): jsonData" />
     <option name="nonFavorites">
       <list>
+        <option value="onViewProgressChanged(): jsonData" />
+        <option value="onViewProgressChanged" />
         <option value="evalua" />
+        <option value="level:error " />
         <option value="initial" />
         <option value="evaluateJavascript" />
         <option value="ReaderJsCallback2" />
         <option value="progress" />
-        <option value="level:error " />
         <option value="tag:Retrofit " />
         <option value="readerJS" />
         <option value="appl" />
@@ -26,8 +28,6 @@
         <option value="tag:ReaderWebView | tag:ReaderJsCallback2" />
         <option value="tag:ReaderWebView" />
         <option value="tag:WebviewManager2" />
-        <option value="process:&quot;ru.plus.bookmate.debug:passport&quot; " />
-        <option value="process:ru.plus.bookmate.debug:passport " />
       </list>
     </option>
   </component>
