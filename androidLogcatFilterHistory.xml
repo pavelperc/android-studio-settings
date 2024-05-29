@@ -5,9 +5,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:Retrofit" />
+    <option name="mostRecentlyUsed" value="reading.json" />
     <option name="nonFavorites">
       <list>
+        <option value="reading.json" />
         <option value="tag:Retrofit" />
         <option value="shouldInterceptRequest" />
         <option value="loadInitialHtml" />
@@ -27,7 +28,6 @@
         <option value="script" />
         <option value="changeSettings" />
         <option value="onViewP" />
-        <option value="onRenderStarted" />
       </list>
     </option>
   </component>
