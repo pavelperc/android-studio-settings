@@ -5,11 +5,14 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="reading.json" />
+    <option name="mostRecentlyUsed" value="tag:Retrofit" />
     <option name="nonFavorites">
       <list>
-        <option value="reading.json" />
         <option value="tag:Retrofit" />
+        <option value="tag:Retrofit &lt;--" />
+        <option value="tag:AppMetrica experiments" />
+        <option value="&lt;--" />
+        <option value="reading.json" />
         <option value="shouldInterceptRequest" />
         <option value="loadInitialHtml" />
         <option value="ReaderJsCallback2" />
@@ -25,9 +28,6 @@
         <option value="appl" />
         <option value="loadInitial" />
         <option value="body" />
-        <option value="script" />
-        <option value="changeSettings" />
-        <option value="onViewP" />
       </list>
     </option>
   </component>
