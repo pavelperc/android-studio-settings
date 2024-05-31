@@ -5,11 +5,14 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:Retrofit " />
+    <option name="mostRecentlyUsed" value="callback" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:Retrofit " />
+        <option value="callback" />
+        <option value="executeJavascript" />
+        <option value="javascrip" />
         <option value="clearExperiments" />
+        <option value="tag:Retrofit " />
         <option value="&quot;Event received:&quot;" />
         <option value="&quot;Event received: Experiments&quot;" />
         <option value="tag:AppMetrica " />
@@ -25,9 +28,6 @@
         <option value="onViewProgressChanged" />
         <option value="evalua" />
         <option value="level:error " />
-        <option value="initial" />
-        <option value="evaluateJavascript" />
-        <option value="progress" />
       </list>
     </option>
   </component>
