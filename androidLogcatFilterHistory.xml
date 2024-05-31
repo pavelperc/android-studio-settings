@@ -9,11 +9,11 @@
     <option name="nonFavorites">
       <list>
         <option value="level:error " />
+        <option value="tag:Retrofit " />
         <option value="callback" />
         <option value="executeJavascript" />
         <option value="javascrip" />
         <option value="clearExperiments" />
-        <option value="tag:Retrofit " />
         <option value="&quot;Event received:&quot;" />
         <option value="&quot;Event received: Experiments&quot;" />
         <option value="tag:AppMetrica " />
