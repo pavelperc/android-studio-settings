@@ -5,12 +5,12 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="ReaderJsCallback2" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="ReaderJsCallback2" />
         <option value="callback" />
-        <option value="level:error " />
         <option value="tag:Retrofit " />
         <option value="executeJavascript" />
         <option value="javascrip" />
