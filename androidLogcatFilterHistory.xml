@@ -5,9 +5,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="callback" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="callback" />
         <option value="executeJavascript" />
         <option value="javascrip" />
@@ -27,7 +28,6 @@
         <option value="onViewProgressChanged(): jsonData" />
         <option value="onViewProgressChanged" />
         <option value="evalua" />
-        <option value="level:error " />
       </list>
     </option>
   </component>
