@@ -5,12 +5,13 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="ReaderJsCallback2" />
     <option name="nonFavorites">
       <list>
+        <option value="ReaderJsCallback2" />
+        <option value="callback" />
         <option value="level:error " />
         <option value="tag:Retrofit " />
-        <option value="callback" />
         <option value="executeJavascript" />
         <option value="javascrip" />
         <option value="clearExperiments" />
@@ -24,7 +25,6 @@
         <option value="reading.json" />
         <option value="shouldInterceptRequest" />
         <option value="loadInitialHtml" />
-        <option value="ReaderJsCallback2" />
         <option value="onViewProgressChanged(): jsonData" />
         <option value="onViewProgressChanged" />
         <option value="evalua" />
