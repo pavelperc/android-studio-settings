@@ -5,9 +5,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:Retrofit " />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="tag:Retrofit " />
         <option value="uuid" />
         <option value="selection created" />
@@ -19,7 +20,6 @@
         <option value="tag:AppMetrica" />
         <option value="tag:plus-COMMON  " />
         <option value="tag:AppMetrica " />
-        <option value="level:error " />
         <option value="level:error process:ru.plus.bookmate.debug " />
         <option value="ReaderJsCallback2" />
         <option value="callback" />
