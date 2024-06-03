@@ -5,29 +5,29 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:Retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit " />
+        <option value="uuid" />
+        <option value="selection created" />
+        <option value="PlusPayment" />
+        <option value="&quot;PlusPayment.Offer.Show&quot;" />
+        <option value="PlusPayment.Offer.Show" />
+        <option value="tag:plus-COMMON " />
+        <option value="RestDwhAnalyticsRepository" />
+        <option value="tag:AppMetrica" />
+        <option value="tag:plus-COMMON  " />
+        <option value="tag:AppMetrica " />
         <option value="level:error " />
+        <option value="level:error process:ru.plus.bookmate.debug " />
         <option value="ReaderJsCallback2" />
         <option value="callback" />
-        <option value="tag:Retrofit " />
         <option value="executeJavascript" />
         <option value="javascrip" />
         <option value="clearExperiments" />
         <option value="&quot;Event received:&quot;" />
         <option value="&quot;Event received: Experiments&quot;" />
-        <option value="tag:AppMetrica " />
-        <option value="tag:Retrofit" />
-        <option value="tag:Retrofit &lt;--" />
-        <option value="tag:AppMetrica experiments" />
-        <option value="&lt;--" />
-        <option value="reading.json" />
-        <option value="shouldInterceptRequest" />
-        <option value="loadInitialHtml" />
-        <option value="onViewProgressChanged(): jsonData" />
-        <option value="onViewProgressChanged" />
-        <option value="evalua" />
       </list>
     </option>
   </component>
