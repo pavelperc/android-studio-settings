@@ -5,9 +5,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:ChooseLanguageActivity " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ChooseLanguageActivity " />
         <option value="level:error " />
         <option value="tag:Retrofit " />
         <option value="uuid" />
@@ -27,7 +28,6 @@
         <option value="javascrip" />
         <option value="clearExperiments" />
         <option value="&quot;Event received:&quot;" />
-        <option value="&quot;Event received: Experiments&quot;" />
       </list>
     </option>
   </component>
