@@ -5,14 +5,18 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="PlusPayment.Offer" />
+    <option name="mostRecentlyUsed" value="tag:Retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit " />
+        <option value="tag:CrmCommunication" />
+        <option value="tag:CrmCommunicationLoader" />
+        <option value="CrmCommunication" />
+        <option value="tag:Retrofit" />
         <option value="PlusPayment.Offer" />
         <option value="tag:plus-COMMON " />
         <option value="tag:ChooseLanguageActivity " />
         <option value="level:error " />
-        <option value="tag:Retrofit " />
         <option value="uuid" />
         <option value="selection created" />
         <option value="PlusPayment" />
@@ -24,10 +28,6 @@
         <option value="tag:AppMetrica " />
         <option value="level:error process:ru.plus.bookmate.debug " />
         <option value="ReaderJsCallback2" />
-        <option value="callback" />
-        <option value="executeJavascript" />
-        <option value="javascrip" />
-        <option value="clearExperiments" />
       </list>
     </option>
   </component>
