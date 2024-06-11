@@ -5,9 +5,11 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:ChooseLanguageActivity " />
+    <option name="mostRecentlyUsed" value="PlusPayment.Offer" />
     <option name="nonFavorites">
       <list>
+        <option value="PlusPayment.Offer" />
+        <option value="tag:plus-COMMON " />
         <option value="tag:ChooseLanguageActivity " />
         <option value="level:error " />
         <option value="tag:Retrofit " />
@@ -16,7 +18,6 @@
         <option value="PlusPayment" />
         <option value="&quot;PlusPayment.Offer.Show&quot;" />
         <option value="PlusPayment.Offer.Show" />
-        <option value="tag:plus-COMMON " />
         <option value="RestDwhAnalyticsRepository" />
         <option value="tag:AppMetrica" />
         <option value="tag:plus-COMMON  " />
@@ -27,7 +28,6 @@
         <option value="executeJavascript" />
         <option value="javascrip" />
         <option value="clearExperiments" />
-        <option value="&quot;Event received:&quot;" />
       </list>
     </option>
   </component>
