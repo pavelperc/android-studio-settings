@@ -5,11 +5,12 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:Retrofit " />
+    <option name="mostRecentlyUsed" value="tag:StabilityMetrics " />
     <option name="nonFavorites">
       <list>
-        <option value="tag:Retrofit " />
+        <option value="tag:StabilityMetrics " />
         <option value="level:error " />
+        <option value="tag:Retrofit " />
         <option value="cfi" />
         <option value="tag:Retrofit" />
         <option value="PlusPayment.Offer" />
@@ -27,7 +28,6 @@
         <option value="uuid" />
         <option value="selection created" />
         <option value="&quot;PlusPayment.Offer.Show&quot;" />
-        <option value="PlusPayment.Offer.Show" />
       </list>
     </option>
   </component>
