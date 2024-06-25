@@ -5,11 +5,11 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:StabilityMetrics " />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
-        <option value="tag:StabilityMetrics " />
         <option value="level:error " />
+        <option value="tag:StabilityMetrics " />
         <option value="tag:Retrofit " />
         <option value="cfi" />
         <option value="tag:Retrofit" />
