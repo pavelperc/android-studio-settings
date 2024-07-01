@@ -5,29 +5,29 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="compositeOffers" />
     <option name="nonFavorites">
       <list>
-        <option value="level:error " />
-        <option value="tag:StabilityMetrics " />
+        <option value="compositeOffers" />
         <option value="tag:Retrofit " />
-        <option value="cfi" />
-        <option value="tag:Retrofit" />
-        <option value="PlusPayment.Offer" />
-        <option value="PlusPayment" />
-        <option value="tag:plus-COMMON " />
-        <option value="tag:TAGG" />
-        <option value="level:error package:mine " />
-        <option value="--&gt;" />
-        <option value="seeegment" />
-        <option value="tagg" />
-        <option value="tag:CrmCommunication" />
-        <option value="tag:CrmCommunicationLoader" />
-        <option value="CrmCommunication" />
-        <option value="tag:ChooseLanguageActivity " />
-        <option value="uuid" />
-        <option value="selection created" />
-        <option value="&quot;PlusPayment.Offer.Show&quot;" />
+        <option value="tag:WebViewTag " />
+        <option value="executeJavascript" />
+        <option value="loadInitial" />
+        <option value="goToNext" />
+        <option value="tag:WebViewTag" />
+        <option value="tag:Web " />
+        <option value="tag:ReaderWebView " />
+        <option value="tag:BookmateWebViewClient " />
+        <option value="tag:Webview" />
+        <option value="tag:WebView" />
+        <option value="shouldInterceptRequest" />
+        <option value="level:error " />
+        <option value="tag:JsCallbackManager" />
+        <option value="tag:JsCallback" />
+        <option value="AAAA" />
+        <option value="javascript" />
+        <option value="settings" />
+        <option value="tag:TAGG " />
       </list>
     </option>
   </component>
