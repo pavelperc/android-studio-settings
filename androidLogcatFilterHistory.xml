@@ -5,9 +5,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="localeList" />
+    <option name="mostRecentlyUsed" value="tag:ChooseLanguageActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ChooseLanguageActivity" />
         <option value="localeList" />
         <option value="compositeOffers" />
         <option value="tag:Retrofit " />
@@ -27,7 +28,6 @@
         <option value="tag:JsCallback" />
         <option value="AAAA" />
         <option value="javascript" />
-        <option value="settings" />
       </list>
     </option>
   </component>
