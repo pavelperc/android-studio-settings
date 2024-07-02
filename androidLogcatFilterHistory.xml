@@ -5,9 +5,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="compositeOffers" />
+    <option name="mostRecentlyUsed" value="localeList" />
     <option name="nonFavorites">
       <list>
+        <option value="localeList" />
         <option value="compositeOffers" />
         <option value="tag:Retrofit " />
         <option value="tag:WebViewTag " />
@@ -27,7 +28,6 @@
         <option value="AAAA" />
         <option value="javascript" />
         <option value="settings" />
-        <option value="tag:TAGG " />
       </list>
     </option>
   </component>
