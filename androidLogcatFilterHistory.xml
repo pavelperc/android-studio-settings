@@ -5,12 +5,12 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:WebViewTag " />
+    <option name="mostRecentlyUsed" value="executeJava" />
     <option name="nonFavorites">
       <list>
+        <option value="executeJava" />
         <option value="tag:WebViewTag " />
         <option value="onHo" />
-        <option value="executeJava" />
         <option value="executeJavas" />
         <option value="execute" />
         <option value="tag:ChooseLanguageActivity" />
