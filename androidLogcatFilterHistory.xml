@@ -5,16 +5,17 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="executeJavas" />
+    <option name="mostRecentlyUsed" value="executeJava" />
     <option name="nonFavorites">
       <list>
+        <option value="executeJava" />
+        <option value="tag:WebViewTag " />
         <option value="executeJavas" />
         <option value="execute" />
         <option value="tag:ChooseLanguageActivity" />
         <option value="localeList" />
         <option value="compositeOffers" />
         <option value="tag:Retrofit " />
-        <option value="tag:WebViewTag " />
         <option value="executeJavascript" />
         <option value="loadInitial" />
         <option value="goToNext" />
@@ -27,7 +28,6 @@
         <option value="shouldInterceptRequest" />
         <option value="level:error " />
         <option value="tag:JsCallbackManager" />
-        <option value="tag:JsCallback" />
       </list>
     </option>
   </component>
