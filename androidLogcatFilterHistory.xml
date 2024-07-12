@@ -5,9 +5,11 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:ChooseLanguageActivity" />
+    <option name="mostRecentlyUsed" value="executeJavas" />
     <option name="nonFavorites">
       <list>
+        <option value="executeJavas" />
+        <option value="execute" />
         <option value="tag:ChooseLanguageActivity" />
         <option value="localeList" />
         <option value="compositeOffers" />
@@ -26,8 +28,6 @@
         <option value="level:error " />
         <option value="tag:JsCallbackManager" />
         <option value="tag:JsCallback" />
-        <option value="AAAA" />
-        <option value="javascript" />
       </list>
     </option>
   </component>
