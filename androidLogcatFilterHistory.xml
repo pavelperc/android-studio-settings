@@ -5,9 +5,13 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:AppLifecycleManager " />
+    <option name="mostRecentlyUsed" value="tag:TAGG" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TAGG" />
+        <option value="level:error package:mine " />
+        <option value="tag:TAG" />
+        <option value="tag:T" />
         <option value="tag:AppLifecycleManager " />
         <option value="loadInitialHtml-numeration" />
         <option value="tag:WEBVIEWTAG " />
@@ -24,10 +28,6 @@
         <option value="compositeOffers" />
         <option value="tag:Retrofit " />
         <option value="executeJavascript" />
-        <option value="loadInitial" />
-        <option value="goToNext" />
-        <option value="tag:WebViewTag" />
-        <option value="tag:Web " />
       </list>
     </option>
   </component>
