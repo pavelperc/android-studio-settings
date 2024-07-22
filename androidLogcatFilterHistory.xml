@@ -5,14 +5,20 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="executeJava" />
+    <option name="mostRecentlyUsed" value="tag:AppLifecycleManager " />
     <option name="nonFavorites">
       <list>
-        <option value="executeJava" />
+        <option value="tag:AppLifecycleManager " />
+        <option value="loadInitialHtml-numeration" />
+        <option value="tag:WEBVIEWTAG " />
+        <option value="tag:NUUMERATION " />
+        <option value="level:error " />
+        <option value="execute" />
+        <option value="loadInitialHtml" />
         <option value="tag:WebViewTag " />
+        <option value="executeJava" />
         <option value="onHo" />
         <option value="executeJavas" />
-        <option value="execute" />
         <option value="tag:ChooseLanguageActivity" />
         <option value="localeList" />
         <option value="compositeOffers" />
@@ -22,12 +28,6 @@
         <option value="goToNext" />
         <option value="tag:WebViewTag" />
         <option value="tag:Web " />
-        <option value="tag:ReaderWebView " />
-        <option value="tag:BookmateWebViewClient " />
-        <option value="tag:Webview" />
-        <option value="tag:WebView" />
-        <option value="shouldInterceptRequest" />
-        <option value="level:error " />
       </list>
     </option>
   </component>
