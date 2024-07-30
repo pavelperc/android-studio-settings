@@ -5,9 +5,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:WebViewTag " />
+    <option name="mostRecentlyUsed" value="tag:SelectionManager2 " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:SelectionManager2 " />
         <option value="tag:WebViewTag " />
         <option value="level:error " />
         <option value="tag:Retrofit message~:&quot;--&gt; [^E]&quot;" />
@@ -27,7 +28,6 @@
         <option value="tag:NUUMERATION " />
         <option value="execute" />
         <option value="loadInitialHtml" />
-        <option value="executeJava" />
       </list>
     </option>
   </component>
