@@ -5,9 +5,15 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="javascript" />
+    <option name="mostRecentlyUsed" value="tag:Retrofit message~:&quot;--&gt; [^E]&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit message~:&quot;--&gt; [^E]&quot;" />
+        <option value="tag:Retrofit message~:&quot;--&gt; ^[E]&quot;" />
+        <option value="tag:Retrofit message~:&quot;--&gt; (END)&quot;" />
+        <option value="tag:Retrofit &quot;--&gt; END&quot;" />
+        <option value="tag:Retrofit " />
+        <option value="package:ru.plus.bookmate.debug" />
         <option value="javascript" />
         <option value="tag:TAGG" />
         <option value="level:error package:mine " />
@@ -22,12 +28,6 @@
         <option value="loadInitialHtml" />
         <option value="tag:WebViewTag " />
         <option value="executeJava" />
-        <option value="onHo" />
-        <option value="executeJavas" />
-        <option value="tag:ChooseLanguageActivity" />
-        <option value="localeList" />
-        <option value="compositeOffers" />
-        <option value="tag:Retrofit " />
       </list>
     </option>
   </component>
