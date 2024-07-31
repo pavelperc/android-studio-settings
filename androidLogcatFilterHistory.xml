@@ -5,9 +5,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:SwapHelper " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:SwapHelper " />
         <option value="level:error " />
         <option value="tag:Retrofit " />
         <option value="tag:SelectionManager2 " />
@@ -27,7 +28,6 @@
         <option value="tag:WEBVIEWTAG " />
         <option value="tag:NUUMERATION " />
         <option value="execute" />
-        <option value="loadInitialHtml" />
       </list>
     </option>
   </component>
