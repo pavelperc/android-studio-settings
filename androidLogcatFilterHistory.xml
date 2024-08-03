@@ -5,9 +5,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:SelectionManager2 " />
+    <option name="mostRecentlyUsed" value="level:error package:ru.plus.bookmate.qa " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error package:ru.plus.bookmate.qa " />
         <option value="tag:SelectionManager2 " />
         <option value="tag:WebViewTag " />
         <option value="level:error " />
@@ -27,7 +28,6 @@
         <option value="loadInitialHtml-numeration" />
         <option value="tag:WEBVIEWTAG " />
         <option value="tag:NUUMERATION " />
-        <option value="execute" />
       </list>
     </option>
   </component>
