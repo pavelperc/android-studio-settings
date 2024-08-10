@@ -5,15 +5,19 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="pointsAreInTheSameColumn" />
     <option name="nonFavorites">
       <list>
-        <option value="selection" />
+        <option value="pointsAreInTheSameColumn" />
+        <option value="onHorizontalOffsetChange" />
+        <option value="tag:TAGG" />
+        <option value="tag:WebViewTag " />
         <option value="level:error" />
+        <option value="level:error package:mine " />
+        <option value="level:error " />
+        <option value="selection" />
         <option value="level:error package:ru.plus.bookmate.qa " />
         <option value="tag:SelectionManager2 " />
-        <option value="tag:WebViewTag " />
-        <option value="level:error " />
         <option value="tag:SwapHelper " />
         <option value="tag:Retrofit " />
         <option value="tag:Retrofit message~:&quot;--&gt; [^E]&quot;" />
@@ -22,12 +26,8 @@
         <option value="tag:Retrofit &quot;--&gt; END&quot;" />
         <option value="package:ru.plus.bookmate.debug" />
         <option value="javascript" />
-        <option value="tag:TAGG" />
-        <option value="level:error package:mine " />
         <option value="tag:TAG" />
         <option value="tag:T" />
-        <option value="tag:AppLifecycleManager " />
-        <option value="loadInitialHtml-numeration" />
       </list>
     </option>
   </component>
