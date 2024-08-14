@@ -5,9 +5,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="pointsAreInTheSameColumn" />
+    <option name="mostRecentlyUsed" value="tag:WebViewTag" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:WebViewTag" />
         <option value="pointsAreInTheSameColumn" />
         <option value="onHorizontalOffsetChange" />
         <option value="tag:TAGG" />
@@ -27,7 +28,6 @@
         <option value="package:ru.plus.bookmate.debug" />
         <option value="javascript" />
         <option value="tag:TAG" />
-        <option value="tag:T" />
       </list>
     </option>
   </component>
