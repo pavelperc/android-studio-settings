@@ -5,9 +5,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:WebViewTag " />
+    <option name="mostRecentlyUsed" value="tag:GetPlusOfferUsecase" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:GetPlusOfferUsecase" />
         <option value="tag:WebViewTag " />
         <option value="tag:ContextMenuManager2" />
         <option value="tag:WebViewTag" />
@@ -27,7 +28,6 @@
         <option value="tag:Retrofit message~:&quot;--&gt; (END)&quot;" />
         <option value="tag:Retrofit &quot;--&gt; END&quot;" />
         <option value="package:ru.plus.bookmate.debug" />
-        <option value="javascript" />
       </list>
     </option>
   </component>
