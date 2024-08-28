@@ -2,12 +2,16 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="tag:Retrofit message~:&quot;--&gt; [^E]&quot;" />
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:GetPlusOfferUsecase" />
+    <option name="mostRecentlyUsed" value="tag:Retrofit message~:&quot;--&gt; [^E]&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit" />
+        <option value="tag:Retrofit message~:&quot;--&gt; (END)&quot;" />
+        <option value="tag:Retrofit " />
         <option value="tag:GetPlusOfferUsecase" />
         <option value="tag:WebViewTag " />
         <option value="tag:ContextMenuManager2" />
@@ -22,10 +26,7 @@
         <option value="level:error package:ru.plus.bookmate.qa " />
         <option value="tag:SelectionManager2 " />
         <option value="tag:SwapHelper " />
-        <option value="tag:Retrofit " />
-        <option value="tag:Retrofit message~:&quot;--&gt; [^E]&quot;" />
         <option value="tag:Retrofit message~:&quot;--&gt; ^[E]&quot;" />
-        <option value="tag:Retrofit message~:&quot;--&gt; (END)&quot;" />
         <option value="tag:Retrofit &quot;--&gt; END&quot;" />
         <option value="package:ru.plus.bookmate.debug" />
       </list>
