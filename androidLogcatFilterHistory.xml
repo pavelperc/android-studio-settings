@@ -6,9 +6,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:Retrofit" />
+    <option name="mostRecentlyUsed" value="tag:TAGG" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TAGG" />
         <option value="tag:Retrofit" />
         <option value="tag:Retrofit message~:&quot;--&gt; (END)&quot;" />
         <option value="tag:Retrofit " />
@@ -18,7 +19,6 @@
         <option value="tag:WebViewTag" />
         <option value="pointsAreInTheSameColumn" />
         <option value="onHorizontalOffsetChange" />
-        <option value="tag:TAGG" />
         <option value="level:error" />
         <option value="level:error package:mine " />
         <option value="level:error " />
