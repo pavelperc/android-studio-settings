@@ -6,9 +6,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:TAGG" />
+    <option name="mostRecentlyUsed" value="tag:TAGG onScrollChanged" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TAGG onScrollChanged" />
         <option value="tag:TAGG" />
         <option value="tag:Retrofit" />
         <option value="tag:Retrofit message~:&quot;--&gt; (END)&quot;" />
@@ -28,7 +29,6 @@
         <option value="tag:SwapHelper " />
         <option value="tag:Retrofit message~:&quot;--&gt; ^[E]&quot;" />
         <option value="tag:Retrofit &quot;--&gt; END&quot;" />
-        <option value="package:ru.plus.bookmate.debug" />
       </list>
     </option>
   </component>
