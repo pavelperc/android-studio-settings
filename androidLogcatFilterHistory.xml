@@ -6,9 +6,11 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:TAGG onScrollChanged" />
+    <option name="mostRecentlyUsed" value="tag:WebViewTag" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:WebViewTag" />
+        <option value="tag:W" />
         <option value="tag:TAGG onScrollChanged" />
         <option value="tag:TAGG" />
         <option value="tag:Retrofit" />
@@ -17,7 +19,6 @@
         <option value="tag:GetPlusOfferUsecase" />
         <option value="tag:WebViewTag " />
         <option value="tag:ContextMenuManager2" />
-        <option value="tag:WebViewTag" />
         <option value="pointsAreInTheSameColumn" />
         <option value="onHorizontalOffsetChange" />
         <option value="level:error" />
@@ -28,7 +29,6 @@
         <option value="tag:SelectionManager2 " />
         <option value="tag:SwapHelper " />
         <option value="tag:Retrofit message~:&quot;--&gt; ^[E]&quot;" />
-        <option value="tag:Retrofit &quot;--&gt; END&quot;" />
       </list>
     </option>
   </component>
