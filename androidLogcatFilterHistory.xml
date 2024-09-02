@@ -6,9 +6,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:WebViewTag" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="tag:WebViewTag" />
         <option value="tag:W" />
         <option value="tag:TAGG onScrollChanged" />
@@ -23,7 +24,6 @@
         <option value="onHorizontalOffsetChange" />
         <option value="level:error" />
         <option value="level:error package:mine " />
-        <option value="level:error " />
         <option value="selection" />
         <option value="level:error package:ru.plus.bookmate.qa " />
         <option value="tag:SelectionManager2 " />
