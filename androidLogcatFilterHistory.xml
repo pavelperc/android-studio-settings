@@ -6,9 +6,11 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:TAGG" />
+    <option name="mostRecentlyUsed" value="tag:NumerationWebView " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:NumerationWebView " />
+        <option value="updateNumeration" />
         <option value="tag:TAGG" />
         <option value="level:error " />
         <option value="tag:WebViewTag" />
@@ -27,8 +29,6 @@
         <option value="selection" />
         <option value="level:error package:ru.plus.bookmate.qa " />
         <option value="tag:SelectionManager2 " />
-        <option value="tag:SwapHelper " />
-        <option value="tag:Retrofit message~:&quot;--&gt; ^[E]&quot;" />
       </list>
     </option>
   </component>
