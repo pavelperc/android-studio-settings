@@ -6,13 +6,15 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:Retrofit" />
+    <option name="mostRecentlyUsed" value="tag:NumerationWebView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:NumerationWebView" />
+        <option value="onCalculateCountOfPageEnded" />
+        <option value="tag:NumerationWebView " />
         <option value="tag:Retrofit" />
         <option value="tag:ParsedBookMetadata" />
         <option value="tag:ReaderWebView  " />
-        <option value="tag:NumerationWebView " />
         <option value="updateNumeration" />
         <option value="tag:TAGG" />
         <option value="level:error " />
@@ -27,8 +29,6 @@
         <option value="pointsAreInTheSameColumn" />
         <option value="onHorizontalOffsetChange" />
         <option value="level:error" />
-        <option value="level:error package:mine " />
-        <option value="selection" />
       </list>
     </option>
   </component>
