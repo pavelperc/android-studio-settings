@@ -6,9 +6,11 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:ParsedBookMetadata " />
+    <option name="mostRecentlyUsed" value="readerIsLoadingDebounced" />
     <option name="nonFavorites">
       <list>
+        <option value="readerIsLoadingDebounced" />
+        <option value="collectReaderState" />
         <option value="tag:ParsedBookMetadata " />
         <option value="metadata" />
         <option value="tag:ParsedBookMetadata" />
@@ -27,8 +29,6 @@
         <option value="tag:TAGG onScrollChanged" />
         <option value="tag:Retrofit message~:&quot;--&gt; (END)&quot;" />
         <option value="tag:Retrofit " />
-        <option value="tag:GetPlusOfferUsecase" />
-        <option value="tag:WebViewTag " />
       </list>
     </option>
   </component>
