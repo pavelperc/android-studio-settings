@@ -6,9 +6,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:Retrofit" />
+    <option name="mostRecentlyUsed" value="tag:AppMetrica " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:AppMetrica " />
         <option value="tag:Retrofit" />
         <option value="tag:Re" />
         <option value="level:error " />
@@ -28,7 +29,6 @@
         <option value="tag:WebViewTag " />
         <option value="tag:ContextMenuManager2" />
         <option value="pointsAreInTheSameColumn" />
-        <option value="onHorizontalOffsetChange" />
       </list>
     </option>
   </component>
