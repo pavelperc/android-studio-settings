@@ -6,9 +6,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="readerIsLoadingDebounced" />
+    <option name="mostRecentlyUsed" value="tag:TAGG" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TAGG" />
         <option value="readerIsLoadingDebounced" />
         <option value="collectReaderState" />
         <option value="tag:ParsedBookMetadata " />
@@ -23,7 +24,6 @@
         <option value="tag:NumerationWebView " />
         <option value="tag:ReaderWebView  " />
         <option value="updateNumeration" />
-        <option value="tag:TAGG" />
         <option value="tag:WebViewTag" />
         <option value="tag:W" />
         <option value="tag:TAGG onScrollChanged" />
