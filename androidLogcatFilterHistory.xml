@@ -6,15 +6,17 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:ReaderWebView  JS_API" />
+    <option name="mostRecentlyUsed" value="tag: " />
     <option name="nonFavorites">
       <list>
+        <option value="tag: " />
+        <option value="tag:ParsedBookMetadata " />
+        <option value="tag:Retrofit " />
         <option value="tag:ReaderWebView  JS_API" />
         <option value="tag:ReaderWebView  " />
         <option value="tag:TAGG" />
         <option value="readerIsLoadingDebounced" />
         <option value="collectReaderState" />
-        <option value="tag:ParsedBookMetadata " />
         <option value="metadata" />
         <option value="tag:ParsedBookMetadata" />
         <option value="tag:AppMetrica " />
@@ -27,8 +29,6 @@
         <option value="updateNumeration" />
         <option value="tag:WebViewTag" />
         <option value="tag:W" />
-        <option value="tag:TAGG onScrollChanged" />
-        <option value="tag:Retrofit message~:&quot;--&gt; (END)&quot;" />
       </list>
     </option>
   </component>
