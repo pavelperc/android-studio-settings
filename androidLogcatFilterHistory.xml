@@ -6,9 +6,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="/api/v5/books/recommendations" />
+    <option name="mostRecentlyUsed" value="saved progress" />
     <option name="nonFavorites">
       <list>
+        <option value="saved progress" />
         <option value="recommendations" />
         <option value="/api/v5/books/recommendations" />
         <option value="tag: " />
@@ -28,7 +29,6 @@
         <option value="tag:NumerationWebView" />
         <option value="onCalculateCountOfPageEnded" />
         <option value="tag:NumerationWebView " />
-        <option value="updateNumeration" />
       </list>
     </option>
   </component>
