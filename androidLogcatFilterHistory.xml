@@ -6,9 +6,11 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:ReaderWebView JS_LOAD_HTML" />
+    <option name="mostRecentlyUsed" value="tag:ReaderWebView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ReaderWebView" />
+        <option value="tag:" />
         <option value="tag:ReaderWebView JS_LOAD_HTML" />
         <option value="tag:ReaderWebView " />
         <option value="tag:retrofit " />
@@ -16,7 +18,6 @@
         <option value="scheduleTurningPage" />
         <option value="tag:MediaSessionStub" />
         <option value="synthesis state changed" />
-        <option value="tag:ReaderWebView" />
         <option value="saved progress" />
         <option value="recommendations" />
         <option value="/api/v5/books/recommendations" />
@@ -28,7 +29,6 @@
         <option value="tag:TAGG" />
         <option value="readerIsLoadingDebounced" />
         <option value="collectReaderState" />
-        <option value="metadata" />
       </list>
     </option>
   </component>
