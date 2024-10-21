@@ -6,13 +6,14 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="scheduleTurningPage" />
+    <option name="mostRecentlyUsed" value="tag:retrofit " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:retrofit " />
+        <option value="level:error " />
         <option value="scheduleTurningPage" />
         <option value="tag:MediaSessionStub" />
         <option value="synthesis state changed" />
-        <option value="level:error " />
         <option value="tag:ReaderWebView" />
         <option value="saved progress" />
         <option value="recommendations" />
@@ -28,7 +29,6 @@
         <option value="metadata" />
         <option value="tag:ParsedBookMetadata" />
         <option value="tag:AppMetrica " />
-        <option value="tag:Retrofit" />
       </list>
     </option>
   </component>
