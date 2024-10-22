@@ -6,9 +6,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="startObserveProgress" />
+    <option name="mostRecentlyUsed" value="tag:NumerationWebView " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:NumerationWebView " />
         <option value="startObserveProgress" />
         <option value="tag:ReaderWebView" />
         <option value="tag:" />
@@ -28,7 +29,6 @@
         <option value="tag:ReaderWebView  JS_API" />
         <option value="tag:ReaderWebView  " />
         <option value="tag:TAGG" />
-        <option value="readerIsLoadingDebounced" />
       </list>
     </option>
   </component>
