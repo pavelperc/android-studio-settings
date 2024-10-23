@@ -6,9 +6,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:Retrofit " />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="tag:Retrofit " />
         <option value="tag:NumerationWebView " />
         <option value="startObserveProgress" />
@@ -17,7 +18,6 @@
         <option value="tag:ReaderWebView JS_LOAD_HTML" />
         <option value="tag:ReaderWebView " />
         <option value="tag:retrofit " />
-        <option value="level:error " />
         <option value="scheduleTurningPage" />
         <option value="tag:MediaSessionStub" />
         <option value="synthesis state changed" />
