@@ -6,9 +6,12 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:TAGG" />
+    <option name="mostRecentlyUsed" value="tag:MainActivity " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MainActivity " />
+        <option value="bm_locale" />
+        <option value="package:mine " />
         <option value="tag:TAGG" />
         <option value="level:error " />
         <option value="tag:Retrofit " />
@@ -26,9 +29,6 @@
         <option value="recommendations" />
         <option value="/api/v5/books/recommendations" />
         <option value="tag: " />
-        <option value="tag:ParsedBookMetadata " />
-        <option value="tag:ReaderWebView  JS_API" />
-        <option value="tag:ReaderWebView  " />
       </list>
     </option>
   </component>
