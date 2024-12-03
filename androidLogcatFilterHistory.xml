@@ -6,29 +6,29 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:MainActivity " />
+    <option name="mostRecentlyUsed" value="selection created" />
     <option name="nonFavorites">
       <list>
+        <option value="selection created" />
+        <option value="select" />
+        <option value="tag:ParsedBookMetadata " />
+        <option value="tag:" />
+        <option value="tag:Retrofit " />
+        <option value="metadata_secret" />
         <option value="tag:MainActivity " />
         <option value="bm_locale" />
         <option value="package:mine " />
         <option value="tag:TAGG" />
         <option value="level:error " />
-        <option value="tag:Retrofit " />
         <option value="tag:NumerationWebView " />
         <option value="startObserveProgress" />
         <option value="tag:ReaderWebView" />
-        <option value="tag:" />
         <option value="tag:ReaderWebView JS_LOAD_HTML" />
         <option value="tag:ReaderWebView " />
         <option value="tag:retrofit " />
         <option value="scheduleTurningPage" />
         <option value="tag:MediaSessionStub" />
         <option value="synthesis state changed" />
-        <option value="saved progress" />
-        <option value="recommendations" />
-        <option value="/api/v5/books/recommendations" />
-        <option value="tag: " />
       </list>
     </option>
   </component>
