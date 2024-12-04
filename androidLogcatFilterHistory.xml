@@ -6,9 +6,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:ChooseLanguageActivity" />
+    <option name="mostRecentlyUsed" value="фтвкщшв" />
     <option name="nonFavorites">
       <list>
+        <option value="фтвкщшв" />
         <option value="tag:ChooseLanguageActivity" />
         <option value="level:error " />
         <option value="package:mine level:error " />
@@ -28,7 +29,6 @@
         <option value="tag:ReaderWebView" />
         <option value="tag:ReaderWebView JS_LOAD_HTML" />
         <option value="tag:ReaderWebView " />
-        <option value="tag:retrofit " />
       </list>
     </option>
   </component>
