@@ -10,6 +10,7 @@
     <option name="nonFavorites">
       <list>
         <option value="x-country" />
+        <option value="UserCountryChanged" />
         <option value="x" />
         <option value="measure_tag" />
         <option value="фтвкщшв" />
@@ -28,7 +29,6 @@
         <option value="bm_locale" />
         <option value="tag:TAGG" />
         <option value="tag:NumerationWebView " />
-        <option value="startObserveProgress" />
       </list>
     </option>
   </component>
