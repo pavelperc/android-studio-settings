@@ -6,9 +6,11 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="measure_tag" />
+    <option name="mostRecentlyUsed" value="x-country" />
     <option name="nonFavorites">
       <list>
+        <option value="x-country" />
+        <option value="x" />
         <option value="measure_tag" />
         <option value="фтвкщшв" />
         <option value="tag:ChooseLanguageActivity" />
@@ -27,8 +29,6 @@
         <option value="tag:TAGG" />
         <option value="tag:NumerationWebView " />
         <option value="startObserveProgress" />
-        <option value="tag:ReaderWebView" />
-        <option value="tag:ReaderWebView JS_LOAD_HTML" />
       </list>
     </option>
   </component>
