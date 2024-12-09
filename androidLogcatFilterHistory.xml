@@ -6,9 +6,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="x-country" />
+    <option name="mostRecentlyUsed" value="tag:Retrofit" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit" />
         <option value="x-country" />
         <option value="UserCountryChanged" />
         <option value="x" />
@@ -28,7 +29,6 @@
         <option value="tag:MainActivity " />
         <option value="bm_locale" />
         <option value="tag:TAGG" />
-        <option value="tag:NumerationWebView " />
       </list>
     </option>
   </component>
