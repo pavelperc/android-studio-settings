@@ -6,9 +6,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:Retrofit" />
+    <option name="mostRecentlyUsed" value="tag:MiniPanelStateHolder" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MiniPanelStateHolder" />
         <option value="tag:Retrofit" />
         <option value="x-country" />
         <option value="UserCountryChanged" />
@@ -28,7 +29,6 @@
         <option value="metadata_secret" />
         <option value="tag:MainActivity " />
         <option value="bm_locale" />
-        <option value="tag:TAGG" />
       </list>
     </option>
   </component>
