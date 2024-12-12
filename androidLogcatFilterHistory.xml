@@ -6,9 +6,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:MiniPanelStateHolder" />
+    <option name="mostRecentlyUsed" value="PlayerShutter" />
     <option name="nonFavorites">
       <list>
+        <option value="PlayerShutter" />
         <option value="tag:MiniPanelStateHolder" />
         <option value="tag:Retrofit" />
         <option value="x-country" />
@@ -28,7 +29,6 @@
         <option value="tag:Retrofit " />
         <option value="metadata_secret" />
         <option value="tag:MainActivity " />
-        <option value="bm_locale" />
       </list>
     </option>
   </component>
