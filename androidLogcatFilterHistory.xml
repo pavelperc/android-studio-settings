@@ -6,11 +6,15 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="PlayerShutter" />
+    <option name="mostRecentlyUsed" value="combo" />
     <option name="nonFavorites">
       <list>
-        <option value="PlayerShutter" />
+        <option value="combo" />
+        <option value="level:error " />
+        <option value="тоннель" />
         <option value="tag:MiniPanelStateHolder" />
+        <option value="tag:" />
+        <option value="PlayerShutter" />
         <option value="tag:Retrofit" />
         <option value="x-country" />
         <option value="UserCountryChanged" />
@@ -18,17 +22,13 @@
         <option value="measure_tag" />
         <option value="фтвкщшв" />
         <option value="tag:ChooseLanguageActivity" />
-        <option value="level:error " />
         <option value="package:mine level:error " />
         <option value="package:mine " />
         <option value="level:warn " />
         <option value="selection created" />
         <option value="select" />
         <option value="tag:ParsedBookMetadata " />
-        <option value="tag:" />
         <option value="tag:Retrofit " />
-        <option value="metadata_secret" />
-        <option value="tag:MainActivity " />
       </list>
     </option>
   </component>
