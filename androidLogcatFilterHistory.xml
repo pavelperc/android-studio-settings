@@ -6,9 +6,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="appmetrica" />
     <option name="nonFavorites">
       <list>
+        <option value="appmetrica" />
         <option value="level:error " />
         <option value="tag:Retrofit " />
         <option value="combo" />
@@ -28,7 +29,6 @@
         <option value="level:warn " />
         <option value="selection created" />
         <option value="select" />
-        <option value="tag:ParsedBookMetadata " />
       </list>
     </option>
   </component>
