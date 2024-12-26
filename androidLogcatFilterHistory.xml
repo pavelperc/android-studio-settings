@@ -6,9 +6,11 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:ParsedBookMetadata" />
+    <option name="mostRecentlyUsed" value="JS_LOAD_HTML" />
     <option name="nonFavorites">
       <list>
+        <option value="JS_LOAD_HTML" />
+        <option value="html" />
         <option value="tag:ParsedBookMetadata" />
         <option value="compositeOffers" />
         <option value="tag:GetPlusOfferUsecase" />
@@ -27,8 +29,6 @@
         <option value="x-country" />
         <option value="UserCountryChanged" />
         <option value="x" />
-        <option value="measure_tag" />
-        <option value="фтвкщшв" />
       </list>
     </option>
   </component>
