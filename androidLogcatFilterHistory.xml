@@ -6,9 +6,11 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:GetPlusOfferUsecase " />
+    <option name="mostRecentlyUsed" value="tag:EpubManager" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:EpubManager" />
+        <option value="tag:ReaderLoader " />
         <option value="tag:GetPlusOfferUsecase " />
         <option value="tag:Retrofit " />
         <option value="tag:retrofit " />
@@ -27,8 +29,6 @@
         <option value="combo" />
         <option value="тоннель" />
         <option value="tag:MiniPanelStateHolder" />
-        <option value="PlayerShutter" />
-        <option value="tag:Retrofit" />
       </list>
     </option>
   </component>
