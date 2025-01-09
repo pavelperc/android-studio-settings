@@ -6,9 +6,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:Retrofit " />
+    <option name="mostRecentlyUsed" value="tag:GetPlusOfferUsecase " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:GetPlusOfferUsecase " />
         <option value="tag:Retrofit " />
         <option value="tag:retrofit " />
         <option value="level:error " />
@@ -28,7 +29,6 @@
         <option value="tag:MiniPanelStateHolder" />
         <option value="PlayerShutter" />
         <option value="tag:Retrofit" />
-        <option value="x-country" />
       </list>
     </option>
   </component>
