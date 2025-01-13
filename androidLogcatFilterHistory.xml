@@ -6,9 +6,12 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="&quot;operationName&quot;:&quot;Search" />
+    <option name="mostRecentlyUsed" value="tag:TAGG " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TAGG " />
+        <option value="tag:TAGG Счастливый пирог" />
+        <option value="tag:TAGG" />
         <option value="&quot;operationName&quot;:&quot;Search" />
         <option value="tag:Retrofit " />
         <option value="tag:EpubManager" />
@@ -26,9 +29,6 @@
         <option value="getResources" />
         <option value="tag:" />
         <option value="tag:ChooseLanguageActivity" />
-        <option value="appmetrica" />
-        <option value="combo" />
-        <option value="тоннель" />
       </list>
     </option>
   </component>
