@@ -6,9 +6,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:TAGG " />
+    <option name="mostRecentlyUsed" value="Tracking period" />
     <option name="nonFavorites">
       <list>
+        <option value="Tracking period" />
         <option value="tag:TAGG " />
         <option value="tag:TAGG Счастливый пирог" />
         <option value="tag:TAGG" />
@@ -28,7 +29,6 @@
         <option value="tag:measure_tag" />
         <option value="getResources" />
         <option value="tag:" />
-        <option value="tag:ChooseLanguageActivity" />
       </list>
     </option>
   </component>
