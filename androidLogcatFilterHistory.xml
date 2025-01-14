@@ -6,9 +6,11 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="[JS_API]" />
+    <option name="mostRecentlyUsed" value="tag:ReaderWebView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ReaderWebView" />
+        <option value="package:mine " />
         <option value="[JS_API]" />
         <option value="onFilePagesCount" />
         <option value="level:error " />
@@ -27,8 +29,6 @@
         <option value="JS_LOAD_HTML" />
         <option value="html" />
         <option value="tag:ParsedBookMetadata" />
-        <option value="compositeOffers" />
-        <option value="tag:GetPlusOfferUsecase" />
       </list>
     </option>
   </component>
