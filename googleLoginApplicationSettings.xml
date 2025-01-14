@@ -1,0 +1,17 @@
+<application>
+  <component name="GoogleLoginApplicationSettings">
+    <option name="activeUser" value="pavelperc@yandex-team.ru" />
+    <option name="userEmail2FeaturesStore">
+      <map>
+        <entry key="pavelperc@yandex-team.ru">
+          <value>
+            <set>
+              <option value="Gemini" />
+              <option value="User Info" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

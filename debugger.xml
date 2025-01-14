@@ -80,6 +80,11 @@
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
+    <filter>
+      <option name="PATTERN" value="kotlinx.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
   </component>
   <component name="XDebuggerSettings">
     <data-views />
@@ -87,6 +92,7 @@
     <debuggers>
       <debugger id="ObjectiveC">
         <configuration>
+          <macOS-symbol-settings />
           <nt-symbol-settings />
         </configuration>
       </debugger>
