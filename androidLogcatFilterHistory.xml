@@ -6,9 +6,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="onFilePagesCount" />
+    <option name="mostRecentlyUsed" value="[JS_API]" />
     <option name="nonFavorites">
       <list>
+        <option value="[JS_API]" />
         <option value="onFilePagesCount" />
         <option value="level:error " />
         <option value="tag:ChooseLanguageActivity" />
@@ -28,7 +29,6 @@
         <option value="tag:ParsedBookMetadata" />
         <option value="compositeOffers" />
         <option value="tag:GetPlusOfferUsecase" />
-        <option value="tag:measure_tag" />
       </list>
     </option>
   </component>
