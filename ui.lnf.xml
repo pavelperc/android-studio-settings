@@ -5,7 +5,8 @@
   <component name="UISettings">
     <option name="DIFFERENTIATE_PROJECTS" value="false" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="14" />
-    <option name="UI_DENSITY" value="COMPACT" />
+    <option name="NAVIGATION_BAR_LOCATION" value="TOP" />
+    <option name="SHOW_NAVIGATION_BAR_MEMBERS" value="false" />
     <option name="WIDESCREEN_SUPPORT" value="true" />
   </component>
 </application>

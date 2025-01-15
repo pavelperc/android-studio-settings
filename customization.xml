@@ -70,6 +70,10 @@
       <path value="Main Toolbar" />
       <path value="Right" />
     </group>
+    <group value="EvaluateExpression" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Debug Header Toolbar" />
+    </group>
     <action id="main.toolbar.Project" icon="jar:file:/Applications/Android%20Studio.app/Contents/lib/app.jar!/expui/toolbar/unknown.svg" />
     <action id="LocalHistory.ShowSelectionHistory" icon="jar:file:/Applications/Android%20Studio.app/Contents/lib/app.jar!/expui/toolbar/unknown.svg" />
     <action id="Vcs.ShowHistoryForBlock" icon="jar:file:/Applications/Android%20Studio.app/Contents/lib/app.jar!/expui/toolbar/unknown.svg" />
