@@ -6,12 +6,12 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="JS_CALLBACK" />
+    <option name="mostRecentlyUsed" value="tag:ReaderWebView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ReaderWebView" />
         <option value="JS_CALLBACK" />
         <option value="onFilePagesCount" />
-        <option value="tag:ReaderWebView" />
         <option value="package:mine " />
         <option value="[JS_API]" />
         <option value="level:error " />
