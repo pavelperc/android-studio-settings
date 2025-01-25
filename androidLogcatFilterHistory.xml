@@ -6,16 +6,16 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:TAGG" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="tag:TAGG" />
         <option value="tag:ReaderWebView" />
         <option value="JS_CALLBACK" />
         <option value="onFilePagesCount" />
         <option value="package:mine " />
         <option value="[JS_API]" />
-        <option value="level:error " />
         <option value="tag:ChooseLanguageActivity" />
         <option value="Tracking period" />
         <option value="tag:TAGG " />
