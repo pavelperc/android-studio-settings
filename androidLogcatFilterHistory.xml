@@ -6,9 +6,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:TAGG" />
+    <option name="mostRecentlyUsed" value="tag:ReaderWebView " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ReaderWebView " />
         <option value="tag:TAGG" />
         <option value="level:error " />
         <option value="tag:ReaderWebView" />
@@ -28,7 +29,6 @@
         <option value="tag:retrofit " />
         <option value="tag:MetadataParser" />
         <option value="JS_LOAD_HTML" />
-        <option value="html" />
       </list>
     </option>
   </component>
