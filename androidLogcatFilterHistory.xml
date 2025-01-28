@@ -6,12 +6,13 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:ReaderWebView JS_API" />
+    <option name="mostRecentlyUsed" value="tag:ReaderWebView onViewProgressChanged" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ReaderWebView onViewProgressChanged" />
+        <option value="tag:ReaderWebView progre" />
         <option value="tag:ReaderWebView JS_API" />
         <option value="level:error package:mine " />
-        <option value="tag:ReaderWebView onViewProgressChanged" />
         <option value="tag:ReaderWebView " />
         <option value="tag:TAGG" />
         <option value="level:error " />
@@ -28,7 +29,6 @@
         <option value="tag:Retrofit " />
         <option value="tag:EpubManager" />
         <option value="tag:ReaderLoader " />
-        <option value="tag:GetPlusOfferUsecase " />
       </list>
     </option>
   </component>
