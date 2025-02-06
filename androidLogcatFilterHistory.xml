@@ -6,9 +6,12 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:TAGG " />
+    <option name="mostRecentlyUsed" value="tag:ReaderWebView JS_API" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ReaderWebView JS_API" />
+        <option value="tag:ReaderWebView JS_CALLBACK" />
+        <option value="sendUnsyncedReadings" />
         <option value="tag:TAGG " />
         <option value="level:error " />
         <option value="tag:SynthesisSettingsRepository" />
@@ -16,19 +19,16 @@
         <option value="tag:TAGG" />
         <option value="observeAppLanguageChanges" />
         <option value="tag:Retrofit" />
-        <option value="tag:ReaderWebView JS_CALLBACK" />
         <option value="tag:ReaderWebView onViewProgressChanged" />
         <option value="tag:NumerationWebView JS_CALLBACK" />
         <option value="tag:NumerationWebView JS" />
         <option value="tag:NumerationWebView " />
         <option value="tag:ReaderWebView progre" />
-        <option value="tag:ReaderWebView JS_API" />
         <option value="level:error package:mine " />
         <option value="tag:ReaderWebView " />
         <option value="tag:ReaderWebView" />
         <option value="JS_CALLBACK" />
         <option value="onFilePagesCount" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
