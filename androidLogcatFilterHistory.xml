@@ -6,9 +6,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="deleteBookmarkSuspend" />
     <option name="nonFavorites">
       <list>
+        <option value="deleteBookmarkSuspend" />
         <option value="level:error " />
         <option value="tag:ReaderWebView setBookmarks" />
         <option value="tag:ReaderWebView JS_CALLBACK" />
@@ -28,7 +29,6 @@
         <option value="level:error package:mine " />
         <option value="tag:ReaderWebView " />
         <option value="tag:ReaderWebView" />
-        <option value="JS_CALLBACK" />
       </list>
     </option>
   </component>
