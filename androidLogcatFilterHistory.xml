@@ -6,9 +6,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="deleteBookmarkSuspend" />
+    <option name="mostRecentlyUsed" value="tag:Retrofit message~:&quot;--&gt; [^E]&quot;" />
     <option name="nonFavorites">
       <list>
+        <option value="--&gt;" />
         <option value="deleteBookmarkSuspend" />
         <option value="level:error " />
         <option value="tag:ReaderWebView setBookmarks" />
@@ -28,7 +29,6 @@
         <option value="tag:ReaderWebView progre" />
         <option value="level:error package:mine " />
         <option value="tag:ReaderWebView " />
-        <option value="tag:ReaderWebView" />
       </list>
     </option>
   </component>
