@@ -2,13 +2,19 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
+        <option value="tag:Retrofit {&quot;readings&quot; | {&quot;library_cards" />
         <option value="tag:Retrofit message~:&quot;--&gt; [^E]&quot;" />
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="selection created" />
+    <option name="mostRecentlyUsed" value="tag:Retrofit {&quot;readings&quot; | {&quot;library_cards" />
     <option name="nonFavorites">
       <list>
+        <option value="reading." />
+        <option value="tag:Retrofit {&quot;readings&quot; | " />
+        <option value="tag:Retrofit " />
+        <option value="tag:Retrofit &lt;--\ 2 | {" />
+        <option value="sync" />
         <option value="selection created" />
         <option value="select" />
         <option value="cfi" />
@@ -23,12 +29,6 @@
         <option value="tag:SynthesisSettingsRepository" />
         <option value="tag:" />
         <option value="tag:TAGG" />
-        <option value="observeAppLanguageChanges" />
-        <option value="tag:Retrofit" />
-        <option value="tag:ReaderWebView onViewProgressChanged" />
-        <option value="tag:NumerationWebView JS_CALLBACK" />
-        <option value="tag:NumerationWebView JS" />
-        <option value="tag:NumerationWebView " />
       </list>
     </option>
   </component>
