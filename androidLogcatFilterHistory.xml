@@ -6,15 +6,15 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:Retrofit message~:&quot;--&gt; [^E]&quot;" />
+    <option name="mostRecentlyUsed" value="tag:ReaderWebView JS_API" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ReaderWebView JS_API" />
+        <option value="tag:ReaderWebView JS_CALLBACK" />
         <option value="--&gt;" />
         <option value="deleteBookmarkSuspend" />
         <option value="level:error " />
         <option value="tag:ReaderWebView setBookmarks" />
-        <option value="tag:ReaderWebView JS_CALLBACK" />
-        <option value="tag:ReaderWebView JS_API" />
         <option value="sendUnsyncedReadings" />
         <option value="tag:TAGG " />
         <option value="tag:SynthesisSettingsRepository" />
