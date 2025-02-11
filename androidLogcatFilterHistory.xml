@@ -7,9 +7,12 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:ReaderWebView JS_CALLBACK" />
+    <option name="mostRecentlyUsed" value="tag:ReaderWebView onRender | setSettings" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ReaderWebView onRender | setSettings" />
+        <option value="tag:ReaderWebView onRender" />
+        <option value="tag:JsSettingsConverter" />
         <option value="tag:ReaderWebView JS_CALLBACK" />
         <option value="level:error " />
         <option value="tag:ReaderWebView JS_API" />
@@ -27,9 +30,6 @@
         <option value="deleteBookmarkSuspend" />
         <option value="tag:ReaderWebView setBookmarks" />
         <option value="sendUnsyncedReadings" />
-        <option value="tag:TAGG " />
-        <option value="tag:SynthesisSettingsRepository" />
-        <option value="tag:" />
       </list>
     </option>
   </component>
