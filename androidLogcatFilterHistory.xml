@@ -6,9 +6,12 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:ReaderWebView JS_API" />
+    <option name="mostRecentlyUsed" value="selection created" />
     <option name="nonFavorites">
       <list>
+        <option value="selection created" />
+        <option value="select" />
+        <option value="cfi" />
         <option value="tag:ReaderWebView JS_API" />
         <option value="tag:ReaderWebView JS_CALLBACK" />
         <option value="--&gt;" />
@@ -26,9 +29,6 @@
         <option value="tag:NumerationWebView JS_CALLBACK" />
         <option value="tag:NumerationWebView JS" />
         <option value="tag:NumerationWebView " />
-        <option value="tag:ReaderWebView progre" />
-        <option value="level:error package:mine " />
-        <option value="tag:ReaderWebView " />
       </list>
     </option>
   </component>
