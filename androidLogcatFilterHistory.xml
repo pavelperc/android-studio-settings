@@ -7,11 +7,11 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:ReaderWebView onRender | setSettings" />
+    <option name="mostRecentlyUsed" value="tag:ReaderWebView onRender" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:ReaderWebView onRender | setSettings" />
         <option value="tag:ReaderWebView onRender" />
+        <option value="tag:ReaderWebView onRender | setSettings" />
         <option value="tag:JsSettingsConverter" />
         <option value="tag:ReaderWebView JS_CALLBACK" />
         <option value="level:error " />
