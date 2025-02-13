@@ -7,9 +7,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:ReaderWebView JS_API" />
+    <option name="mostRecentlyUsed" value="handleFling" />
     <option name="nonFavorites">
       <list>
+        <option value="handleFling" />
         <option value="tag:ReaderWebView JS_API" />
         <option value="tag:ReaderWebView" />
         <option value="tag:ReaderWebView onRender" />
@@ -29,7 +30,6 @@
         <option value="--&gt;" />
         <option value="deleteBookmarkSuspend" />
         <option value="tag:ReaderWebView setBookmarks" />
-        <option value="sendUnsyncedReadings" />
       </list>
     </option>
   </component>
