@@ -29,6 +29,11 @@
       <path value="Right" />
       <path value="Android Main Toolbar Right" />
     </group>
+    <group value="Tool_External Tools_run detekt" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Center" />
+    </group>
     <group value="VcsGlobalGroup" is_group="true" forse_popup="true" action_type="1" position="2">
       <path value="root" />
       <path value="Main Menu" />
@@ -75,6 +80,7 @@
       <path value="Debug Header Toolbar" />
     </group>
     <action id="main.toolbar.Project" icon="jar:file:/Applications/Android%20Studio.app/Contents/lib/app.jar!/expui/toolbar/unknown.svg" />
+    <action id="Tool_External Tools_run detekt" icon="io.gitlab.arturbosch.detekt.idea.webviews.ShowRulesAction" />
     <action id="LocalHistory.ShowSelectionHistory" icon="jar:file:/Applications/Android%20Studio.app/Contents/lib/app.jar!/expui/toolbar/unknown.svg" />
     <action id="Vcs.ShowHistoryForBlock" icon="jar:file:/Applications/Android%20Studio.app/Contents/lib/app.jar!/expui/toolbar/unknown.svg" />
     <action id="VcsGlobalGroup" icon="jar:file:/Applications/Android%20Studio.app/Contents/lib/app.jar!/expui/toolbar/unknown.svg" />
