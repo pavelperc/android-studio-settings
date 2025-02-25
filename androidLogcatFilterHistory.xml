@@ -11,6 +11,7 @@
     <option name="nonFavorites">
       <list>
         <option value="tag:ReaderWebView  runRepaint" />
+        <option value="package:mine " />
         <option value="tag:ReaderWebView  " />
         <option value="updateNumeration" />
         <option value="tag:NumerationWebView " />
@@ -29,7 +30,6 @@
         <option value="reading." />
         <option value="tag:Retrofit {&quot;readings&quot; | " />
         <option value="tag:Retrofit " />
-        <option value="tag:Retrofit &lt;--\ 2 | {" />
       </list>
     </option>
   </component>
