@@ -7,9 +7,11 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:ReaderWebView " />
+    <option name="mostRecentlyUsed" value="tag:ReaderWebView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ReaderWebView" />
+        <option value="tag:ReaderWebView runRepaint" />
         <option value="tag:ReaderWebView " />
         <option value="tag:ReaderWebView  runRepaint" />
         <option value="package:mine " />
@@ -22,14 +24,12 @@
         <option value="tag:JsPaddingsBuilder" />
         <option value="JsPaddingsBuilder" />
         <option value="handleFling" />
-        <option value="tag:ReaderWebView" />
         <option value="tag:ReaderWebView onRender" />
         <option value="tag:ReaderWebView onRender | setSettings" />
         <option value="tag:JsSettingsConverter" />
         <option value="tag:ReaderWebView JS_CALLBACK" />
         <option value="screenConfig" />
         <option value="reading." />
-        <option value="tag:Retrofit {&quot;readings&quot; | " />
       </list>
     </option>
   </component>
