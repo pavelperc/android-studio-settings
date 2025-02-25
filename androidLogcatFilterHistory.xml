@@ -7,12 +7,13 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:ReaderWebView setSettings" />
+    <option name="mostRecentlyUsed" value="tag:NumerationWebView " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:NumerationWebView " />
+        <option value="level:error " />
         <option value="tag:ReaderWebView setSettings" />
         <option value="tag:ReaderWebView JS_API" />
-        <option value="level:error " />
         <option value="tag:JsPaddingsBuilder" />
         <option value="JsPaddingsBuilder" />
         <option value="handleFling" />
@@ -29,7 +30,6 @@
         <option value="sync" />
         <option value="selection created" />
         <option value="select" />
-        <option value="cfi" />
       </list>
     </option>
   </component>
