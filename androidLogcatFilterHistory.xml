@@ -7,9 +7,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:NumerationWebView " />
+    <option name="mostRecentlyUsed" value="updateNumeration" />
     <option name="nonFavorites">
       <list>
+        <option value="updateNumeration" />
         <option value="tag:NumerationWebView " />
         <option value="level:error " />
         <option value="tag:ReaderWebView setSettings" />
@@ -29,7 +30,6 @@
         <option value="tag:Retrofit &lt;--\ 2 | {" />
         <option value="sync" />
         <option value="selection created" />
-        <option value="select" />
       </list>
     </option>
   </component>
