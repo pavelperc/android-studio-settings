@@ -7,12 +7,12 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:ReaderWebView runRepaint" />
+    <option name="mostRecentlyUsed" value="tag:ReaderWebView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ReaderWebView" />
         <option value="tag:ReaderWebView runRepaint" />
         <option value="tag:ReaderWebView " />
-        <option value="tag:ReaderWebView" />
         <option value="tag:ReaderWebView  runRepaint" />
         <option value="package:mine " />
         <option value="tag:ReaderWebView  " />
