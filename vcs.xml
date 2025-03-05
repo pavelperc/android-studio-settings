@@ -14,4 +14,7 @@
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Desktop" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="false" />
   </component>
+  <component name="VcsEditorTab.Settings">
+    <option name="openInNewWindow" value="true" />
+  </component>
 </application>

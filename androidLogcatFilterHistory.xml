@@ -7,29 +7,29 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:ReaderWebView" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ReaderWebView" />
+        <option value="tag:ReaderWebView &quot;Page()&quot;" />
+        <option value="tag:ReaderWebView JS_API" />
+        <option value="tag:ReaderWebView " />
+        <option value="startSettleAnimation" />
+        <option value="onHistoryNavigationHandlersActive" />
         <option value="level:error " />
         <option value="TAGG | NumerationWebView" />
         <option value="renderingState | NumerationWebView" />
         <option value="renderingState | JS_API" />
         <option value="renderingState" />
         <option value="tag:NumerationWebView " />
-        <option value="tag:ReaderWebView JS_API" />
-        <option value="tag:ReaderWebView" />
         <option value="updateNumeration" />
         <option value="tag:ReaderWebView runRepaint" />
         <option value="tag:ScreenConfigManager" />
         <option value="buildJsPaddings" />
         <option value="build" />
-        <option value="tag:ReaderWebView " />
         <option value="tag:ReaderWebView  runRepaint" />
         <option value="package:mine " />
         <option value="tag:ReaderWebView  " />
-        <option value="tag:ReaderWebView setSettings" />
-        <option value="tag:JsPaddingsBuilder" />
-        <option value="JsPaddingsBuilder" />
       </list>
     </option>
   </component>
