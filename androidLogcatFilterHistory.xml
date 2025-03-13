@@ -7,9 +7,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:ReaderWebView " />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="tag:ReaderWebView " />
         <option value="ipad" />
         <option value="large" />
@@ -17,7 +18,6 @@
         <option value="large=" />
         <option value="url" />
         <option value="404" />
-        <option value="level:error " />
         <option value="tag:ReaderTouchInterceptor" />
         <option value="tag:ReaderWebView" />
         <option value="tag:ReaderWebView &quot;Page()&quot;" />
