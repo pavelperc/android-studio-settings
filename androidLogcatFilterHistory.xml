@@ -7,9 +7,14 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="404" />
+    <option name="mostRecentlyUsed" value="ipad" />
     <option name="nonFavorites">
       <list>
+        <option value="ipad" />
+        <option value="large" />
+        <option value="cover" />
+        <option value="large=" />
+        <option value="url" />
         <option value="404" />
         <option value="tag:ReaderWebView " />
         <option value="level:error " />
@@ -25,11 +30,6 @@
         <option value="renderingState" />
         <option value="tag:NumerationWebView " />
         <option value="updateNumeration" />
-        <option value="tag:ReaderWebView runRepaint" />
-        <option value="tag:ScreenConfigManager" />
-        <option value="buildJsPaddings" />
-        <option value="build" />
-        <option value="tag:ReaderWebView  runRepaint" />
       </list>
     </option>
   </component>
