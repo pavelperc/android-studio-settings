@@ -40,10 +40,20 @@
       <path value="Git" />
       <path value="Vcs.MainMenu" />
     </group>
+    <group value="Tool_External Tools_transync push" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Left" />
+    </group>
     <group value="VcsToolbarLabelAction" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Right" />
+    </group>
+    <group value="Tool_External Tools_transync pull" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Left" />
     </group>
     <group value="Vcs.UpdateProject" is_action="true" action_type="1" position="4">
       <path value="root" />
@@ -80,9 +90,11 @@
       <path value="Debug Header Toolbar" />
     </group>
     <action id="main.toolbar.Project" icon="jar:file:/Applications/Android%20Studio.app/Contents/lib/app.jar!/expui/toolbar/unknown.svg" />
-    <action id="Tool_External Tools_run detekt" icon="io.gitlab.arturbosch.detekt.idea.webviews.ShowRulesAction" />
     <action id="LocalHistory.ShowSelectionHistory" icon="jar:file:/Applications/Android%20Studio.app/Contents/lib/app.jar!/expui/toolbar/unknown.svg" />
+    <action id="Tool_External Tools_transync pull" icon="jar:file:/Applications/Android%20Studio.app/Contents/lib/app.jar!/expui/general/import.svg" />
     <action id="Vcs.ShowHistoryForBlock" icon="jar:file:/Applications/Android%20Studio.app/Contents/lib/app.jar!/expui/toolbar/unknown.svg" />
+    <action id="Tool_External Tools_run detekt" icon="io.gitlab.arturbosch.detekt.idea.webviews.ShowRulesAction" />
+    <action id="Tool_External Tools_transync push" icon="jar:file:/Applications/Android%20Studio.app/Contents/lib/app.jar!/expui/general/export.svg" />
     <action id="VcsGlobalGroup" icon="jar:file:/Applications/Android%20Studio.app/Contents/lib/app.jar!/expui/toolbar/unknown.svg" />
   </component>
 </application>

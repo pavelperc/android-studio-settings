@@ -7,29 +7,29 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:ReaderWebView   " />
     <option name="nonFavorites">
       <list>
-        <option value="level:error " />
+        <option value="tag:ReaderWebView   " />
+        <option value="tag:Retrofit  " />
         <option value="tag:ReaderWebView " />
+        <option value="tag:Reade " />
+        <option value="updateNumeration" />
+        <option value="tag:TAGG" />
+        <option value="level:error " />
+        <option value="tag:NightModeManager " />
+        <option value="tag:ReaderTouchInterceptor" />
+        <option value="handle" />
+        <option value="tag:ReaderGestureListener " />
+        <option value="build version" />
+        <option value="tag:chromium " />
+        <option value="JS_CONSOLE" />
         <option value="ipad" />
         <option value="large" />
         <option value="cover" />
         <option value="large=" />
         <option value="url" />
         <option value="404" />
-        <option value="tag:ReaderTouchInterceptor" />
-        <option value="tag:ReaderWebView" />
-        <option value="tag:ReaderWebView &quot;Page()&quot;" />
-        <option value="tag:ReaderWebView JS_API" />
-        <option value="startSettleAnimation" />
-        <option value="onHistoryNavigationHandlersActive" />
-        <option value="TAGG | NumerationWebView" />
-        <option value="renderingState | NumerationWebView" />
-        <option value="renderingState | JS_API" />
-        <option value="renderingState" />
-        <option value="tag:NumerationWebView " />
-        <option value="updateNumeration" />
       </list>
     </option>
   </component>
