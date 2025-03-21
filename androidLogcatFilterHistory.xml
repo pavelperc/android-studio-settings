@@ -7,9 +7,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:NumerationWebView  " />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="tag:NumerationWebView  " />
         <option value="tag:ReaderWebView " />
         <option value="build " />
@@ -18,7 +19,6 @@
         <option value="tag:Reade " />
         <option value="updateNumeration" />
         <option value="tag:TAGG" />
-        <option value="level:error " />
         <option value="tag:NightModeManager " />
         <option value="tag:ReaderTouchInterceptor" />
         <option value="handle" />
