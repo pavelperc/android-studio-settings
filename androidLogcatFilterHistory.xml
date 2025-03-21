@@ -7,9 +7,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:ReaderWebView   " />
+    <option name="mostRecentlyUsed" value="build " />
     <option name="nonFavorites">
       <list>
+        <option value="build " />
         <option value="tag:ReaderWebView   " />
         <option value="tag:Retrofit  " />
         <option value="tag:ReaderWebView " />
@@ -29,7 +30,6 @@
         <option value="cover" />
         <option value="large=" />
         <option value="url" />
-        <option value="404" />
       </list>
     </option>
   </component>
