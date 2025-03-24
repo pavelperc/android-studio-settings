@@ -7,14 +7,15 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tagg" />
+    <option name="mostRecentlyUsed" value="tag:MetadataParser" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MetadataParser" />
+        <option value="raw" />
         <option value="tagg" />
         <option value="tag:MetadataParser " />
         <option value="level:error " />
         <option value="metrica" />
-        <option value="tag:MetadataParser" />
         <option value="metadata" />
         <option value="tag:ReaderWebView  " />
         <option value="tag:NumerationWebView  " />
@@ -29,7 +30,6 @@
         <option value="tag:ReaderTouchInterceptor" />
         <option value="handle" />
         <option value="tag:ReaderGestureListener " />
-        <option value="build version" />
       </list>
     </option>
   </component>
