@@ -7,9 +7,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:MetadataParser " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MetadataParser " />
         <option value="level:error " />
         <option value="metrica" />
         <option value="tag:MetadataParser" />
@@ -29,7 +30,6 @@
         <option value="tag:ReaderGestureListener " />
         <option value="build version" />
         <option value="tag:chromium " />
-        <option value="JS_CONSOLE" />
       </list>
     </option>
   </component>
