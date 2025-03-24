@@ -7,14 +7,14 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="metrica" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="metrica" />
         <option value="tag:MetadataParser" />
         <option value="metadata" />
         <option value="tag:ReaderWebView  " />
-        <option value="level:error " />
         <option value="tag:NumerationWebView  " />
         <option value="tag:ReaderWebView " />
         <option value="build " />
