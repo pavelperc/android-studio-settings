@@ -1,0 +1,33 @@
+<application>
+  <component name="CodeGPT_CustomServicesSettings">
+    <option name="active">
+      <CustomServiceSettingsState>
+        <option name="chatCompletionSettings">
+          <CustomServiceChatCompletionSettingsState>
+            <option name="body" value="{&quot;stream&quot;:true,&quot;model&quot;:&quot;gpt-4&quot;,&quot;messages&quot;:&quot;$OPENAI_MESSAGES&quot;,&quot;temperature&quot;:0.1,&quot;max_tokens&quot;:1024}" />
+            <option name="headers">
+              <map>
+                <entry key="Authorization" value="Bearer $CUSTOM_SERVICE_API_KEY" />
+                <entry key="Content-Type" value="application/json" />
+                <entry key="X-LLM-Application-Tag" value="proxyai" />
+              </map>
+            </option>
+          </CustomServiceChatCompletionSettingsState>
+        </option>
+        <option name="codeCompletionSettings">
+          <CustomServiceCodeCompletionSettingsState>
+            <option name="body" value="{&quot;suffix&quot;:&quot;$SUFFIX&quot;,&quot;stream&quot;:true,&quot;model&quot;:&quot;gpt-3.5-turbo-instruct&quot;,&quot;temperature&quot;:0.2,&quot;prompt&quot;:&quot;$PREFIX&quot;,&quot;max_tokens&quot;:24}" />
+            <option name="headers">
+              <map>
+                <entry key="Authorization" value="Bearer $CUSTOM_SERVICE_API_KEY" />
+                <entry key="Content-Type" value="application/json" />
+                <entry key="X-LLM-Application-Tag" value="proxyai" />
+              </map>
+            </option>
+          </CustomServiceCodeCompletionSettingsState>
+        </option>
+      </CustomServiceSettingsState>
+    </option>
+    <option name="services" value="[{&quot;headers&quot;:{},&quot;name&quot;:&quot;Default&quot;,&quot;body&quot;:{},&quot;url&quot;:null,&quot;template&quot;:&quot;OPENAI&quot;,&quot;chatCompletionSettings&quot;:{&quot;headers&quot;:{&quot;Authorization&quot;:&quot;Bearer $CUSTOM_SERVICE_API_KEY&quot;,&quot;X-LLM-Application-Tag&quot;:&quot;proxyai&quot;,&quot;Content-Type&quot;:&quot;application/json&quot;},&quot;body&quot;:{&quot;stream&quot;:true,&quot;model&quot;:&quot;gpt-4&quot;,&quot;messages&quot;:&quot;$OPENAI_MESSAGES&quot;,&quot;temperature&quot;:0.1,&quot;max_tokens&quot;:1024},&quot;url&quot;:&quot;https://api.openai.com/v1/chat/completions&quot;,&quot;modificationCount&quot;:8,&quot;equalToDefault&quot;:false},&quot;codeCompletionSettings&quot;:{&quot;headers&quot;:{&quot;Authorization&quot;:&quot;Bearer $CUSTOM_SERVICE_API_KEY&quot;,&quot;X-LLM-Application-Tag&quot;:&quot;proxyai&quot;,&quot;Content-Type&quot;:&quot;application/json&quot;},&quot;body&quot;:{&quot;suffix&quot;:&quot;$SUFFIX&quot;,&quot;stream&quot;:true,&quot;model&quot;:&quot;gpt-3.5-turbo-instruct&quot;,&quot;temperature&quot;:0.2,&quot;prompt&quot;:&quot;$PREFIX&quot;,&quot;max_tokens&quot;:24},&quot;url&quot;:&quot;https://api.openai.com/v1/completions&quot;,&quot;infillTemplate&quot;:&quot;OPENAI&quot;,&quot;parseResponseAsChatCompletions&quot;:false,&quot;codeCompletionsEnabled&quot;:true,&quot;modificationCount&quot;:9,&quot;equalToDefault&quot;:false},&quot;modificationCount&quot;:17,&quot;equalToDefault&quot;:false}]" />
+  </component>
+</application>
