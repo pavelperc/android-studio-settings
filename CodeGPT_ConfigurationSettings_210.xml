@@ -1,5 +1,6 @@
 <application>
   <component name="CodeGPT_ConfigurationSettings_210">
+    <option name="checkForPluginUpdates" value="false" />
     <option name="tableData">
       <map>
         <entry key="Explain" value="Explain the selected code {{selectedCode}}" />
