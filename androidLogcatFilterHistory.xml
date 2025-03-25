@@ -7,9 +7,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:MetadataParser" />
+    <option name="mostRecentlyUsed" value="rescheduleTimeout" />
     <option name="nonFavorites">
       <list>
+        <option value="rescheduleTimeout" />
         <option value="tag:MetadataParser" />
         <option value="raw" />
         <option value="tagg" />
@@ -29,7 +30,6 @@
         <option value="tag:NightModeManager " />
         <option value="tag:ReaderTouchInterceptor" />
         <option value="handle" />
-        <option value="tag:ReaderGestureListener " />
       </list>
     </option>
   </component>
