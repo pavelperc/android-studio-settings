@@ -7,29 +7,29 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="rescheduleTimeout" />
+    <option name="mostRecentlyUsed" value="ReaderLastOpenDiff =&gt;" />
     <option name="nonFavorites">
       <list>
+        <option value="ReaderLastOpenDiff =&gt;" />
+        <option value="ReaderLastOpenDiff" />
+        <option value="DebugInfo.ReaderLastOpenDiff" />
+        <option value="debugInfo" />
+        <option value="tag:ReaderWebView" />
+        <option value="tag:ReaderWebView onReadingCFI" />
+        <option value="tag:ReaderWebView " />
+        <option value="tag:ReaderWebView onHorizontalOffsetChange" />
+        <option value="tag:ScreenTimeoutManager" />
+        <option value="tag:ReaderWebView  onHorizontalOffsetChange" />
+        <option value="level:error " />
+        <option value="tag:ReaderWebView  " />
+        <option value="version " />
+        <option value="CONSOLE" />
+        <option value="console" />
         <option value="rescheduleTimeout" />
         <option value="tag:MetadataParser" />
         <option value="raw" />
         <option value="tagg" />
         <option value="tag:MetadataParser " />
-        <option value="level:error " />
-        <option value="metrica" />
-        <option value="metadata" />
-        <option value="tag:ReaderWebView  " />
-        <option value="tag:NumerationWebView  " />
-        <option value="tag:ReaderWebView " />
-        <option value="build " />
-        <option value="tag:ReaderWebView   " />
-        <option value="tag:Retrofit  " />
-        <option value="tag:Reade " />
-        <option value="updateNumeration" />
-        <option value="tag:TAGG" />
-        <option value="tag:NightModeManager " />
-        <option value="tag:ReaderTouchInterceptor" />
-        <option value="handle" />
       </list>
     </option>
   </component>
