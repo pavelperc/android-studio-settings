@@ -7,9 +7,13 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="ReaderLastOpenDiff =&gt;" />
+    <option name="mostRecentlyUsed" value="build version" />
     <option name="nonFavorites">
       <list>
+        <option value="build version" />
+        <option value="tag:chromium" />
+        <option value="local build" />
+        <option value="local bu" />
         <option value="ReaderLastOpenDiff =&gt;" />
         <option value="ReaderLastOpenDiff" />
         <option value="DebugInfo.ReaderLastOpenDiff" />
@@ -26,10 +30,6 @@
         <option value="CONSOLE" />
         <option value="console" />
         <option value="rescheduleTimeout" />
-        <option value="tag:MetadataParser" />
-        <option value="raw" />
-        <option value="tagg" />
-        <option value="tag:MetadataParser " />
       </list>
     </option>
   </component>
