@@ -7,11 +7,11 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="build version" />
+    <option name="mostRecentlyUsed" value="tag:chromium" />
     <option name="nonFavorites">
       <list>
-        <option value="build version" />
         <option value="tag:chromium" />
+        <option value="build version" />
         <option value="local build" />
         <option value="local bu" />
         <option value="ReaderLastOpenDiff =&gt;" />
