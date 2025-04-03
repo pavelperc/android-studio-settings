@@ -11,6 +11,7 @@
     <option name="nonFavorites">
       <list>
         <option value="level:error " />
+        <option value="tag:Retrofit " />
         <option value="tag:chromium" />
         <option value="build version" />
         <option value="local build" />
@@ -29,7 +30,6 @@
         <option value="version " />
         <option value="CONSOLE" />
         <option value="console" />
-        <option value="rescheduleTimeout" />
       </list>
     </option>
   </component>
