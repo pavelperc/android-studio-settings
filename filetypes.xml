@@ -12,6 +12,7 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Paszzaz2" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="xltx" type="PLAIN_TEXT" />
       <mapping ext="hpb" type="PLAIN_TEXT" />
       <mapping ext="e2" type="PLAIN_TEXT" />
