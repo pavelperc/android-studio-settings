@@ -3,5 +3,12 @@
     <option name="acceptedTermsVersion" value="3" />
     <option name="contextSharingModeV2" value="NeverShare" />
     <option name="onboardedVersion" value="3" />
+    <option name="queryHistory">
+      <list>
+        <historyEntry timestamp="1743709827163">пока</historyEntry>
+        <historyEntry timestamp="1743709818559">привет</historyEntry>
+        <historyEntry timestamp="1743709805739">What is the latest version of WorkManager?</historyEntry>
+      </list>
+    </option>
   </component>
 </application>
