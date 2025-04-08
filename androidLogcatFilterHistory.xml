@@ -7,9 +7,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:Retrofit" />
+    <option name="mostRecentlyUsed" value="tag:ReaderWebView " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ReaderWebView " />
         <option value="tag:Retrofit" />
         <option value="tag:Retrofit --" />
         <option value="tag:Retrofit " />
@@ -25,7 +26,6 @@
         <option value="debugInfo" />
         <option value="tag:ReaderWebView" />
         <option value="tag:ReaderWebView onReadingCFI" />
-        <option value="tag:ReaderWebView " />
         <option value="tag:ReaderWebView onHorizontalOffsetChange" />
         <option value="tag:ScreenTimeoutManager" />
         <option value="tag:ReaderWebView  onHorizontalOffsetChange" />
