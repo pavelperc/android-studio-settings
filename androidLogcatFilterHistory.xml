@@ -7,12 +7,14 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:chromium  " />
+    <option name="mostRecentlyUsed" value="tag:Retrofit" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Retrofit" />
+        <option value="tag:Retrofit --" />
+        <option value="tag:Retrofit " />
         <option value="tag:chromium  " />
         <option value="level:error " />
-        <option value="tag:Retrofit " />
         <option value="tag:chromium" />
         <option value="build version" />
         <option value="local build" />
@@ -28,8 +30,6 @@
         <option value="tag:ScreenTimeoutManager" />
         <option value="tag:ReaderWebView  onHorizontalOffsetChange" />
         <option value="tag:ReaderWebView  " />
-        <option value="version " />
-        <option value="CONSOLE" />
       </list>
     </option>
   </component>
