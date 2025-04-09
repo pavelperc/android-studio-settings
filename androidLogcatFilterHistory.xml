@@ -7,9 +7,11 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="BrightnessGestureTouched" />
     <option name="nonFavorites">
       <list>
+        <option value="BrightnessGestureTouched" />
+        <option value="Reader Settings" />
         <option value="level:error " />
         <option value="tag:ReaderWebView " />
         <option value="tag:Retrofit" />
@@ -28,8 +30,6 @@
         <option value="tag:ReaderWebView onReadingCFI" />
         <option value="tag:ReaderWebView onHorizontalOffsetChange" />
         <option value="tag:ScreenTimeoutManager" />
-        <option value="tag:ReaderWebView  onHorizontalOffsetChange" />
-        <option value="tag:ReaderWebView  " />
       </list>
     </option>
   </component>
