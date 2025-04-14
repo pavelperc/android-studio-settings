@@ -2,34 +2,34 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="tag:Retrofit {&quot;readings&quot; | {&quot;library_cards" />
         <option value="tag:Retrofit message~:&quot;--&gt; [^E]&quot;" />
+        <option value="tag:Retrofit {&quot;readings&quot; | {&quot;library_cards" />
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="BrightnessGestureTouched" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
-        <option value="BrightnessGestureTouched" />
-        <option value="Reader Settings" />
         <option value="level:error " />
-        <option value="tag:ReaderWebView " />
         <option value="tag:Retrofit" />
-        <option value="tag:Retrofit --" />
-        <option value="tag:Retrofit " />
-        <option value="tag:chromium  " />
-        <option value="tag:chromium" />
-        <option value="build version" />
-        <option value="local build" />
-        <option value="local bu" />
-        <option value="ReaderLastOpenDiff =&gt;" />
-        <option value="ReaderLastOpenDiff" />
-        <option value="DebugInfo.ReaderLastOpenDiff" />
-        <option value="debugInfo" />
-        <option value="tag:ReaderWebView" />
-        <option value="tag:ReaderWebView onReadingCFI" />
-        <option value="tag:ReaderWebView onHorizontalOffsetChange" />
-        <option value="tag:ScreenTimeoutManager" />
+        <option value="tag:ReaderWebView " />
+        <option value="tag:AppMetrica  =&gt;" />
+        <option value="tag:AppMetrica  " />
+        <option value="chromi" />
+        <option value="tag:" />
+        <option value="&quot;Event received: UIBlock&quot;" />
+        <option value="&quot;Event received: UIBlock.Showed&quot;" />
+        <option value="Event received:" />
+        <option value="tag:AppMetrica " />
+        <option value="=&gt;" />
+        <option value="TitleScreen.SectionObject.Showed =&gt;" />
+        <option value="TitleScreen.SectionObject.Showed" />
+        <option value="showed" />
+        <option value="tag:MarketController" />
+        <option value="market" />
+        <option value="onMarketClick" />
+        <option value="X-coun" />
+        <option value="X-User" />
       </list>
     </option>
   </component>
