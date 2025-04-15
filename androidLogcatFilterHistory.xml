@@ -7,9 +7,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag: DeviceLimitManager" />
+    <option name="mostRecentlyUsed" value="DeviceBinding." />
     <option name="nonFavorites">
       <list>
+        <option value="DeviceBinding." />
         <option value="tag: DeviceLimitManager" />
         <option value="level:error " />
         <option value="tag:Retrofit" />
@@ -29,7 +30,6 @@
         <option value="tag:MarketController" />
         <option value="market" />
         <option value="onMarketClick" />
-        <option value="X-coun" />
       </list>
     </option>
   </component>
