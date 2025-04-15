@@ -7,9 +7,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="DeviceBinding.BindDeviceAndroid =&gt;" />
+    <option name="mostRecentlyUsed" value="bindDeviceAndCheckLimit" />
     <option name="nonFavorites">
       <list>
+        <option value="bindDeviceAndCheckLimit" />
         <option value="DeviceBinding.BindDeviceAndroid =&gt;" />
         <option value="DeviceBinding." />
         <option value="tag: DeviceLimitManager" />
@@ -29,7 +30,6 @@
         <option value="TitleScreen.SectionObject.Showed" />
         <option value="showed" />
         <option value="tag:MarketController" />
-        <option value="market" />
       </list>
     </option>
   </component>
