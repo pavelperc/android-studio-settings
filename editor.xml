@@ -49,7 +49,7 @@
         <entry key="java.method.chains" value="true" />
         <entry key="kotlin.lambdas.hints" value="false" />
         <entry key="kotlin.method.chains" value="false" />
-        <entry key="kotlin.references.types.hints" value="false" />
+        <entry key="kotlin.references.types.hints" value="true" />
         <entry key="kotlin.values.hints" value="true" />
         <entry key="oc.type.hints" value="true" />
       </map>
@@ -94,9 +94,5 @@
         </Settings>
       </kotlin.kotlin.values.hints>
     </settingsMapElement>
-  </component>
-  <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
