@@ -7,9 +7,11 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="bindDeviceAndCheckLimit" />
+    <option name="mostRecentlyUsed" value="=&gt;" />
     <option name="nonFavorites">
       <list>
+        <option value="=&gt;" />
+        <option value="ReaderV2" />
         <option value="bindDeviceAndCheckLimit" />
         <option value="DeviceBinding.BindDeviceAndroid =&gt;" />
         <option value="DeviceBinding." />
@@ -25,11 +27,9 @@
         <option value="&quot;Event received: UIBlock.Showed&quot;" />
         <option value="Event received:" />
         <option value="tag:AppMetrica " />
-        <option value="=&gt;" />
         <option value="TitleScreen.SectionObject.Showed =&gt;" />
         <option value="TitleScreen.SectionObject.Showed" />
         <option value="showed" />
-        <option value="tag:MarketController" />
       </list>
     </option>
   </component>
