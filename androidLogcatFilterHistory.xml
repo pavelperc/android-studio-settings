@@ -7,9 +7,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="=&gt;" />
+    <option name="mostRecentlyUsed" value="tag:InAppReview" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:InAppReview" />
         <option value="=&gt;" />
         <option value="ReaderV2" />
         <option value="bindDeviceAndCheckLimit" />
@@ -29,7 +30,6 @@
         <option value="tag:AppMetrica " />
         <option value="TitleScreen.SectionObject.Showed =&gt;" />
         <option value="TitleScreen.SectionObject.Showed" />
-        <option value="showed" />
       </list>
     </option>
   </component>
