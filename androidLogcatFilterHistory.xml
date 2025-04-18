@@ -7,9 +7,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:InAppReview" />
+    <option name="mostRecentlyUsed" value="tag:ReaderWebView " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ReaderWebView " />
         <option value="tag:InAppReview" />
         <option value="=&gt;" />
         <option value="ReaderV2" />
@@ -19,7 +20,6 @@
         <option value="tag: DeviceLimitManager" />
         <option value="level:error " />
         <option value="tag:Retrofit" />
-        <option value="tag:ReaderWebView " />
         <option value="tag:AppMetrica  =&gt;" />
         <option value="tag:AppMetrica  " />
         <option value="chromi" />
