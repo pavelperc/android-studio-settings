@@ -7,9 +7,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:ReaderWebView " />
+    <option name="mostRecentlyUsed" value="tag:AppMetrica =&gt;" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:AppMetrica =&gt;" />
         <option value="tag:ReaderWebView " />
         <option value="tag:InAppReview" />
         <option value="=&gt;" />
@@ -29,7 +30,6 @@
         <option value="Event received:" />
         <option value="tag:AppMetrica " />
         <option value="TitleScreen.SectionObject.Showed =&gt;" />
-        <option value="TitleScreen.SectionObject.Showed" />
       </list>
     </option>
   </component>
