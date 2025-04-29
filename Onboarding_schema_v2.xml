@@ -1,0 +1,9 @@
+<application>
+  <component name="OnboardingState">
+    <option name="taskCompletionMap">
+      <map>
+        <entry key="ASK_QUESTION" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

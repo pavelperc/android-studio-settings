@@ -1,5 +1,5 @@
 <application>
   <component name="CodeGPT_AnthropicSettings">
-    <option name="host" value="http://api.eliza.yandex.net/raw/anthropic" />
+    <option name="host" value="https://api.eliza.yandex.net/raw/anthropic" />
   </component>
 </application>

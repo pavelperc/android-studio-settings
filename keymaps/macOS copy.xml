@@ -2,12 +2,14 @@
   <action id="ActivateRunningDevicesToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="Android.Designer.AutoArrange" />
   <action id="Android.SyncProject">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="Arcanum.File.Browse">
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="CheckinProject" />
   <action id="ClassNameCompletion">
     <keyboard-shortcut first-keystroke="ctrl alt space" />
     <keyboard-shortcut first-keystroke="shift alt space" />
@@ -41,6 +43,7 @@
   <action id="FileChooserList.LevelUp" />
   <action id="FindNext" />
   <action id="GotoBookmark1" />
+  <action id="GotoLine" />
   <action id="GotoSymbol" />
   <action id="Jdbc.OpenEditor.Data">
     <keyboard-shortcut first-keystroke="f4" />
@@ -85,6 +88,7 @@
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
+  <action id="ShowProjectStructureSettings" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="meta alt f7" />
     <keyboard-shortcut first-keystroke="shift meta b" />
@@ -95,10 +99,25 @@
   </action>
   <action id="SwitcherIterateItems" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="Terminal.ClearBuffer" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta e" />
+  </action>
+  <action id="android.device.rotate.left" />
+  <action id="android.emulator.xr.location.in.space.xy">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="com.github.firebender.androidstudiocopilot">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="com.github.firebender.androidstudiocopilot.followup">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
+  <action id="com.github.firebender.androidstudiocopilotcmdk">
+    <keyboard-shortcut first-keystroke="meta k" />
   </action>
 </keymap>

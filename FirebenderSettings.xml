@@ -1,0 +1,11 @@
+<application>
+  <component name="FirebenderSettings">
+    <option name="apiSettings">
+      <FirebenderAPISettingsState>
+        <option name="anthropicAPIKey" value="y1__xCt5KSRpdT-ARiuKyC9_9QCZQ0FxnQCgk-W-KLNow3nSN_f7wI " />
+        <option name="anthropicBaseURL" value="https://api.eliza.yandex.net/raw/anthropic" />
+      </FirebenderAPISettingsState>
+    </option>
+    <option name="installationTimestamp" value="1745932170916" />
+  </component>
+</application>
