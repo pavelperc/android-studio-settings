@@ -6,6 +6,12 @@
         <option name="anthropicBaseURL" value="https://api.eliza.yandex.net/raw/anthropic" />
       </FirebenderAPISettingsState>
     </option>
+    <option name="editorSettings">
+      <FirebenderEditorSettingsState>
+        <option name="autocompleteEnabled" value="false" />
+        <option name="tooltipsEnabled" value="false" />
+      </FirebenderEditorSettingsState>
+    </option>
     <option name="installationTimestamp" value="1745932170916" />
   </component>
 </application>
