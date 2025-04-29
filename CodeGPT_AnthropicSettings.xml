@@ -1,5 +1,6 @@
 <application>
   <component name="CodeGPT_AnthropicSettings">
-    <option name="host" value="https://api.eliza.yandex.net/raw/anthropic" />
+    <option name="baseHost" value="https://api.eliza.yandex.net/raw/anthropic" />
+    <option name="model" value="claude-3-7-sonnet-20250219" />
   </component>
 </application>

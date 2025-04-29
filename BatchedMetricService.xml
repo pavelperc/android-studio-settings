@@ -1,0 +1,28 @@
+<application>
+  <component name="BatchedMetricService">
+    <option name="metrics">
+      <map>
+        <entry key="1745931600000">
+          <value>
+            <map>
+              <entry key="completion_sent">
+                <value>
+                  <map>
+                    <entry key="followup=false;hit_stream_cache=false;model=deepseek-ai/DeepSeek-V2.5-1210;provider=gcp">
+                      <value>
+                        <MetricAggregation>
+                          <option name="count" value="1" />
+                          <option name="totalLength" value="8" />
+                        </MetricAggregation>
+                      </value>
+                    </entry>
+                  </map>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

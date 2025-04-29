@@ -3,6 +3,7 @@
     <option name="taskCompletionMap">
       <map>
         <entry key="ASK_QUESTION" value="true" />
+        <entry key="PROMPT_INLINE_EDIT" value="true" />
       </map>
     </option>
   </component>
