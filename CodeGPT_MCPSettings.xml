@@ -1,0 +1,5 @@
+<application>
+  <component name="CodeGPT_MCPSettings">
+    <option name="configuration" value="{&#10;  &quot;mcpServers&quot;: {&#10;    &quot;jetbrains&quot;: {&#10;      &quot;command&quot;: &quot;/opt/homebrew/bin/npx&quot;,&#10;      &quot;args&quot;: [&#10;        &quot;-y&quot;,&#10;        &quot;@jetbrains/mcp-proxy&quot;&#10;      ],&#10;      &quot;env&quot;: {&#10;        &quot;PATH&quot;: &quot;/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin&quot;&#10;      }&#10;    }&#10;  }&#10;}" />
+  </component>
+</application>
