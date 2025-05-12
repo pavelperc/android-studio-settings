@@ -7,14 +7,16 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="tag:Retrofit " />
+    <option name="mostRecentlyUsed" value="=&gt;" />
     <option name="nonFavorites">
       <list>
+        <option value="=&gt;" />
+        <option value="ReaderV2." />
+        <option value="tag:AppMetrica" />
         <option value="tag:Retrofit " />
         <option value="tag:AppMetrica =&gt;" />
         <option value="tag:ReaderWebView " />
         <option value="tag:InAppReview" />
-        <option value="=&gt;" />
         <option value="ReaderV2" />
         <option value="bindDeviceAndCheckLimit" />
         <option value="DeviceBinding.BindDeviceAndroid =&gt;" />
@@ -28,8 +30,6 @@
         <option value="tag:" />
         <option value="&quot;Event received: UIBlock&quot;" />
         <option value="&quot;Event received: UIBlock.Showed&quot;" />
-        <option value="Event received:" />
-        <option value="tag:AppMetrica " />
       </list>
     </option>
   </component>
