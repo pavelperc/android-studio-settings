@@ -7,9 +7,11 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="Event received: ReaderV2.JsSequencePerformance" />
+    <option name="mostRecentlyUsed" value="=&gt;" />
     <option name="nonFavorites">
       <list>
+        <option value="=&gt;" />
+        <option value="aaaaaaaa" />
         <option value="Event received: ReaderV2.JsSequencePerformance" />
         <option value="ReaderV2.JsSequencePerformance" />
         <option value="onSequencePerformance" />
@@ -19,7 +21,6 @@
         <option value="chrom" />
         <option value="JsSequencePerformance" />
         <option value="ReaderV2.OpenSuccess" />
-        <option value="=&gt;" />
         <option value="DebugInfo.ReaderLastOpenDiff =&gt;" />
         <option value="screenWidth" />
         <option value="411" />
@@ -29,7 +30,6 @@
         <option value="tag:AppMetrica" />
         <option value="tag:Retrofit " />
         <option value="tag:AppMetrica =&gt;" />
-        <option value="tag:ReaderWebView " />
       </list>
     </option>
   </component>
