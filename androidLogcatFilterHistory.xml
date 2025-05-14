@@ -7,11 +7,20 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="DebugInfo.ReaderLastOpenDiff =&gt;" />
+    <option name="mostRecentlyUsed" value="Event received: ReaderV2.JsSequencePerformance" />
     <option name="nonFavorites">
       <list>
-        <option value="DebugInfo.ReaderLastOpenDiff =&gt;" />
+        <option value="Event received: ReaderV2.JsSequencePerformance" />
+        <option value="ReaderV2.JsSequencePerformance" />
+        <option value="onSequencePerformance" />
+        <option value="&quot;%c {&quot;name&quot;:" />
+        <option value="tag:chromium" />
+        <option value="INFO:CONSOLE" />
+        <option value="chrom" />
+        <option value="JsSequencePerformance" />
+        <option value="ReaderV2.OpenSuccess" />
         <option value="=&gt;" />
+        <option value="DebugInfo.ReaderLastOpenDiff =&gt;" />
         <option value="screenWidth" />
         <option value="411" />
         <option value="package:mine width" />
@@ -21,15 +30,6 @@
         <option value="tag:Retrofit " />
         <option value="tag:AppMetrica =&gt;" />
         <option value="tag:ReaderWebView " />
-        <option value="tag:InAppReview" />
-        <option value="ReaderV2" />
-        <option value="bindDeviceAndCheckLimit" />
-        <option value="DeviceBinding.BindDeviceAndroid =&gt;" />
-        <option value="DeviceBinding." />
-        <option value="tag: DeviceLimitManager" />
-        <option value="level:error " />
-        <option value="tag:Retrofit" />
-        <option value="tag:AppMetrica  =&gt;" />
       </list>
     </option>
   </component>
