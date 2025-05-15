@@ -7,9 +7,10 @@
         <option value="tag~:AppMetrica$" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="=&gt;" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="=&gt;" />
         <option value="aaaaaaaa" />
         <option value="Event received: ReaderV2.JsSequencePerformance" />
@@ -29,7 +30,6 @@
         <option value="ReaderV2." />
         <option value="tag:AppMetrica" />
         <option value="tag:Retrofit " />
-        <option value="tag:AppMetrica =&gt;" />
       </list>
     </option>
   </component>
