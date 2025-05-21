@@ -3,9 +3,9 @@
     <columns>
       <column-info name="URL" width-ratio="0.25" visible="false" />
       <column-info name="Name" width-ratio="0.2585410895660203" visible="false" />
-      <column-info name="Path" width-ratio="0.5133079847908745" />
+      <column-info name="Path" width-ratio="0.6178707224334601" />
       <column-info name="Host" width-ratio="0.1" visible="false" />
-      <column-info name="Method" width-ratio="0.14068441064638784" />
+      <column-info name="Method" width-ratio="0.11787072243346007" />
       <column-info name="Scheme" width-ratio="0.1394275161588181" visible="false" />
       <column-info name="Transport" width-ratio="0.05" visible="false" />
       <column-info name="Request Size" width-ratio="0.05" visible="false" />
@@ -13,8 +13,8 @@
       <column-info name="Request Headers" width-ratio="0.05" visible="false" />
       <column-info name="Response Headers" width-ratio="0.05" visible="false" />
       <column-info name="Type" width-ratio="0.26869806094182824" visible="false" />
-      <column-info name="Status" width-ratio="0.17300380228136883" />
-      <column-info name="Time" width-ratio="0.17300380228136883" />
+      <column-info name="Status" width-ratio="0.13307984790874525" />
+      <column-info name="Time" width-ratio="0.1311787072243346" />
       <column-info name="Request Time" width-ratio="0.16104868913857678" visible="false" />
       <column-info name="Response Time" width-ratio="0.05" visible="false" />
       <column-info name="Timeline" width-ratio="0.26500461680517085" visible="false" />
