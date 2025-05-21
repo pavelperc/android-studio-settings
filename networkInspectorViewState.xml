@@ -2,22 +2,22 @@
   <component name="NetworkInspectorViewState">
     <columns>
       <column-info name="URL" width-ratio="0.25" visible="false" />
-      <column-info name="Name" width-ratio="0.1966824644549763" />
-      <column-info name="Path" width-ratio="0.09107806691449814" visible="false" />
+      <column-info name="Name" width-ratio="0.2585410895660203" visible="false" />
+      <column-info name="Path" width-ratio="0.6634980988593155" />
       <column-info name="Host" width-ratio="0.1" visible="false" />
-      <column-info name="Method" width-ratio="0.05" visible="false" />
-      <column-info name="Scheme" width-ratio="0.05" visible="false" />
+      <column-info name="Method" width-ratio="0.0779467680608365" />
+      <column-info name="Scheme" width-ratio="0.1394275161588181" visible="false" />
       <column-info name="Transport" width-ratio="0.05" visible="false" />
       <column-info name="Request Size" width-ratio="0.05" visible="false" />
-      <column-info name="Size" width-ratio="0.20023696682464456" />
+      <column-info name="Size" width-ratio="0.21791320406278855" visible="false" />
       <column-info name="Request Headers" width-ratio="0.05" visible="false" />
       <column-info name="Response Headers" width-ratio="0.05" visible="false" />
-      <column-info name="Type" width-ratio="0.19786729857819904" />
-      <column-info name="Status" width-ratio="0.20260663507109006" />
-      <column-info name="Time" width-ratio="0.20260663507109006" />
+      <column-info name="Type" width-ratio="0.26869806094182824" visible="false" />
+      <column-info name="Status" width-ratio="0.12927756653992395" />
+      <column-info name="Time" width-ratio="0.12927756653992395" />
       <column-info name="Request Time" width-ratio="0.16104868913857678" visible="false" />
       <column-info name="Response Time" width-ratio="0.05" visible="false" />
-      <column-info name="Timeline" width-ratio="0.17100371747211895" visible="false" />
+      <column-info name="Timeline" width-ratio="0.26500461680517085" visible="false" />
     </columns>
   </component>
 </application>
