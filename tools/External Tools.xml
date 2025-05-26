@@ -1,8 +1,8 @@
 <toolSet name="External Tools">
   <tool name="run detekt" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="./gradlew" />
-      <option name="PARAMETERS" value="detekt" />
+      <option name="COMMAND" value=".idea/run_detekt.sh" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
