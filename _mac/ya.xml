@@ -1,5 +1,10 @@
 <application>
   <component name="Arc.Application.Settings">
     <option name="arcPath" value="/opt/homebrew/bin/arc" />
+    <option name="vcsRootMapping">
+      <map>
+        <entry key="$ARCADIA_ROOT$/bookmate/android/.idea/misc.xml" value="$ARCADIA_ROOT$" />
+      </map>
+    </option>
   </component>
 </application>
